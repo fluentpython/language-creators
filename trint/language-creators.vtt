@@ -1,0 +1,8522 @@
+WEBVTT
+
+1
+00:00:00.530 --> 00:00:01.729
+You guys ready some language
+
+2
+00:00:01.730 --> 00:00:02.730
+creator.
+
+3
+00:00:07.700 --> 00:00:09.669
+I have further to introduce
+
+4
+00:00:09.940 --> 00:00:10.940
+Carol Willey.
+
+5
+00:00:11.420 --> 00:00:13.089
+She is a python during counseling
+
+6
+00:00:13.090 --> 00:00:14.589
+Project Jupiter Steering Council
+
+7
+00:00:14.590 --> 00:00:15.590
+member.
+
+8
+00:00:15.610 --> 00:00:17.129
+She blends the strings of pythonic.
+
+9
+00:00:17.140 --> 00:00:18.759
+Jupiter notebook's to improve access
+
+10
+00:00:18.760 --> 00:00:19.929
+to learning and education
+
+11
+00:00:20.730 --> 00:00:22.179
+due to the worldwide foundation of
+
+12
+00:00:22.180 --> 00:00:22.989
+the Pyfrom language.
+
+13
+00:00:22.990 --> 00:00:24.339
+The hard work of the Jupiter team
+
+14
+00:00:24.410 --> 00:00:25.410
+users worldwide.
+
+15
+00:00:25.570 --> 00:00:26.679
+Carroll was awarded the Twenty
+
+16
+00:00:26.680 --> 00:00:28.659
+Seventeen ACM Software System
+
+17
+00:00:28.660 --> 00:00:30.130
+Award, recognizing the lasting
+
+18
+00:00:30.850 --> 00:00:32.228
+influence of Jupiter, a broad
+
+19
+00:00:32.229 --> 00:00:34.149
+collaboration to develop its open
+
+20
+00:00:34.150 --> 00:00:35.522
+source tools for interactive
+
+21
+00:00:35.560 --> 00:00:37.226
+computing with a language agnostic
+
+22
+00:00:37.840 --> 00:00:38.619
+design.
+
+23
+00:00:38.620 --> 00:00:39.620
+Thank you.
+
+24
+00:00:47.800 --> 00:00:49.630
+Welcome, everybody, for being here.
+
+25
+00:00:49.720 --> 00:00:51.639
+It is my absolute
+
+26
+00:00:51.850 --> 00:00:54.009
+pleasure to share this evening.
+
+27
+00:00:54.040 --> 00:00:55.040
+You and some
+
+28
+00:00:55.870 --> 00:00:57.249
+of the people that actually
+
+29
+00:00:57.250 --> 00:00:59.289
+influenced my career in software
+
+30
+00:00:59.290 --> 00:01:00.290
+development.
+
+31
+00:01:01.180 --> 00:01:03.010
+So let's get through this.
+
+32
+00:01:03.220 --> 00:01:04.641
+And for those of you that are
+
+33
+00:01:04.810 --> 00:01:06.099
+watching us on the lifespan.
+
+34
+00:01:06.520 --> 00:01:08.590
+Hello and welcome and
+
+35
+00:01:08.770 --> 00:01:10.419
+hope you have a wonderful evening
+
+36
+00:01:10.420 --> 00:01:11.420
+with us.
+
+37
+00:01:12.160 --> 00:01:13.659
+We haven't really distinguished
+
+38
+00:01:13.660 --> 00:01:15.969
+panel of language creators.
+
+39
+00:01:16.060 --> 00:01:17.529
+And I'd like to invite them to the
+
+40
+00:01:17.530 --> 00:01:19.359
+stage as we read
+
+41
+00:01:19.360 --> 00:01:20.409
+their bios. I'm going to keep the
+
+42
+00:01:20.410 --> 00:01:22.689
+bios really short because
+
+43
+00:01:22.810 --> 00:01:24.519
+I think most of them need no
+
+44
+00:01:24.520 --> 00:01:25.969
+introduction whatsoever.
+
+45
+00:01:26.710 --> 00:01:27.886
+And that'll save us some
+
+46
+00:01:28.540 --> 00:01:29.540
+time more.
+
+47
+00:01:29.820 --> 00:01:31.094
+Do you see language design
+
+48
+00:01:31.840 --> 00:01:32.840
+stuff? OK.
+
+49
+00:01:33.190 --> 00:01:35.159
+So first we have been
+
+50
+00:01:35.190 --> 00:01:36.190
+Rassam
+
+51
+00:01:37.030 --> 00:01:39.009
+to develop the Python language that
+
+52
+00:01:39.010 --> 00:01:40.235
+touches pretty much every
+
+53
+00:01:40.870 --> 00:01:42.389
+corner of society today in some
+
+54
+00:01:43.060 --> 00:01:43.949
+way.
+
+55
+00:01:43.950 --> 00:01:45.819
+And it's.
+
+56
+00:01:51.540 --> 00:01:53.510
+He's the creator of Java,
+
+57
+00:01:53.570 --> 00:01:54.991
+which is UK-EU, used across a
+
+58
+00:01:55.400 --> 00:01:57.349
+broad variety of devices and
+
+59
+00:01:57.350 --> 00:01:58.700
+deployments at scale.
+
+60
+00:01:59.590 --> 00:02:00.239
+Well done.
+
+61
+00:02:00.240 --> 00:02:01.540
+And please get a.
+
+62
+00:02:07.740 --> 00:02:09.719
+Childcare has architected
+
+63
+00:02:09.720 --> 00:02:11.435
+a number of languages over the past
+
+64
+00:02:11.520 --> 00:02:13.650
+several decades, including
+
+65
+00:02:13.710 --> 00:02:16.079
+Turbo Pascal, Delphi,
+
+66
+00:02:16.170 --> 00:02:17.885
+C-sharp, and so you might know this
+
+67
+00:02:18.120 --> 00:02:19.469
+little language typescript.
+
+68
+00:02:26.580 --> 00:02:27.580
+Definitely not these.
+
+69
+00:02:27.700 --> 00:02:29.790
+Larry Wall to combined
+
+70
+00:02:29.800 --> 00:02:31.025
+his unique perspective on
+
+71
+00:02:31.750 --> 00:02:33.699
+text and computing with
+
+72
+00:02:33.700 --> 00:02:35.589
+his strong background in linguistics
+
+73
+00:02:35.620 --> 00:02:37.449
+to Craig Pearl and its
+
+74
+00:02:37.450 --> 00:02:39.469
+sister sibling Pearl 6.
+
+75
+00:02:39.820 --> 00:02:40.820
+Welcome.
+
+76
+00:02:51.420 --> 00:02:52.420
+So just a couple of
+
+77
+00:02:53.280 --> 00:02:55.139
+housekeeping things about this
+
+78
+00:02:55.140 --> 00:02:56.140
+evening's format.
+
+79
+00:02:57.000 --> 00:02:58.740
+You're in for an engaging
+
+80
+00:02:58.950 --> 00:03:00.539
+and hopefully very lively
+
+81
+00:03:00.540 --> 00:03:02.279
+discussion. More likely than we were
+
+82
+00:03:02.280 --> 00:03:03.280
+at dinner.
+
+83
+00:03:03.300 --> 00:03:04.440
+I think that's possible, right?
+
+84
+00:03:04.910 --> 00:03:05.910
+OK.
+
+85
+00:03:05.940 --> 00:03:06.769
+The format.
+
+86
+00:03:06.770 --> 00:03:07.770
+More beer.
+
+87
+00:03:08.870 --> 00:03:10.379
+OK. We can do that.
+
+88
+00:03:11.280 --> 00:03:12.280
+Keep it coming.
+
+89
+00:03:13.830 --> 00:03:15.055
+OK. So the format will be
+
+90
+00:03:15.750 --> 00:03:17.729
+two sessions with a fifteen minute
+
+91
+00:03:18.300 --> 00:03:19.300
+intermission.
+
+92
+00:03:19.740 --> 00:03:21.539
+What I'll do is I will start by
+
+93
+00:03:21.540 --> 00:03:23.550
+asking one of the panelists a
+
+94
+00:03:23.580 --> 00:03:25.429
+question, and hopefully
+
+95
+00:03:25.430 --> 00:03:27.089
+a response will be like one to two
+
+96
+00:03:27.090 --> 00:03:29.009
+minutes and then kind of throw
+
+97
+00:03:29.010 --> 00:03:30.480
+it open for other panelists to
+
+98
+00:03:30.660 --> 00:03:31.885
+respond and hopefully get
+
+99
+00:03:32.610 --> 00:03:34.169
+a really good discussion going.
+
+100
+00:03:34.500 --> 00:03:35.921
+And the more you discuss, the
+
+101
+00:03:36.360 --> 00:03:37.928
+less I have to ask questions and
+
+102
+00:03:38.220 --> 00:03:40.349
+the more in-depth we can go
+
+103
+00:03:40.410 --> 00:03:41.410
+on the really cool stuff
+
+104
+00:03:43.620 --> 00:03:45.710
+after the 15 minute intermission.
+
+105
+00:03:46.290 --> 00:03:47.290
+We're going to take
+
+106
+00:03:48.120 --> 00:03:50.459
+questions from the audience over
+
+107
+00:03:52.140 --> 00:03:53.789
+a winner
+
+108
+00:03:54.210 --> 00:03:54.839
+Twitter.
+
+109
+00:03:54.840 --> 00:03:56.789
+OK. So tweet out your questions.
+
+110
+00:03:57.090 --> 00:03:59.390
+Hashtag is happy bbf
+
+111
+00:03:59.400 --> 00:04:00.400
+out.
+
+112
+00:04:00.570 --> 00:04:01.746
+And if you can get those
+
+113
+00:04:02.580 --> 00:04:04.349
+in by 8:00, we'll kind of collect
+
+114
+00:04:04.350 --> 00:04:05.399
+them and
+
+115
+00:04:06.870 --> 00:04:08.339
+have some really great audience
+
+116
+00:04:08.340 --> 00:04:09.779
+questions about language creation
+
+117
+00:04:09.780 --> 00:04:10.780
+and language design.
+
+118
+00:04:11.280 --> 00:04:13.439
+So I'm going to
+
+119
+00:04:13.500 --> 00:04:15.629
+invite you to sit back,
+
+120
+00:04:16.260 --> 00:04:18.299
+enjoy a cup of strong Java
+
+121
+00:04:19.070 --> 00:04:20.910
+Sea, start offering responses and
+
+122
+00:04:20.940 --> 00:04:23.100
+insights, learned pearls of wisdom
+
+123
+00:04:23.670 --> 00:04:25.389
+and embrace. The Python program
+
+124
+00:04:25.400 --> 00:04:26.400
+makes it.
+
+125
+00:04:33.190 --> 00:04:34.856
+We'll start the celebration with a
+
+126
+00:04:34.900 --> 00:04:36.566
+question for Kito about principles
+
+127
+00:04:36.990 --> 00:04:38.019
+of language design.
+
+128
+00:04:39.200 --> 00:04:40.621
+You mentioned before, perhaps
+
+129
+00:04:41.170 --> 00:04:43.089
+somewhat jokingly, the Harry
+
+130
+00:04:43.090 --> 00:04:44.829
+Potter theory of language design.
+
+131
+00:04:45.490 --> 00:04:47.205
+What is this theory and what do you
+
+132
+00:04:47.380 --> 00:04:48.729
+see as the key principles of
+
+133
+00:04:48.730 --> 00:04:49.730
+language design?
+
+134
+00:04:57.520 --> 00:04:58.520
+I think you're good to me.
+
+135
+00:04:58.610 --> 00:04:59.610
+Am I good?
+
+136
+00:04:59.620 --> 00:05:00.620
+OK.
+
+137
+00:05:01.800 --> 00:05:03.515
+The Harry Potter theory of language
+
+138
+00:05:03.720 --> 00:05:05.149
+design was close to.
+
+139
+00:05:08.400 --> 00:05:10.709
+I do know that I cannot believe
+
+140
+00:05:10.710 --> 00:05:11.710
+that every detail
+
+141
+00:05:12.740 --> 00:05:14.455
+that J.K. Rowling puts on the first
+
+142
+00:05:14.790 --> 00:05:16.559
+Harry Potter book was
+
+143
+00:05:16.620 --> 00:05:18.480
+intended as.
+
+144
+00:05:20.530 --> 00:05:22.539
+Some important
+
+145
+00:05:22.860 --> 00:05:24.100
+Wolf point game
+
+146
+00:05:25.020 --> 00:05:26.550
+part 6 or 7.
+
+147
+00:05:29.350 --> 00:05:31.239
+And even if J.K.
+
+148
+00:05:31.240 --> 00:05:33.129
+Rowling was such a genius that
+
+149
+00:05:33.130 --> 00:05:34.999
+he hadn't actually owned land, that
+
+150
+00:05:35.180 --> 00:05:36.879
+and that was
+
+151
+00:05:37.410 --> 00:05:39.439
+who I think we found out the
+
+152
+00:05:39.670 --> 00:05:40.670
+FUTHI was.
+
+153
+00:05:44.460 --> 00:05:45.460
+But who won?
+
+154
+00:05:45.610 --> 00:05:46.982
+It was just like a temporary
+
+155
+00:05:47.470 --> 00:05:49.149
+diversion during the train ride.
+
+156
+00:05:49.200 --> 00:05:50.679
+And otherwise, you didn't hear much
+
+157
+00:05:50.680 --> 00:05:52.839
+about the rap with fingerprints
+
+158
+00:05:54.330 --> 00:05:55.099
+in languages.
+
+159
+00:05:55.100 --> 00:05:56.989
+I often.
+
+160
+00:05:57.250 --> 00:05:59.079
+That's exactly how things go.
+
+161
+00:05:59.110 --> 00:06:00.110
+You
+
+162
+00:06:01.260 --> 00:06:03.129
+you choose some detail
+
+163
+00:06:03.760 --> 00:06:05.439
+because you have to commit.
+
+164
+00:06:05.510 --> 00:06:06.510
+You sort of
+
+165
+00:06:07.720 --> 00:06:09.509
+you have to pick keywords.
+
+166
+00:06:09.970 --> 00:06:11.910
+You have to choose a style of
+
+167
+00:06:12.640 --> 00:06:14.559
+coding like you maybe
+
+168
+00:06:14.560 --> 00:06:16.749
+you choose indentation
+
+169
+00:06:16.780 --> 00:06:18.340
+instead of curly braces
+
+170
+00:06:18.720 --> 00:06:19.720
+or maybe you don't.
+
+171
+00:06:22.220 --> 00:06:23.339
+You're a special case,
+
+172
+00:06:25.330 --> 00:06:26.330
+but
+
+173
+00:06:27.570 --> 00:06:28.620
+whatever you do
+
+174
+00:06:29.670 --> 00:06:31.110
+in some way, you're stuck with them
+
+175
+00:06:32.550 --> 00:06:34.499
+and you find new
+
+176
+00:06:34.500 --> 00:06:36.070
+uses of that.
+
+177
+00:06:36.950 --> 00:06:38.770
+That detail that you picked
+
+178
+00:06:38.790 --> 00:06:40.809
+before you knew how important
+
+179
+00:06:40.810 --> 00:06:42.829
+that would be and
+
+180
+00:06:43.100 --> 00:06:45.509
+the sort of the craft of designing
+
+181
+00:06:45.560 --> 00:06:47.620
+the language is on one hand pick
+
+182
+00:06:47.640 --> 00:06:49.379
+your initial set of
+
+183
+00:06:50.250 --> 00:06:51.690
+choices so that
+
+184
+00:06:52.350 --> 00:06:54.269
+there are a lot
+
+185
+00:06:54.330 --> 00:06:55.555
+of possible continuations
+
+186
+00:06:56.520 --> 00:06:57.520
+of the story.
+
+187
+00:06:57.990 --> 00:06:59.490
+The other half of the
+
+188
+00:07:00.600 --> 00:07:02.399
+of the art of language design
+
+189
+00:07:02.430 --> 00:07:04.229
+is going back to your story
+
+190
+00:07:04.260 --> 00:07:05.260
+and
+
+191
+00:07:06.420 --> 00:07:08.579
+inventing creative ways
+
+192
+00:07:08.670 --> 00:07:09.670
+of continuing
+
+193
+00:07:10.590 --> 00:07:12.600
+it in a way that you had not.
+
+194
+00:07:15.420 --> 00:07:16.743
+So I think each of you have
+
+195
+00:07:16.800 --> 00:07:18.959
+languages that span multiple
+
+196
+00:07:18.960 --> 00:07:19.709
+decades.
+
+197
+00:07:19.710 --> 00:07:21.479
+So what are some of the principles
+
+198
+00:07:21.480 --> 00:07:22.480
+that made,
+
+199
+00:07:24.090 --> 00:07:25.949
+you know, so so
+
+200
+00:07:26.670 --> 00:07:28.649
+Javal would sort of on in the.
+
+201
+00:07:30.000 --> 00:07:31.279
+It didn't come out of like a
+
+202
+00:07:31.290 --> 00:07:32.613
+personal passion project or
+
+203
+00:07:33.060 --> 00:07:34.079
+something. It was.
+
+204
+00:07:36.870 --> 00:07:39.029
+From trying to build a prototype,
+
+205
+00:07:39.810 --> 00:07:41.279
+you know, I mean, we were trying to
+
+206
+00:07:41.280 --> 00:07:42.829
+understand it because the.
+
+207
+00:07:48.840 --> 00:07:50.359
+A lot of time talking to people
+
+208
+00:07:50.670 --> 00:07:52.139
+who build software or embedded
+
+209
+00:07:52.140 --> 00:07:53.140
+systems.
+
+210
+00:07:59.800 --> 00:08:01.679
+And you know, what was
+
+211
+00:08:01.680 --> 00:08:03.599
+it in the whole process?
+
+212
+00:08:10.920 --> 00:08:12.870
+How did their systems
+
+213
+00:08:12.890 --> 00:08:14.179
+fit into the universe?
+
+214
+00:08:14.390 --> 00:08:15.860
+It wasn't because I was trying
+
+215
+00:08:16.220 --> 00:08:17.984
+to worry when we were worrying about
+
+216
+00:08:18.080 --> 00:08:19.560
+things outside of data centers.
+
+217
+00:08:22.920 --> 00:08:24.537
+This was a project that had about
+
+218
+00:08:24.750 --> 00:08:26.980
+a dozen people on it and
+
+219
+00:08:26.990 --> 00:08:27.990
+my little.
+
+220
+00:08:28.450 --> 00:08:30.139
+Yeah, but it was my
+
+221
+00:08:30.300 --> 00:08:32.010
+my little piece was
+
+222
+00:08:32.500 --> 00:08:33.809
+what it was was sort of like.
+
+223
+00:08:36.210 --> 00:08:37.450
+You know, we we we we sort of
+
+224
+00:08:37.490 --> 00:08:39.949
+figured out that part of the problem
+
+225
+00:08:40.580 --> 00:08:41.580
+was that.
+
+226
+00:08:43.320 --> 00:08:45.739
+See has issues.
+
+227
+00:08:48.260 --> 00:08:49.260
+And and
+
+228
+00:08:50.700 --> 00:08:52.289
+so I started out so.
+
+229
+00:08:52.340 --> 00:08:54.179
+So out of this
+
+230
+00:08:54.180 --> 00:08:56.490
+like large pie of a project,
+
+231
+00:08:56.550 --> 00:08:57.720
+my slice
+
+232
+00:08:58.380 --> 00:08:59.380
+was.
+
+233
+00:09:01.420 --> 00:09:03.460
+To make things a little easier
+
+234
+00:09:03.470 --> 00:09:04.969
+from a programing language point of
+
+235
+00:09:04.970 --> 00:09:06.440
+view and fix the
+
+236
+00:09:06.980 --> 00:09:08.450
+pain points that came from the
+
+237
+00:09:08.720 --> 00:09:09.919
+programing language part.
+
+238
+00:09:10.010 --> 00:09:11.840
+And it started out as
+
+239
+00:09:13.460 --> 00:09:14.809
+kind of do a better see.
+
+240
+00:09:15.890 --> 00:09:17.350
+And then it and it
+
+241
+00:09:18.320 --> 00:09:19.219
+got out of control.
+
+242
+00:09:19.220 --> 00:09:20.389
+The rest of the project
+
+243
+00:09:22.130 --> 00:09:23.509
+really ended up just providing
+
+244
+00:09:23.510 --> 00:09:24.510
+context.
+
+245
+00:09:25.050 --> 00:09:26.779
+You know, the only thing out of that
+
+246
+00:09:26.780 --> 00:09:28.669
+project that survived was
+
+247
+00:09:28.670 --> 00:09:29.670
+was Java.
+
+248
+00:09:31.670 --> 00:09:34.009
+But but but the fact that it was
+
+249
+00:09:35.210 --> 00:09:37.309
+sort of directed at a set of pain
+
+250
+00:09:37.310 --> 00:09:38.310
+points.
+
+251
+00:09:38.780 --> 00:09:40.201
+But it happened to be it, you
+
+252
+00:09:40.660 --> 00:09:41.660
+know, about
+
+253
+00:09:42.740 --> 00:09:44.089
+people who were living outside of
+
+254
+00:09:44.090 --> 00:09:45.709
+data centers and people who were.
+
+255
+00:09:49.050 --> 00:09:50.422
+Getting shredded by problems
+
+256
+00:09:50.880 --> 00:09:53.640
+with networking and security
+
+257
+00:09:53.730 --> 00:09:54.899
+and reliability.
+
+258
+00:09:56.850 --> 00:09:58.271
+They had to build things that
+
+259
+00:09:58.710 --> 00:10:00.510
+ran in hostile environments
+
+260
+00:10:01.080 --> 00:10:02.549
+like in the homes,
+
+261
+00:10:05.010 --> 00:10:06.010
+which in any home
+
+262
+00:10:07.020 --> 00:10:08.550
+with a child in it is a
+
+263
+00:10:09.090 --> 00:10:11.070
+it is a hostile environment.
+
+264
+00:10:12.560 --> 00:10:14.639
+Speaking of hostile environments,
+
+265
+00:10:15.820 --> 00:10:16.820
+feral.
+
+266
+00:10:20.590 --> 00:10:21.962
+What are some of the guiding
+
+267
+00:10:22.420 --> 00:10:23.860
+principles for designing for a
+
+268
+00:10:24.260 --> 00:10:25.260
+business?
+
+269
+00:10:28.150 --> 00:10:29.150
+I love you, Larry.
+
+270
+00:10:40.880 --> 00:10:42.739
+More and more coming
+
+271
+00:10:42.740 --> 00:10:43.740
+out of this.
+
+272
+00:10:43.760 --> 00:10:44.899
+A computer scientist.
+
+273
+00:10:45.360 --> 00:10:46.389
+So I sort of actively
+
+274
+00:10:47.600 --> 00:10:48.972
+ignored some of the computer
+
+275
+00:10:49.700 --> 00:10:51.289
+science literature of the time and
+
+276
+00:10:51.290 --> 00:10:53.220
+said, well, what can we just talk
+
+277
+00:10:53.240 --> 00:10:54.739
+together? One part of the brain will
+
+278
+00:10:54.740 --> 00:10:56.419
+work more like a natural language
+
+279
+00:10:58.010 --> 00:10:59.190
+instead of. But
+
+280
+00:10:59.840 --> 00:11:00.840
+instead of
+
+281
+00:11:02.180 --> 00:11:03.180
+putting on a
+
+282
+00:11:05.210 --> 00:11:07.100
+campus university campus and
+
+283
+00:11:07.190 --> 00:11:08.629
+deciding world, the walkways would
+
+284
+00:11:08.630 --> 00:11:09.589
+go, we're just going to see where
+
+285
+00:11:09.590 --> 00:11:10.590
+people want to walk.
+
+286
+00:11:10.910 --> 00:11:12.139
+And they put shortcuts in all those
+
+287
+00:11:12.140 --> 00:11:13.610
+places and know that more as a
+
+288
+00:11:13.940 --> 00:11:15.739
+network, not as a terribly
+
+289
+00:11:15.800 --> 00:11:18.049
+orthogonal or computer
+
+290
+00:11:18.050 --> 00:11:19.580
+science or mathematical thing.
+
+291
+00:11:20.190 --> 00:11:21.649
+And then that turned out to be
+
+292
+00:11:23.420 --> 00:11:24.829
+in the right place at the right time
+
+293
+00:11:24.840 --> 00:11:25.840
+for bootstrapping a
+
+294
+00:11:26.660 --> 00:11:27.660
+lot of the web
+
+295
+00:11:29.840 --> 00:11:30.840
+and.
+
+296
+00:11:31.720 --> 00:11:33.249
+It also got used a lot for system
+
+297
+00:11:33.250 --> 00:11:35.290
+administration and so
+
+298
+00:11:37.270 --> 00:11:38.740
+various principles that relate
+
+299
+00:11:39.190 --> 00:11:40.809
+to trying to
+
+300
+00:11:41.590 --> 00:11:43.479
+provide API eyes to everything.
+
+301
+00:11:45.200 --> 00:11:46.629
+I'm trying to be both a good text
+
+302
+00:11:46.630 --> 00:11:47.630
+processing language
+
+303
+00:11:48.580 --> 00:11:50.559
+linguistically, but also
+
+304
+00:11:50.560 --> 00:11:51.649
+a quick Google language.
+
+305
+00:11:51.920 --> 00:11:52.920
+Here's why it was.
+
+306
+00:11:53.630 --> 00:11:54.860
+Kind of very useful,
+
+307
+00:11:55.450 --> 00:11:57.709
+was hasty and there was text
+
+308
+00:11:57.980 --> 00:12:00.080
+and, you
+
+309
+00:12:00.300 --> 00:12:02.129
+know, database seconds that's that
+
+310
+00:12:02.220 --> 00:12:03.109
+needs.
+
+311
+00:12:03.110 --> 00:12:04.219
+And so it was in the right place at
+
+312
+00:12:04.220 --> 00:12:05.220
+the right time.
+
+313
+00:12:06.350 --> 00:12:07.790
+We were very fortunate to
+
+314
+00:12:08.330 --> 00:12:09.770
+have that time because
+
+315
+00:12:10.390 --> 00:12:11.615
+in the 90s it became very
+
+316
+00:12:12.290 --> 00:12:14.509
+stable, a lot of a lot of widespread
+
+317
+00:12:14.520 --> 00:12:16.250
+use. Lot of people were
+
+318
+00:12:16.600 --> 00:12:18.090
+you know, the language itself was
+
+319
+00:12:18.320 --> 00:12:19.447
+stabilizing in the form
+
+320
+00:12:20.330 --> 00:12:21.330
+that it was.
+
+321
+00:12:21.410 --> 00:12:22.759
+But there were a lot of issues
+
+322
+00:12:23.240 --> 00:12:24.240
+and salat.
+
+323
+00:12:24.620 --> 00:12:26.539
+And so in the year 2000,
+
+324
+00:12:26.540 --> 00:12:27.618
+we we took a step back
+
+325
+00:12:28.580 --> 00:12:29.580
+and and
+
+326
+00:12:30.410 --> 00:12:32.220
+and basically said, we're gonna
+
+327
+00:12:32.240 --> 00:12:33.619
+break everything he's breaking.
+
+328
+00:12:33.650 --> 00:12:34.924
+So we kind of did the same
+
+329
+00:12:35.750 --> 00:12:36.750
+thing.
+
+330
+00:12:37.450 --> 00:12:39.150
+You know, it's done the pipeline to
+
+331
+00:12:39.170 --> 00:12:40.934
+the step, except instead of breaking
+
+332
+00:12:41.330 --> 00:12:43.159
+a few things, we decided to
+
+333
+00:12:43.160 --> 00:12:44.369
+break everything here.
+
+334
+00:12:45.200 --> 00:12:46.866
+So we came up with a whole raft of
+
+335
+00:12:46.880 --> 00:12:48.799
+design principles and 50 years since
+
+336
+00:12:48.800 --> 00:12:49.729
+then.
+
+337
+00:12:49.730 --> 00:12:51.169
+By the way, forensics did come up
+
+338
+00:12:51.170 --> 00:12:52.159
+two years ago.
+
+339
+00:12:52.160 --> 00:12:53.160
+It's getting faster.
+
+340
+00:12:54.640 --> 00:12:56.279
+And it's
+
+341
+00:12:56.640 --> 00:12:58.269
+suddenly at the beginning we said we
+
+342
+00:12:58.270 --> 00:12:59.149
+were going to do something
+
+343
+00:12:59.150 --> 00:13:00.559
+impossible and and
+
+344
+00:13:01.020 --> 00:13:02.629
+fail at it could be a very big
+
+345
+00:13:02.630 --> 00:13:04.570
+failure. And so far, this proved
+
+346
+00:13:04.600 --> 00:13:06.669
+me to be that. But in the course
+
+347
+00:13:06.670 --> 00:13:08.059
+of the fail.
+
+348
+00:13:08.340 --> 00:13:09.879
+Yeah. In the course of
+
+349
+00:13:10.220 --> 00:13:12.049
+that, we came up some really
+
+350
+00:13:12.050 --> 00:13:13.519
+interesting list of about 60
+
+351
+00:13:13.520 --> 00:13:15.019
+different design principles.
+
+352
+00:13:19.160 --> 00:13:21.120
+When read, even though I think many
+
+353
+00:13:21.310 --> 00:13:22.970
+of them have already, you know,
+
+354
+00:13:23.790 --> 00:13:25.407
+you know, kill two birds with one
+
+355
+00:13:25.450 --> 00:13:27.190
+stone, pick the right people, you
+
+356
+00:13:27.220 --> 00:13:28.220
+know.
+
+357
+00:13:29.640 --> 00:13:30.940
+It's possible like that.
+
+358
+00:13:31.070 --> 00:13:32.649
+But we came up with some cute ones,
+
+359
+00:13:32.650 --> 00:13:34.559
+like, you think that's cute today?
+
+360
+00:13:38.650 --> 00:13:40.299
+Oh, oh,
+
+361
+00:13:41.030 --> 00:13:42.030
+know.
+
+362
+00:13:43.210 --> 00:13:44.960
+Conserve your brackets because
+
+363
+00:13:45.130 --> 00:13:46.649
+SFE, even Unicode does not have
+
+364
+00:13:47.000 --> 00:13:48.000
+enough brackets
+
+365
+00:13:51.260 --> 00:13:52.534
+that don't reinvent object
+
+366
+00:13:53.240 --> 00:13:54.349
+orientation queerly,
+
+367
+00:13:55.190 --> 00:13:57.199
+which arguably provided
+
+368
+00:13:59.480 --> 00:14:00.901
+no substitute strong features
+
+369
+00:14:01.640 --> 00:14:03.169
+for weak buttons, late binding
+
+370
+00:14:03.170 --> 00:14:04.889
+sometimes oposite programs be.
+
+371
+00:14:09.060 --> 00:14:10.830
+But some of the major ones are,
+
+372
+00:14:11.230 --> 00:14:13.159
+you know, a lot of the stuff is
+
+373
+00:14:13.250 --> 00:14:14.909
+just perfect to screw over time.
+
+374
+00:14:15.360 --> 00:14:16.980
+And, you know,
+
+375
+00:14:18.330 --> 00:14:19.649
+there were a lot of weird magical
+
+376
+00:14:19.650 --> 00:14:21.509
+variables I'm going
+
+377
+00:14:21.510 --> 00:14:22.510
+to.
+
+378
+00:14:23.130 --> 00:14:24.990
+And so.
+
+379
+00:14:27.280 --> 00:14:28.879
+A great deal of the redesign was to
+
+380
+00:14:28.890 --> 00:14:30.360
+say, OK, what is the right peg
+
+381
+00:14:30.820 --> 00:14:31.840
+to hang everything on?
+
+382
+00:14:32.290 --> 00:14:33.370
+Is it off to Korea?
+
+383
+00:14:33.520 --> 00:14:34.892
+Is it something in the works
+
+384
+00:14:35.440 --> 00:14:37.450
+for school or in a larger school?
+
+385
+00:14:37.570 --> 00:14:38.570
+Or what
+
+386
+00:14:39.570 --> 00:14:41.460
+is the right to have each
+
+387
+00:14:41.640 --> 00:14:42.970
+piece of information on?
+
+388
+00:14:43.330 --> 00:14:44.709
+And if we don't have that thing, how
+
+389
+00:14:44.710 --> 00:14:45.710
+do we create it?
+
+390
+00:14:46.810 --> 00:14:47.810
+Great question.
+
+391
+00:14:48.040 --> 00:14:49.363
+And since it's such a great
+
+392
+00:14:50.080 --> 00:14:51.969
+question, Anderson, the spot
+
+393
+00:14:52.410 --> 00:14:54.490
+and Terrence Parr
+
+394
+00:14:54.670 --> 00:14:56.589
+had a quiz about while
+
+395
+00:14:56.590 --> 00:14:58.540
+programmers value simplicity,
+
+396
+00:14:58.740 --> 00:15:00.640
+they more often value
+
+397
+00:15:01.030 --> 00:15:02.590
+powerful functionality.
+
+398
+00:15:02.680 --> 00:15:04.330
+An amazing one liners
+
+399
+00:15:04.750 --> 00:15:06.580
+incurring the cost of complexity.
+
+400
+00:15:07.540 --> 00:15:09.200
+So for express.
+
+401
+00:15:09.710 --> 00:15:10.499
+Yes.
+
+402
+00:15:10.500 --> 00:15:12.460
+So what are your thoughts about
+
+403
+00:15:12.970 --> 00:15:15.250
+simplicity versus complexity
+
+404
+00:15:15.280 --> 00:15:16.539
+and some of the principles that
+
+405
+00:15:16.540 --> 00:15:18.360
+might guide you, as you know?
+
+406
+00:15:18.610 --> 00:15:19.610
+Really?
+
+407
+00:15:22.850 --> 00:15:23.850
+Suppose I.
+
+408
+00:15:26.930 --> 00:15:27.930
+I was always late
+
+409
+00:15:29.280 --> 00:15:31.090
+in doing the language, saying
+
+410
+00:15:31.100 --> 00:15:31.879
+that I've done.
+
+411
+00:15:31.880 --> 00:15:33.320
+Always tried to
+
+412
+00:15:33.770 --> 00:15:35.179
+make it so that there was only one
+
+413
+00:15:35.180 --> 00:15:36.180
+way.
+
+414
+00:15:37.010 --> 00:15:38.889
+So a lot of languages have
+
+415
+00:15:38.920 --> 00:15:40.159
+four different ways of doing
+
+416
+00:15:40.160 --> 00:15:41.509
+something and you pick the wrong
+
+417
+00:15:41.510 --> 00:15:43.640
+one. And then only
+
+418
+00:15:45.080 --> 00:15:46.729
+later you realize you went down the
+
+419
+00:15:46.730 --> 00:15:48.396
+wrong branch and now you've got it
+
+420
+00:15:48.580 --> 00:15:49.319
+back up.
+
+421
+00:15:49.320 --> 00:15:50.549
+And so.
+
+422
+00:15:50.880 --> 00:15:52.820
+So it's not
+
+423
+00:15:52.970 --> 00:15:53.970
+it's not always easy.
+
+424
+00:15:54.530 --> 00:15:55.706
+And I think there's like
+
+425
+00:15:56.360 --> 00:15:58.279
+often we're guilty of creating
+
+426
+00:15:58.280 --> 00:15:59.840
+what I call
+
+427
+00:16:00.140 --> 00:16:01.279
+this thing I call simplex.
+
+428
+00:16:02.470 --> 00:16:03.880
+Take something from blacks,
+
+429
+00:16:04.640 --> 00:16:06.012
+you grab a single wrapper on
+
+430
+00:16:06.570 --> 00:16:08.040
+top of it. That's make the
+
+431
+00:16:08.050 --> 00:16:09.450
+complexity go away, but you're
+
+432
+00:16:09.510 --> 00:16:11.119
+really creating is simplicity.
+
+433
+00:16:11.220 --> 00:16:13.049
+You know, it's just like a
+
+434
+00:16:13.050 --> 00:16:14.700
+bad abstraction on top of
+
+435
+00:16:15.510 --> 00:16:17.100
+another bad abstraction that is
+
+436
+00:16:17.580 --> 00:16:18.580
+simpler.
+
+437
+00:16:19.140 --> 00:16:20.140
+So I don't
+
+438
+00:16:21.030 --> 00:16:22.409
+know. I mean, it's it's
+
+439
+00:16:24.110 --> 00:16:25.869
+we think that as picking up correct
+
+440
+00:16:25.870 --> 00:16:27.299
+default overly complex thing.
+
+441
+00:16:28.810 --> 00:16:30.609
+Yeah. But but I mean,
+
+442
+00:16:31.180 --> 00:16:32.649
+the thing about that, about language
+
+443
+00:16:32.650 --> 00:16:34.880
+design is like like any any decision
+
+444
+00:16:35.670 --> 00:16:37.809
+you have to live with forever.
+
+445
+00:16:38.500 --> 00:16:40.740
+I mean that and in languages
+
+446
+00:16:40.790 --> 00:16:42.659
+you you can always add,
+
+447
+00:16:42.700 --> 00:16:43.899
+but you can never take away.
+
+448
+00:16:44.580 --> 00:16:46.269
+And so you've got to actually, as a
+
+449
+00:16:46.270 --> 00:16:47.529
+language sign up to be very
+
+450
+00:16:47.530 --> 00:16:48.530
+judicious.
+
+451
+00:16:50.920 --> 00:16:52.929
+About reasoning over not
+
+452
+00:16:52.930 --> 00:16:54.519
+so much what to put in, but what not
+
+453
+00:16:54.520 --> 00:16:56.309
+to put it, an army
+
+454
+00:16:56.350 --> 00:16:57.879
+because people come to you all the
+
+455
+00:16:57.880 --> 00:16:59.259
+time. Wouldn't it be great if you
+
+456
+00:16:59.260 --> 00:17:00.419
+could do this with that?
+
+457
+00:17:00.460 --> 00:17:01.389
+Are you going to?
+
+458
+00:17:01.390 --> 00:17:03.309
+Well, yeah, but you can't
+
+459
+00:17:03.730 --> 00:17:05.259
+fundamentally change the nature of
+
+460
+00:17:05.260 --> 00:17:06.519
+the beast. If you created an
+
+461
+00:17:06.520 --> 00:17:08.209
+empirical and an
+
+462
+00:17:08.800 --> 00:17:10.239
+imperative programing language, you
+
+463
+00:17:10.240 --> 00:17:11.469
+can't turn it into a functional
+
+464
+00:17:11.470 --> 00:17:12.299
+program.
+
+465
+00:17:12.300 --> 00:17:14.289
+Show me you can you can borrow from
+
+466
+00:17:14.290 --> 00:17:15.390
+functional programing.
+
+467
+00:17:16.180 --> 00:17:17.809
+But it is what it is.
+
+468
+00:17:17.839 --> 00:17:19.269
+And you gotta stay true to the
+
+469
+00:17:19.270 --> 00:17:20.789
+nature of the beast, or you gotta
+
+470
+00:17:20.800 --> 00:17:21.800
+create a new beast
+
+471
+00:17:22.710 --> 00:17:23.710
+so-to-speak.
+
+472
+00:17:24.990 --> 00:17:25.990
+Right.
+
+473
+00:17:27.250 --> 00:17:28.250
+Any other thoughts?
+
+474
+00:17:29.530 --> 00:17:30.530
+Excuse me?
+
+475
+00:17:30.650 --> 00:17:32.359
+Can we interrupt you or you may have
+
+476
+00:17:32.790 --> 00:17:34.490
+to interrupt any time.
+
+477
+00:17:35.960 --> 00:17:36.960
+So.
+
+478
+00:17:38.040 --> 00:17:39.040
+This is sort
+
+479
+00:17:39.930 --> 00:17:41.819
+of the point about what what
+
+480
+00:17:41.820 --> 00:17:42.820
+do you leave out?
+
+481
+00:17:43.620 --> 00:17:45.479
+And the what I
+
+482
+00:17:45.480 --> 00:17:47.309
+remember in
+
+483
+00:17:47.310 --> 00:17:49.169
+the early days of Python's design,
+
+484
+00:17:50.490 --> 00:17:52.320
+there were so many people
+
+485
+00:17:52.410 --> 00:17:54.380
+who thought they had a good idea.
+
+486
+00:17:58.060 --> 00:18:00.190
+Is sufficiently critical
+
+487
+00:18:00.880 --> 00:18:02.079
+to say no.
+
+488
+00:18:03.880 --> 00:18:04.958
+And so there are a few
+
+489
+00:18:05.920 --> 00:18:06.920
+things that
+
+490
+00:18:08.350 --> 00:18:10.150
+didn't work out at the time,
+
+491
+00:18:10.230 --> 00:18:11.308
+I I haven't learned to
+
+492
+00:18:12.190 --> 00:18:13.079
+say no.
+
+493
+00:18:13.080 --> 00:18:15.039
+And I quickly enough
+
+494
+00:18:15.040 --> 00:18:16.719
+did learn to say no.
+
+495
+00:18:16.750 --> 00:18:18.190
+And I sort of felt
+
+496
+00:18:19.030 --> 00:18:20.030
+like several lines
+
+497
+00:18:21.460 --> 00:18:23.319
+of defense. Like the first line of
+
+498
+00:18:23.320 --> 00:18:25.299
+defense is, hey,
+
+499
+00:18:25.330 --> 00:18:26.799
+you think you need a new language
+
+500
+00:18:26.800 --> 00:18:28.330
+feature, but actually you can
+
+501
+00:18:28.390 --> 00:18:30.109
+already write that typo
+
+502
+00:18:31.930 --> 00:18:33.579
+if you needed the locked right to
+
+503
+00:18:33.580 --> 00:18:34.720
+function or a module.
+
+504
+00:18:35.740 --> 00:18:37.210
+Well, if they say, yeah, but
+
+505
+00:18:37.270 --> 00:18:38.649
+everybody needs that.
+
+506
+00:18:38.800 --> 00:18:40.900
+Well nowadays we say put it on the
+
+507
+00:18:41.590 --> 00:18:42.913
+package repository in those
+
+508
+00:18:43.630 --> 00:18:45.880
+days. I said well maybe
+
+509
+00:18:46.480 --> 00:18:47.919
+you can propose a new standard
+
+510
+00:18:47.920 --> 00:18:48.789
+library module.
+
+511
+00:18:48.790 --> 00:18:50.019
+That's a lot cheaper for the
+
+512
+00:18:50.020 --> 00:18:51.196
+language design than the
+
+513
+00:18:51.910 --> 00:18:52.960
+new language feature.
+
+514
+00:18:54.250 --> 00:18:55.250
+And
+
+515
+00:18:56.170 --> 00:18:58.299
+another line of defense was,
+
+516
+00:18:58.330 --> 00:18:59.920
+well, you can actually write
+
+517
+00:18:59.980 --> 00:19:00.980
+extensions in C
+
+518
+00:19:01.900 --> 00:19:03.999
+or Fortran if you really care to.
+
+519
+00:19:04.930 --> 00:19:06.549
+And you can help yourself that you
+
+520
+00:19:06.550 --> 00:19:07.824
+can modify the behavior of
+
+521
+00:19:08.470 --> 00:19:10.059
+the language in ways that
+
+522
+00:19:10.810 --> 00:19:12.329
+aren't accessible when you just
+
+523
+00:19:12.910 --> 00:19:14.739
+write the pure language.
+
+524
+00:19:14.770 --> 00:19:16.029
+But you can still
+
+525
+00:19:16.600 --> 00:19:17.678
+sort of you can extend
+
+526
+00:19:18.700 --> 00:19:19.876
+it in a way that doesn't
+
+527
+00:19:19.960 --> 00:19:21.609
+fundamentally alter
+
+528
+00:19:22.060 --> 00:19:23.260
+the core language.
+
+529
+00:19:23.980 --> 00:19:25.839
+And if you've tried all those
+
+530
+00:19:25.840 --> 00:19:27.970
+things and and you failed,
+
+531
+00:19:29.230 --> 00:19:31.060
+then maybe you could
+
+532
+00:19:31.150 --> 00:19:32.865
+argue for, well, you have to change
+
+533
+00:19:33.160 --> 00:19:34.539
+something in the core language.
+
+534
+00:19:36.140 --> 00:19:37.859
+Hi, I'm interrupting.
+
+535
+00:19:39.060 --> 00:19:40.109
+I find that
+
+536
+00:19:41.070 --> 00:19:42.739
+whenever I get feedback on
+
+537
+00:19:43.230 --> 00:19:45.009
+whatever whatever it is, program
+
+538
+00:19:45.130 --> 00:19:46.349
+makers, I've been working on it.
+
+539
+00:19:46.450 --> 00:19:48.269
+It's people come to
+
+540
+00:19:48.270 --> 00:19:50.460
+you with a with a particular
+
+541
+00:19:50.520 --> 00:19:52.589
+instance of a problem.
+
+542
+00:19:52.710 --> 00:19:54.229
+And it's your job as a language
+
+543
+00:19:54.240 --> 00:19:56.459
+assignment to tease out the class
+
+544
+00:19:56.550 --> 00:19:58.170
+problem they're talking about
+
+545
+00:19:58.650 --> 00:20:00.539
+and then try to understand whether
+
+546
+00:20:00.540 --> 00:20:02.579
+there is a feature there underneath
+
+547
+00:20:02.580 --> 00:20:03.779
+that you could put in place
+
+548
+00:20:04.440 --> 00:20:06.299
+that is broadly applicable,
+
+549
+00:20:06.960 --> 00:20:08.819
+not just to that one crawl.
+
+550
+00:20:13.770 --> 00:20:16.200
+You're putting in place a class,
+
+551
+00:20:16.350 --> 00:20:17.390
+not an instance suit.
+
+552
+00:20:17.520 --> 00:20:19.219
+So that damn slide.
+
+553
+00:20:20.010 --> 00:20:21.676
+And if all you're talking about is
+
+554
+00:20:21.750 --> 00:20:23.009
+an instance, then you're probably
+
+555
+00:20:23.010 --> 00:20:24.010
+better off.
+
+556
+00:20:28.800 --> 00:20:29.999
+Save your money for power.
+
+557
+00:20:32.700 --> 00:20:33.809
+Actually found this.
+
+558
+00:20:35.320 --> 00:20:37.089
+In the early design of the Perl 6,
+
+559
+00:20:37.090 --> 00:20:38.829
+we asked our CS I expected.
+
+560
+00:20:40.020 --> 00:20:41.829
+Since we got 361,
+
+561
+00:20:42.150 --> 00:20:43.630
+so we have this in spades
+
+562
+00:20:44.670 --> 00:20:45.670
+lately.
+
+563
+00:20:45.720 --> 00:20:47.189
+And, you know, it's completely
+
+564
+00:20:47.190 --> 00:20:48.190
+overwhelming.
+
+565
+00:20:48.260 --> 00:20:49.260
+Until I
+
+566
+00:20:50.120 --> 00:20:51.660
+hit upon this principle,
+
+567
+00:20:53.130 --> 00:20:54.809
+which Anderson alluded to,
+
+568
+00:20:55.170 --> 00:20:56.689
+which is basically a lot of the
+
+569
+00:20:56.940 --> 00:20:57.949
+proposed solution.
+
+570
+00:20:58.180 --> 00:20:59.999
+Yeah, but there is a pain point
+
+571
+00:21:00.000 --> 00:21:01.000
+underneath.
+
+572
+00:21:01.140 --> 00:21:02.849
+And if you look at more enough of
+
+573
+00:21:02.870 --> 00:21:04.769
+these RFD and they haven't
+
+574
+00:21:04.770 --> 00:21:06.485
+seen pain point, there is something
+
+575
+00:21:06.960 --> 00:21:07.960
+you should address.
+
+576
+00:21:08.160 --> 00:21:09.809
+There's some fundamental unification
+
+577
+00:21:09.810 --> 00:21:11.309
+you should do underneath or
+
+578
+00:21:11.760 --> 00:21:13.589
+something that is is
+
+579
+00:21:14.220 --> 00:21:15.779
+clunky that could be fixed.
+
+580
+00:21:16.120 --> 00:21:17.519
+And especially if you're doing a
+
+581
+00:21:17.520 --> 00:21:18.929
+complete redesign that you can think
+
+582
+00:21:18.930 --> 00:21:20.170
+about the sort of.
+
+583
+00:21:34.630 --> 00:21:35.630
+To fix it.
+
+584
+00:21:36.610 --> 00:21:38.029
+How do you know?
+
+585
+00:21:38.060 --> 00:21:40.279
+There were a lot of problems
+
+586
+00:21:40.360 --> 00:21:41.360
+where.
+
+587
+00:22:00.830 --> 00:22:02.509
+Difference that just
+
+588
+00:22:02.920 --> 00:22:04.829
+won a victory with themselves.
+
+589
+00:22:05.170 --> 00:22:06.839
+You get like 40 different.
+
+590
+00:22:35.350 --> 00:22:36.350
+Released.
+
+591
+00:22:36.520 --> 00:22:37.870
+It was really clear in the way
+
+592
+00:22:38.690 --> 00:22:40.569
+that this was like a big
+
+593
+00:22:40.570 --> 00:22:42.730
+issue and
+
+594
+00:22:43.090 --> 00:22:45.189
+you feel dry and I came
+
+595
+00:22:45.190 --> 00:22:46.758
+about as close to spilling blood
+
+596
+00:22:47.140 --> 00:22:49.029
+on this topic as I've
+
+597
+00:22:49.030 --> 00:22:50.030
+got.
+
+598
+00:22:51.330 --> 00:22:52.408
+And, you know, I would
+
+599
+00:22:53.220 --> 00:22:54.220
+much rather.
+
+600
+00:22:55.700 --> 00:22:56.700
+Do something
+
+601
+00:22:57.690 --> 00:22:59.140
+much, rather leave something out
+
+602
+00:22:59.630 --> 00:23:00.880
+there, do something stupid.
+
+603
+00:23:02.440 --> 00:23:04.319
+One of our principals planned to
+
+604
+00:23:04.320 --> 00:23:05.320
+visit Margaret later.
+
+605
+00:23:05.690 --> 00:23:07.430
+Yeah. Well, well,
+
+606
+00:23:07.780 --> 00:23:09.940
+what that means is that that means
+
+607
+00:23:11.410 --> 00:23:12.539
+the opening answer is no.
+
+608
+00:23:12.720 --> 00:23:13.669
+No.
+
+609
+00:23:13.670 --> 00:23:14.089
+Right.
+
+610
+00:23:14.090 --> 00:23:15.409
+And one of the things that happened
+
+611
+00:23:15.410 --> 00:23:17.179
+with like a whole bunch of different
+
+612
+00:23:17.260 --> 00:23:19.000
+outfits and their job
+
+613
+00:23:19.550 --> 00:23:21.167
+was that they kind of turned into
+
+614
+00:23:21.170 --> 00:23:22.170
+competitions
+
+615
+00:23:23.710 --> 00:23:25.819
+and generics
+
+616
+00:23:25.850 --> 00:23:26.950
+and closer to work both.
+
+617
+00:23:27.110 --> 00:23:28.110
+Probably the
+
+618
+00:23:29.420 --> 00:23:31.219
+most hard fought competition.
+
+619
+00:23:31.990 --> 00:23:33.349
+People were writing pretty steep
+
+620
+00:23:33.350 --> 00:23:34.639
+pieces on the topic.
+
+621
+00:23:35.120 --> 00:23:36.739
+And I was like trying them all out.
+
+622
+00:23:38.420 --> 00:23:40.160
+I mean, some had no shortage
+
+623
+00:23:40.730 --> 00:23:42.619
+of smart people at the time, but
+
+624
+00:23:43.040 --> 00:23:44.390
+it's really hard to be
+
+625
+00:23:45.320 --> 00:23:47.269
+a planet full
+
+626
+00:23:47.270 --> 00:23:48.470
+of grad students,
+
+627
+00:23:49.330 --> 00:23:51.140
+even grad students.
+
+628
+00:23:51.350 --> 00:23:52.659
+At some point, I think most kids who
+
+629
+00:23:52.660 --> 00:23:53.519
+were in grad school.
+
+630
+00:23:53.520 --> 00:23:54.520
+That's correct.
+
+631
+00:23:54.860 --> 00:23:56.859
+And in linguistics and linguistics.
+
+632
+00:23:58.790 --> 00:23:59.790
+But it's.
+
+633
+00:24:00.480 --> 00:24:01.640
+Oh, probably
+
+634
+00:24:02.360 --> 00:24:04.519
+20, 30 years ago to say
+
+635
+00:24:04.940 --> 00:24:06.650
+I'm going to write my own language.
+
+636
+00:24:07.310 --> 00:24:09.169
+And people are very different.
+
+637
+00:24:09.410 --> 00:24:10.910
+Back then, the
+
+638
+00:24:11.390 --> 00:24:12.390
+Internet was sort
+
+639
+00:24:13.220 --> 00:24:14.209
+of starting.
+
+640
+00:24:14.210 --> 00:24:16.769
+Maybe not that they're single.
+
+641
+00:24:17.300 --> 00:24:18.460
+I think we have computers.
+
+642
+00:24:18.470 --> 00:24:20.700
+We have cell phones.
+
+643
+00:24:20.930 --> 00:24:22.819
+Nobody cared, but nobody
+
+644
+00:24:22.820 --> 00:24:23.930
+cared. What's all that about?
+
+645
+00:24:24.980 --> 00:24:26.599
+Nobody cared what you did with the
+
+646
+00:24:26.600 --> 00:24:27.600
+eighth that.
+
+647
+00:24:31.630 --> 00:24:32.630
+Decades.
+
+648
+00:24:35.180 --> 00:24:37.499
+But these are languages
+
+649
+00:24:37.530 --> 00:24:38.849
+that persisted.
+
+650
+00:24:39.300 --> 00:24:41.380
+Many changes and
+
+651
+00:24:42.010 --> 00:24:44.109
+they're on different hardware.
+
+652
+00:24:45.300 --> 00:24:47.099
+When you started
+
+653
+00:24:47.370 --> 00:24:49.210
+designing your language, what
+
+654
+00:24:49.230 --> 00:24:50.669
+was the key goal that you were
+
+655
+00:24:50.670 --> 00:24:52.739
+trying to meet versus
+
+656
+00:24:52.740 --> 00:24:54.640
+using some other extinguishment?
+
+657
+00:24:56.570 --> 00:24:57.844
+Well, I mean, for me, it's
+
+658
+00:24:58.460 --> 00:25:00.309
+never been people.
+
+659
+00:25:01.730 --> 00:25:03.980
+And one of the secrets of success
+
+660
+00:25:04.010 --> 00:25:05.010
+is try to solve as
+
+661
+00:25:05.930 --> 00:25:07.749
+many problems at once as you can.
+
+662
+00:25:08.690 --> 00:25:10.279
+And, you know, if there's just
+
+663
+00:25:10.550 --> 00:25:12.859
+one problem, there's probably
+
+664
+00:25:12.860 --> 00:25:13.940
+an easier way.
+
+665
+00:25:17.350 --> 00:25:18.350
+Right.
+
+666
+00:25:19.270 --> 00:25:20.270
+Right.
+
+667
+00:25:20.640 --> 00:25:22.749
+You think that way you'll never
+
+668
+00:25:22.750 --> 00:25:23.760
+have a new program.
+
+669
+00:25:25.380 --> 00:25:26.609
+Well, there's always a better
+
+670
+00:25:26.610 --> 00:25:27.950
+solution in the 300.
+
+671
+00:25:27.990 --> 00:25:29.970
+Well, it depends on how much
+
+672
+00:25:30.000 --> 00:25:31.000
+you pay.
+
+673
+00:25:31.050 --> 00:25:32.339
+Chasing down memory,
+
+674
+00:25:32.950 --> 00:25:33.950
+corruption.
+
+675
+00:25:34.050 --> 00:25:35.050
+But
+
+676
+00:25:35.930 --> 00:25:37.529
+the three virtues of the program
+
+677
+00:25:37.530 --> 00:25:39.510
+are. Blasi This impatience
+
+678
+00:25:39.540 --> 00:25:40.589
+and cupids
+
+679
+00:25:42.350 --> 00:25:43.409
+takes Kupers.
+
+680
+00:25:46.290 --> 00:25:47.579
+The world needs another program
+
+681
+00:25:47.920 --> 00:25:48.920
+like.
+
+682
+00:25:51.150 --> 00:25:52.150
+Is that a code?
+
+683
+00:25:53.160 --> 00:25:54.299
+But the thing about programing
+
+684
+00:25:54.300 --> 00:25:56.009
+language is that I think a lot of
+
+685
+00:25:56.010 --> 00:25:57.989
+people don't realize that every
+
+686
+00:25:57.990 --> 00:25:59.730
+programing language is about
+
+687
+00:26:00.240 --> 00:26:01.580
+90 percent the same
+
+688
+00:26:02.220 --> 00:26:03.869
+and maybe 10 percent
+
+689
+00:26:04.590 --> 00:26:05.590
+if you're lucky.
+
+690
+00:26:06.630 --> 00:26:08.249
+And a lot of people get very focused
+
+691
+00:26:08.250 --> 00:26:09.959
+on the 10 percent new and forget
+
+692
+00:26:09.960 --> 00:26:11.390
+about the 90 percent of the same.
+
+693
+00:26:12.060 --> 00:26:13.559
+That makes it at great length.
+
+694
+00:26:13.770 --> 00:26:14.159
+Right.
+
+695
+00:26:14.160 --> 00:26:16.140
+I mean, there's a lot of hard
+
+696
+00:26:16.230 --> 00:26:17.896
+or you work in creating programing
+
+697
+00:26:18.060 --> 00:26:19.760
+language, loss, semantics that
+
+698
+00:26:19.910 --> 00:26:21.059
+it's got to worry about.
+
+699
+00:26:21.120 --> 00:26:23.009
+And like everyone and loves
+
+700
+00:26:23.010 --> 00:26:24.239
+to talk about syntax
+
+701
+00:26:25.760 --> 00:26:27.839
+and syntax is the easy part.
+
+702
+00:26:27.900 --> 00:26:29.849
+Semantics is the hard part.
+
+703
+00:26:30.540 --> 00:26:31.979
+You know, like how do the types of
+
+704
+00:26:31.980 --> 00:26:33.940
+work and one of one only dogbone
+
+705
+00:26:35.130 --> 00:26:36.689
+supported promotions and one of the
+
+706
+00:26:36.690 --> 00:26:38.729
+different kinds of type constructors
+
+707
+00:26:38.730 --> 00:26:40.319
+that the language, as etc.
+
+708
+00:26:40.380 --> 00:26:41.999
+said are these are the hard things
+
+709
+00:26:42.000 --> 00:26:44.229
+to do to design.
+
+710
+00:26:44.330 --> 00:26:46.019
+But, but but not the things that
+
+711
+00:26:46.020 --> 00:26:48.089
+people people love to bike
+
+712
+00:26:48.090 --> 00:26:49.539
+shed on the syntax, you know,
+
+713
+00:26:49.560 --> 00:26:51.510
+shouldn't be a colon or or
+
+714
+00:26:51.630 --> 00:26:52.239
+comma.
+
+715
+00:26:52.240 --> 00:26:53.690
+You know, it's like, oh my God,
+
+716
+00:26:54.160 --> 00:26:55.859
+it's have a long thread about that.
+
+717
+00:26:58.360 --> 00:27:00.250
+So talking about
+
+718
+00:27:00.640 --> 00:27:02.799
+people having opinions and
+
+719
+00:27:02.800 --> 00:27:03.999
+syntax and
+
+720
+00:27:04.700 --> 00:27:05.700
+typing.
+
+721
+00:27:08.560 --> 00:27:10.570
+These languages don't all
+
+722
+00:27:11.140 --> 00:27:13.119
+take the same approach to typing.
+
+723
+00:27:14.200 --> 00:27:15.359
+Maybe we'll start with veto
+
+724
+00:27:16.060 --> 00:27:18.309
+and talk about typing in
+
+725
+00:27:18.760 --> 00:27:20.619
+Python and then
+
+726
+00:27:20.620 --> 00:27:22.509
+kind of work our way around.
+
+727
+00:27:30.700 --> 00:27:32.619
+I mean, I just
+
+728
+00:27:32.620 --> 00:27:34.059
+remember that when
+
+729
+00:27:35.640 --> 00:27:37.900
+Pyfrom first happened,
+
+730
+00:27:38.770 --> 00:27:40.630
+it was not a class.
+
+731
+00:27:41.620 --> 00:27:43.510
+It was a little conversion function.
+
+732
+00:27:43.780 --> 00:27:45.069
+There was an internal
+
+733
+00:27:45.760 --> 00:27:47.739
+object type, which was really
+
+734
+00:27:47.740 --> 00:27:49.630
+just kind of a Zite table
+
+735
+00:27:50.890 --> 00:27:53.109
+that represented integer objects.
+
+736
+00:27:55.250 --> 00:27:57.400
+And there was a built in function
+
+737
+00:27:57.440 --> 00:27:59.660
+if you needed to convert the string
+
+738
+00:27:59.690 --> 00:28:01.219
+to an integer and that
+
+739
+00:28:02.000 --> 00:28:03.323
+was we had a bunch of those
+
+740
+00:28:03.890 --> 00:28:04.890
+functions
+
+741
+00:28:06.350 --> 00:28:08.420
+and we realized that we
+
+742
+00:28:09.710 --> 00:28:10.999
+we had made a mistake.
+
+743
+00:28:11.030 --> 00:28:12.304
+We had given users classes
+
+744
+00:28:13.040 --> 00:28:14.930
+that were
+
+745
+00:28:16.040 --> 00:28:17.363
+different from the built in
+
+746
+00:28:17.900 --> 00:28:19.000
+object types.
+
+747
+00:28:20.500 --> 00:28:22.439
+And for a long time, it was like,
+
+748
+00:28:22.560 --> 00:28:23.560
+oh, well, like the
+
+749
+00:28:24.420 --> 00:28:25.645
+real stuff is implemented
+
+750
+00:28:26.460 --> 00:28:27.460
+in C and the user
+
+751
+00:28:28.680 --> 00:28:30.199
+writes a little bit of blue top
+
+752
+00:28:30.660 --> 00:28:32.009
+of that. And when
+
+753
+00:28:32.970 --> 00:28:34.489
+when I found out that we had 80
+
+754
+00:28:35.130 --> 00:28:38.040
+different competing web frameworks,
+
+755
+00:28:42.270 --> 00:28:44.270
+it was sort of time to
+
+756
+00:28:44.510 --> 00:28:46.225
+to realize that people were writing
+
+757
+00:28:46.470 --> 00:28:48.920
+much larger programs.
+
+758
+00:28:49.020 --> 00:28:51.299
+And that's a different approach.
+
+759
+00:28:51.300 --> 00:28:52.680
+Two types was needed.
+
+760
+00:28:52.770 --> 00:28:54.420
+And that's where we sort of
+
+761
+00:28:55.170 --> 00:28:57.299
+reinvented the whole approach
+
+762
+00:28:57.300 --> 00:28:58.550
+to types in Python.
+
+763
+00:29:01.050 --> 00:29:02.680
+And there was a bunch of cleanup
+
+764
+00:29:02.700 --> 00:29:04.569
+that didn't happen until 5 3,
+
+765
+00:29:04.570 --> 00:29:05.529
+actually.
+
+766
+00:29:05.530 --> 00:29:07.799
+But one of the things we introduced
+
+767
+00:29:07.890 --> 00:29:08.968
+and we were lucky that
+
+768
+00:29:09.720 --> 00:29:11.700
+there weren't actually despite those
+
+769
+00:29:11.760 --> 00:29:13.319
+80 web frameworks, there weren't
+
+770
+00:29:13.380 --> 00:29:15.420
+enough users that
+
+771
+00:29:16.080 --> 00:29:17.969
+we were completely stymied by
+
+772
+00:29:17.970 --> 00:29:19.289
+backwards compatibility.
+
+773
+00:29:19.450 --> 00:29:21.029
+Yet like we are now.
+
+774
+00:29:22.660 --> 00:29:24.081
+So we just one day we changed
+
+775
+00:29:24.790 --> 00:29:26.529
+the function into
+
+776
+00:29:26.940 --> 00:29:28.700
+a designated for the class.
+
+777
+00:29:30.790 --> 00:29:32.569
+And sort of
+
+778
+00:29:32.780 --> 00:29:34.660
+followed that calling, the class
+
+779
+00:29:34.710 --> 00:29:36.789
+would be constructing
+
+780
+00:29:36.790 --> 00:29:39.009
+an instance of the class
+
+781
+00:29:39.460 --> 00:29:41.589
+so that if you had simple
+
+782
+00:29:41.590 --> 00:29:43.480
+code that wrote in
+
+783
+00:29:43.570 --> 00:29:45.419
+left brand some expression right.
+
+784
+00:29:47.080 --> 00:29:49.149
+And would work exactly the same way
+
+785
+00:29:49.600 --> 00:29:51.150
+that we have the same effect.
+
+786
+00:29:51.190 --> 00:29:53.079
+But the workings
+
+787
+00:29:53.170 --> 00:29:54.970
+inside were completely different.
+
+788
+00:29:55.040 --> 00:29:57.010
+There was one particular file
+
+789
+00:29:57.040 --> 00:29:58.420
+that's sort of
+
+790
+00:29:59.560 --> 00:30:00.900
+implemented the
+
+791
+00:30:01.720 --> 00:30:03.309
+that's sort of the basic
+
+792
+00:30:03.520 --> 00:30:04.941
+functionality of types in the
+
+793
+00:30:05.170 --> 00:30:06.759
+language and it
+
+794
+00:30:07.030 --> 00:30:08.402
+in for one to it was like 50
+
+795
+00:30:09.010 --> 00:30:10.010
+lines of code.
+
+796
+00:30:10.090 --> 00:30:12.279
+And at some point I rewrote
+
+797
+00:30:12.280 --> 00:30:13.770
+it and it was five thousand by.
+
+798
+00:30:16.560 --> 00:30:17.560
+That's great.
+
+799
+00:30:18.590 --> 00:30:20.359
+What about Titus in Dublin?
+
+800
+00:30:26.970 --> 00:30:28.779
+I got this this this one
+
+801
+00:30:28.800 --> 00:30:31.089
+history of caring about things
+
+802
+00:30:31.090 --> 00:30:32.090
+like.
+
+803
+00:30:37.820 --> 00:30:39.410
+Building robot software
+
+804
+00:30:41.340 --> 00:30:43.499
+often that that
+
+805
+00:30:44.390 --> 00:30:45.900
+that comes out about, you know, I'm
+
+806
+00:30:45.980 --> 00:30:47.450
+much more worried about
+
+807
+00:30:47.960 --> 00:30:49.579
+what it takes to
+
+808
+00:30:50.030 --> 00:30:51.829
+build production quality software
+
+809
+00:30:52.400 --> 00:30:54.109
+than about what it takes, just like
+
+810
+00:30:54.770 --> 00:30:55.940
+you like a quick thing
+
+811
+00:30:56.830 --> 00:30:58.447
+and chuckles not a great language
+
+812
+00:30:58.940 --> 00:30:59.789
+for.
+
+813
+00:30:59.790 --> 00:31:00.819
+Things, but it's it's
+
+814
+00:31:01.610 --> 00:31:03.450
+OK, it's not
+
+815
+00:31:03.570 --> 00:31:05.609
+for me. One of the one of the things
+
+816
+00:31:05.610 --> 00:31:07.359
+that I love to do and
+
+817
+00:31:08.160 --> 00:31:09.240
+maybe I'm weird, but
+
+818
+00:31:10.740 --> 00:31:12.119
+being able to do automatic or
+
+819
+00:31:12.150 --> 00:31:14.009
+improving on hunks of cup
+
+820
+00:31:15.070 --> 00:31:16.420
+and and.
+
+821
+00:31:17.080 --> 00:31:19.179
+Type system is
+
+822
+00:31:19.180 --> 00:31:20.950
+a really great place
+
+823
+00:31:22.000 --> 00:31:24.069
+to be, one of the foundations
+
+824
+00:31:24.630 --> 00:31:26.080
+there begin they're improving
+
+825
+00:31:26.470 --> 00:31:27.470
+it for.
+
+826
+00:31:28.440 --> 00:31:30.329
+Four months of code turns out to be
+
+827
+00:31:30.330 --> 00:31:31.979
+really useful for things like
+
+828
+00:31:32.550 --> 00:31:33.550
+building optimized.
+
+829
+00:31:35.340 --> 00:31:37.109
+And doing it
+
+830
+00:31:38.040 --> 00:31:39.059
+ahead of time.
+
+831
+00:31:43.280 --> 00:31:45.299
+To be able to hear
+
+832
+00:31:45.300 --> 00:31:47.720
+improvable way as many
+
+833
+00:31:48.080 --> 00:31:50.220
+things as possible, so
+
+834
+00:31:50.370 --> 00:31:51.650
+satellite like like,
+
+835
+00:31:52.400 --> 00:31:54.289
+you know, one of the not well-known
+
+836
+00:31:54.350 --> 00:31:56.329
+things about about Java is
+
+837
+00:31:56.330 --> 00:31:58.190
+that, you know, in the jobless pack,
+
+838
+00:31:58.310 --> 00:32:00.019
+you know, it says Ouray, subscript
+
+839
+00:32:00.020 --> 00:32:01.900
+checking is always on.
+
+840
+00:32:04.430 --> 00:32:05.930
+But, you know, it's only
+
+841
+00:32:05.960 --> 00:32:07.490
+conceptually all of his all
+
+842
+00:32:08.750 --> 00:32:10.279
+right. But the truth is
+
+843
+00:32:10.660 --> 00:32:12.319
+that there are there's more than on
+
+844
+00:32:12.320 --> 00:32:14.060
+my books or
+
+845
+00:32:14.150 --> 00:32:15.470
+the compiler
+
+846
+00:32:16.970 --> 00:32:18.859
+to improve away
+
+847
+00:32:18.890 --> 00:32:20.690
+almost all index checks.
+
+848
+00:32:22.100 --> 00:32:23.521
+And same thing with like null
+
+849
+00:32:23.810 --> 00:32:25.329
+pointer checks and all kinds of
+
+850
+00:32:25.640 --> 00:32:27.679
+things that look
+
+851
+00:32:27.860 --> 00:32:29.029
+like they're heavy weight,
+
+852
+00:32:30.170 --> 00:32:31.170
+but they're really cheap,
+
+853
+00:32:32.180 --> 00:32:33.769
+you know, so it's a one of the
+
+854
+00:32:33.770 --> 00:32:35.289
+things that I like.
+
+855
+00:32:36.180 --> 00:32:37.400
+I really cared about it.
+
+856
+00:32:37.430 --> 00:32:39.499
+The time was that A plus
+
+857
+00:32:39.500 --> 00:32:41.150
+B should almost always be
+
+858
+00:32:42.280 --> 00:32:43.790
+at most one instruction
+
+859
+00:32:44.690 --> 00:32:46.779
+bonus points for zero instructions.
+
+860
+00:32:49.700 --> 00:32:50.700
+What about after?
+
+861
+00:32:51.450 --> 00:32:52.849
+Well, the thing about zero
+
+862
+00:32:52.850 --> 00:32:54.619
+instructions is often you can like
+
+863
+00:32:54.620 --> 00:32:56.749
+fold them into some weird addressing
+
+864
+00:32:56.750 --> 00:32:57.750
+mode.
+
+865
+00:32:57.980 --> 00:32:58.980
+Right.
+
+866
+00:32:59.200 --> 00:33:00.200
+And.
+
+867
+00:33:00.750 --> 00:33:02.769
+And so
+
+868
+00:33:02.810 --> 00:33:04.500
+in kind of the universe, I'm
+
+869
+00:33:04.650 --> 00:33:05.890
+right, I tend to live.
+
+870
+00:33:07.180 --> 00:33:09.069
+Being able to look
+
+871
+00:33:09.070 --> 00:33:11.019
+at A plus B
+
+872
+00:33:11.020 --> 00:33:12.739
+and realize it's
+
+873
+00:33:12.880 --> 00:33:14.839
+that destruction that all
+
+874
+00:33:14.860 --> 00:33:16.589
+feeds off of the type system.
+
+875
+00:33:17.890 --> 00:33:19.779
+And sometimes you can you
+
+876
+00:33:19.780 --> 00:33:21.969
+can do this with sort of optimistic
+
+877
+00:33:22.940 --> 00:33:24.810
+just-in-time coupon compilation,
+
+878
+00:33:26.110 --> 00:33:27.609
+depending on how far you want to
+
+879
+00:33:27.610 --> 00:33:29.169
+push that. So like the
+
+880
+00:33:29.860 --> 00:33:31.989
+the JavaScript engine
+
+881
+00:33:31.990 --> 00:33:33.819
+in Chrome is
+
+882
+00:33:33.980 --> 00:33:36.220
+is absolutely astonishing
+
+883
+00:33:36.360 --> 00:33:37.910
+for the the
+
+884
+00:33:38.440 --> 00:33:40.479
+kind of core that they go
+
+885
+00:33:40.480 --> 00:33:42.940
+through too optimistically.
+
+886
+00:33:45.120 --> 00:33:47.249
+JavaScript code, but
+
+887
+00:33:48.600 --> 00:33:50.609
+it's also very hard to do those
+
+888
+00:33:50.610 --> 00:33:52.178
+kinds of tricks if you're trying
+
+889
+00:33:52.650 --> 00:33:54.229
+to get into smaller
+
+890
+00:33:54.570 --> 00:33:55.570
+devices.
+
+891
+00:33:56.340 --> 00:33:58.619
+So, you know, there are
+
+892
+00:33:58.650 --> 00:34:00.240
+there are Java compilers that
+
+893
+00:34:00.540 --> 00:34:02.130
+work for machines that only have
+
+894
+00:34:02.160 --> 00:34:03.160
+like.
+
+895
+00:34:06.660 --> 00:34:08.819
+You know, to do that kind of compact
+
+896
+00:34:08.980 --> 00:34:10.352
+distillation, you need every
+
+897
+00:34:11.110 --> 00:34:12.999
+kind of hope that gives you
+
+898
+00:34:13.030 --> 00:34:14.919
+every little every last
+
+899
+00:34:14.920 --> 00:34:16.030
+drop of information.
+
+900
+00:34:16.270 --> 00:34:18.189
+And the earlier, you
+
+901
+00:34:18.190 --> 00:34:20.079
+know, what better job you can do.
+
+902
+00:34:20.489 --> 00:34:22.519
+Right. So speaking
+
+903
+00:34:22.540 --> 00:34:24.339
+of lots of information that one
+
+904
+00:34:24.340 --> 00:34:25.409
+gets, typescript
+
+905
+00:34:26.860 --> 00:34:28.539
+gives you a lot of flexibility
+
+906
+00:34:29.110 --> 00:34:30.110
+and power.
+
+907
+00:34:30.730 --> 00:34:31.809
+What's your general view that
+
+908
+00:34:31.810 --> 00:34:32.810
+typing?
+
+909
+00:34:34.659 --> 00:34:36.227
+Well, let me actually it's funny
+
+910
+00:34:36.610 --> 00:34:37.650
+that you mention
+
+911
+00:34:38.550 --> 00:34:39.550
+cycles and counting.
+
+912
+00:34:39.639 --> 00:34:40.928
+How many? And whenever I do, I
+
+913
+00:34:40.929 --> 00:34:42.460
+remember when I wrote Turbo Pascal,
+
+914
+00:34:42.489 --> 00:34:44.110
+which was all written in C-A-T
+
+915
+00:34:44.260 --> 00:34:45.099
+assembly code.
+
+916
+00:34:45.100 --> 00:34:46.389
+And back in those days,
+
+917
+00:34:46.960 --> 00:34:48.428
+you could literally look up the
+
+918
+00:34:48.429 --> 00:34:50.589
+intel manual on the sidewalk
+
+919
+00:34:50.590 --> 00:34:51.819
+or whatever, you know, and see how
+
+920
+00:34:51.820 --> 00:34:53.529
+many clock cycles every construction
+
+921
+00:34:53.530 --> 00:34:55.239
+took. And actually it would work out
+
+922
+00:34:55.600 --> 00:34:56.600
+just like that.
+
+923
+00:34:56.650 --> 00:34:57.850
+I remember now
+
+924
+00:34:58.690 --> 00:35:00.013
+everything takes zero clock
+
+925
+00:35:00.730 --> 00:35:02.469
+cycles except when it takes a
+
+926
+00:35:02.470 --> 00:35:03.470
+thousand clocks.
+
+927
+00:35:05.200 --> 00:35:06.719
+The memory and it is absolutely
+
+928
+00:35:07.480 --> 00:35:08.269
+impossible.
+
+929
+00:35:08.270 --> 00:35:10.059
+The reason about what I've seen you
+
+930
+00:35:10.060 --> 00:35:11.440
+use execute your code today.
+
+931
+00:35:11.560 --> 00:35:12.820
+That that's just one.
+
+932
+00:35:13.300 --> 00:35:14.979
+Well, it's not impossible,
+
+933
+00:35:15.480 --> 00:35:16.699
+but it's much harder.
+
+934
+00:35:17.090 --> 00:35:18.969
+Yeah, it is a complete pain in
+
+935
+00:35:18.970 --> 00:35:19.970
+the ass.
+
+936
+00:35:21.400 --> 00:35:22.400
+And they don't give
+
+937
+00:35:23.260 --> 00:35:24.129
+you manuals.
+
+938
+00:35:24.130 --> 00:35:25.130
+Not good at all.
+
+939
+00:35:25.140 --> 00:35:26.049
+You don't want to actually
+
+940
+00:35:26.050 --> 00:35:26.949
+understand that.
+
+941
+00:35:26.950 --> 00:35:28.209
+If you need to get the chip
+
+942
+00:35:28.210 --> 00:35:29.210
+diagrams.
+
+943
+00:35:29.330 --> 00:35:31.659
+But but with respect to types,
+
+944
+00:35:31.660 --> 00:35:33.369
+I've always worked on
+
+945
+00:35:33.580 --> 00:35:35.295
+programing languages that have type
+
+946
+00:35:35.440 --> 00:35:35.979
+systems.
+
+947
+00:35:35.980 --> 00:35:37.156
+But it's interesting how
+
+948
+00:35:38.200 --> 00:35:40.479
+it's gone from being type systems
+
+949
+00:35:40.480 --> 00:35:41.480
+far
+
+950
+00:35:42.400 --> 00:35:43.919
+for the code generators sake or
+
+951
+00:35:44.260 --> 00:35:46.079
+type systems for four
+
+952
+00:35:46.380 --> 00:35:48.549
+for, you know, generating
+
+953
+00:35:48.550 --> 00:35:49.550
+errors too.
+
+954
+00:35:50.080 --> 00:35:51.158
+Now I almost view type
+
+955
+00:35:52.150 --> 00:35:53.277
+systems as as a tooling
+
+956
+00:35:54.340 --> 00:35:56.109
+feature, and that's really sort of
+
+957
+00:35:56.320 --> 00:35:57.869
+the thing that has been interesting.
+
+958
+00:35:57.870 --> 00:35:59.290
+High automate for typescript.
+
+959
+00:35:59.350 --> 00:36:00.880
+It is, you know,
+
+960
+00:36:01.660 --> 00:36:03.081
+first of all, starting with a
+
+961
+00:36:03.100 --> 00:36:04.449
+dynamically typed programing
+
+962
+00:36:04.450 --> 00:36:05.799
+language like JavaScript and then
+
+963
+00:36:05.800 --> 00:36:07.869
+trying to add a type system on top
+
+964
+00:36:07.870 --> 00:36:09.000
+of it that
+
+965
+00:36:10.320 --> 00:36:11.692
+that faithfully reflects the
+
+966
+00:36:12.040 --> 00:36:13.363
+semantics of the programing
+
+967
+00:36:13.480 --> 00:36:14.409
+language.
+
+968
+00:36:14.410 --> 00:36:16.179
+And the reason for doing it is
+
+969
+00:36:16.180 --> 00:36:18.159
+actually not because we think type
+
+970
+00:36:18.160 --> 00:36:19.924
+systems are interesting, but because
+
+971
+00:36:19.960 --> 00:36:21.381
+if you think about what it is
+
+972
+00:36:21.820 --> 00:36:24.219
+that powers programmer productivity
+
+973
+00:36:24.220 --> 00:36:25.689
+today, like everyone loves their
+
+974
+00:36:25.690 --> 00:36:26.690
+I.T. like.
+
+975
+00:36:26.710 --> 00:36:28.359
+Whatever you're using, I hope it's
+
+976
+00:36:28.360 --> 00:36:29.289
+Visual Studio code.
+
+977
+00:36:29.290 --> 00:36:31.179
+But putting that if it's
+
+978
+00:36:31.180 --> 00:36:33.249
+not, you know, I am sure
+
+979
+00:36:33.250 --> 00:36:35.289
+you're all like accustomed to things
+
+980
+00:36:35.290 --> 00:36:36.515
+like state completion and
+
+981
+00:36:36.610 --> 00:36:37.933
+refactoring code navigation
+
+982
+00:36:39.010 --> 00:36:40.629
+and go to definition and so forth.
+
+983
+00:36:40.630 --> 00:36:42.129
+And if you think about it, the
+
+984
+00:36:42.130 --> 00:36:44.169
+things that the thing that powers
+
+985
+00:36:44.170 --> 00:36:45.444
+that is semantic knowledge
+
+986
+00:36:46.300 --> 00:36:47.529
+of your code. And the thing that
+
+987
+00:36:47.530 --> 00:36:49.196
+provides the semantic knowledge of
+
+988
+00:36:49.420 --> 00:36:51.820
+your code is a compiler
+
+989
+00:36:51.850 --> 00:36:52.850
+with a type system.
+
+990
+00:36:53.830 --> 00:36:55.480
+And once you add types,
+
+991
+00:36:55.900 --> 00:36:57.321
+you can actually dramatically
+
+992
+00:36:58.090 --> 00:36:59.919
+increase productivity, which
+
+993
+00:37:00.220 --> 00:37:01.690
+in some ways seems counter
+
+994
+00:37:02.230 --> 00:37:03.099
+counter intuitive.
+
+995
+00:37:03.100 --> 00:37:03.399
+Right.
+
+996
+00:37:03.400 --> 00:37:04.929
+I thought like dynamic languages
+
+997
+00:37:04.930 --> 00:37:06.010
+were easier to
+
+998
+00:37:07.120 --> 00:37:08.590
+to to approach because you got
+
+999
+00:37:09.040 --> 00:37:10.479
+rid of the types which was like a
+
+1000
+00:37:10.480 --> 00:37:11.429
+bother all the time.
+
+1001
+00:37:11.430 --> 00:37:13.139
+Well, look, when it turns out that
+
+1002
+00:37:13.360 --> 00:37:15.190
+you can actually be more productive
+
+1003
+00:37:15.220 --> 00:37:16.249
+by by adding types if
+
+1004
+00:37:17.170 --> 00:37:19.179
+you do it in a non-intrusive manner
+
+1005
+00:37:19.210 --> 00:37:20.800
+and if you work hard on doing
+
+1006
+00:37:21.130 --> 00:37:22.959
+good type inference and so forth.
+
+1007
+00:37:23.590 --> 00:37:24.590
+So, so,
+
+1008
+00:37:25.960 --> 00:37:27.249
+so, so, so, so.
+
+1009
+00:37:27.280 --> 00:37:28.989
+So I want to jump in here.
+
+1010
+00:37:30.690 --> 00:37:32.610
+And then I take
+
+1011
+00:37:32.640 --> 00:37:33.640
+over.
+
+1012
+00:37:34.530 --> 00:37:35.853
+So I really, really, really
+
+1013
+00:37:36.670 --> 00:37:38.385
+believe in that point in the in the
+
+1014
+00:37:38.580 --> 00:37:39.580
+in the power tools
+
+1015
+00:37:40.600 --> 00:37:41.800
+for power geeks.
+
+1016
+00:37:44.440 --> 00:37:46.659
+And one of the things that drives
+
+1017
+00:37:46.660 --> 00:37:48.639
+me nuts is
+
+1018
+00:37:48.640 --> 00:37:50.579
+the real man usvi
+
+1019
+00:37:51.600 --> 00:37:52.600
+movement.
+
+1020
+00:37:52.860 --> 00:37:54.669
+And, you know, it's it's really
+
+1021
+00:37:55.490 --> 00:37:57.219
+I just want to punch people who
+
+1022
+00:37:57.580 --> 00:37:57.979
+are.
+
+1023
+00:37:57.980 --> 00:38:00.039
+But I'm really inside state.
+
+1024
+00:38:00.200 --> 00:38:01.670
+I I'm a real developer because
+
+1025
+00:38:02.260 --> 00:38:03.309
+I use v.i.
+
+1026
+00:38:03.420 --> 00:38:05.080
+And it's like, you know,
+
+1027
+00:38:05.530 --> 00:38:06.530
+I do it the hard way.
+
+1028
+00:38:06.700 --> 00:38:07.700
+I think.
+
+1029
+00:38:07.900 --> 00:38:10.270
+I think I make language developers
+
+1030
+00:38:10.300 --> 00:38:11.300
+lazy.
+
+1031
+00:38:20.190 --> 00:38:21.219
+IBRD Let me get a lot
+
+1032
+00:38:22.170 --> 00:38:23.909
+more done a lot faster,
+
+1033
+00:38:24.100 --> 00:38:25.849
+OK? I mean, I'm not I
+
+1034
+00:38:26.590 --> 00:38:27.590
+I mean, I'm really
+
+1035
+00:38:28.560 --> 00:38:30.239
+not into proving my manhood.
+
+1036
+00:38:30.240 --> 00:38:31.240
+I'm good
+
+1037
+00:38:32.290 --> 00:38:33.780
+at getting things done.
+
+1038
+00:38:36.260 --> 00:38:37.949
+Case in point, but I
+
+1039
+00:38:38.180 --> 00:38:39.869
+take the devil's advocate here first
+
+1040
+00:38:39.890 --> 00:38:41.899
+said he meant something like.
+
+1041
+00:38:43.670 --> 00:38:45.360
+Yeah, but
+
+1042
+00:38:45.490 --> 00:38:47.599
+you their notebooks, a lot
+
+1043
+00:38:47.600 --> 00:38:48.969
+of science people.
+
+1044
+00:38:49.010 --> 00:38:51.249
+Data scientists get a lot done.
+
+1045
+00:38:51.970 --> 00:38:54.519
+It's actually a pretty simplistic
+
+1046
+00:38:55.410 --> 00:38:56.789
+I need
+
+1047
+00:38:57.890 --> 00:38:59.270
+a dynamic language.
+
+1048
+00:38:59.300 --> 00:39:00.300
+Most of the time.
+
+1049
+00:39:00.820 --> 00:39:02.490
+So you could get a lot more than
+
+1050
+00:39:03.510 --> 00:39:04.510
+that.
+
+1051
+00:39:05.600 --> 00:39:06.600
+I don't know.
+
+1052
+00:39:06.940 --> 00:39:08.309
+No, but I think typeset.
+
+1053
+00:39:08.420 --> 00:39:09.739
+I mean, it's not just
+
+1054
+00:39:11.350 --> 00:39:12.669
+a type system can help you.
+
+1055
+00:39:12.680 --> 00:39:14.479
+First of all, if you're uninitiated
+
+1056
+00:39:14.700 --> 00:39:16.549
+and you want to know here, here's my
+
+1057
+00:39:16.550 --> 00:39:18.069
+food and now I say food dot and
+
+1058
+00:39:18.510 --> 00:39:19.739
+then the ivy can show you.
+
+1059
+00:39:19.760 --> 00:39:20.909
+What can I type next?
+
+1060
+00:39:20.930 --> 00:39:22.694
+Right. As opposed to I gotta go read
+
+1061
+00:39:22.910 --> 00:39:24.400
+manuals and figure it out or know
+
+1062
+00:39:24.410 --> 00:39:26.329
+it. All right. I mean, your original
+
+1063
+00:39:26.330 --> 00:39:28.309
+developer of whatever piece of code
+
+1064
+00:39:28.340 --> 00:39:29.418
+might know it all, but
+
+1065
+00:39:30.320 --> 00:39:32.179
+then people move
+
+1066
+00:39:32.180 --> 00:39:33.829
+on and new people come in.
+
+1067
+00:39:34.190 --> 00:39:35.419
+You know, there's here's this
+
+1068
+00:39:35.420 --> 00:39:36.409
+project.
+
+1069
+00:39:36.410 --> 00:39:38.300
+There was there was no documentation
+
+1070
+00:39:38.330 --> 00:39:39.169
+written about it.
+
+1071
+00:39:39.170 --> 00:39:40.729
+And if you think about it, types or
+
+1072
+00:39:40.730 --> 00:39:42.649
+documentation to write, I
+
+1073
+00:39:42.650 --> 00:39:44.267
+mean, and then there just there's
+
+1074
+00:39:44.630 --> 00:39:45.630
+so many things about
+
+1075
+00:39:46.550 --> 00:39:47.550
+like
+
+1076
+00:39:48.680 --> 00:39:50.329
+like adding them that
+
+1077
+00:39:50.840 --> 00:39:52.579
+down the line give you
+
+1078
+00:39:52.670 --> 00:39:54.070
+increased productivity.
+
+1079
+00:39:54.880 --> 00:39:56.540
+So there's productivity
+
+1080
+00:39:57.030 --> 00:39:58.309
+and then that's that's
+
+1081
+00:39:58.310 --> 00:39:59.599
+maintainability.
+
+1082
+00:40:00.080 --> 00:40:01.080
+Oh, well both.
+
+1083
+00:40:01.100 --> 00:40:02.570
+And maybe
+
+1084
+00:40:03.440 --> 00:40:05.340
+any different thoughts about how
+
+1085
+00:40:05.350 --> 00:40:06.739
+you get to talk about types.
+
+1086
+00:40:07.110 --> 00:40:08.110
+Well, talk.
+
+1087
+00:40:09.630 --> 00:40:10.820
+The colonel types out.
+
+1088
+00:40:11.450 --> 00:40:13.329
+Well, that story is very
+
+1089
+00:40:13.330 --> 00:40:14.949
+different for profile purposes.
+
+1090
+00:40:16.920 --> 00:40:18.586
+As you know, Girlfight, to sort of
+
+1091
+00:40:18.610 --> 00:40:20.679
+rural over time and the whole idea
+
+1092
+00:40:20.870 --> 00:40:22.179
+was sort of particularly idea.
+
+1093
+00:40:22.570 --> 00:40:23.619
+Everything you can pretend
+
+1094
+00:40:23.620 --> 00:40:25.059
+everything is a straight even if
+
+1095
+00:40:25.060 --> 00:40:26.800
+it's a number or floating point
+
+1096
+00:40:27.010 --> 00:40:28.909
+internally, it's stalled, you
+
+1097
+00:40:28.920 --> 00:40:29.920
+know, interchangeable.
+
+1098
+00:40:30.340 --> 00:40:32.229
+And that works out for
+
+1099
+00:40:32.620 --> 00:40:34.059
+bootstrapping people into a
+
+1100
+00:40:34.060 --> 00:40:35.739
+language. They're quite nicely.
+
+1101
+00:40:37.240 --> 00:40:39.099
+And it's it's a feature that we
+
+1102
+00:40:39.100 --> 00:40:40.209
+wanted to keep in Perl 6.
+
+1103
+00:40:40.210 --> 00:40:41.889
+But what we discovered in Perl 5 is
+
+1104
+00:40:41.890 --> 00:40:43.720
+part of the redesign was
+
+1105
+00:40:45.010 --> 00:40:46.749
+it's it's fine if the
+
+1106
+00:40:47.080 --> 00:40:48.999
+user is confused about the
+
+1107
+00:40:49.000 --> 00:40:50.699
+interchangeability to tell more for
+
+1108
+00:40:50.720 --> 00:40:52.179
+the Muslim to
+
+1109
+00:40:52.550 --> 00:40:54.579
+take the care of
+
+1110
+00:40:54.590 --> 00:40:55.249
+your standard.
+
+1111
+00:40:55.250 --> 00:40:57.099
+Tikes But it's not so
+
+1112
+00:40:57.100 --> 00:40:58.809
+good if the computer is
+
+1113
+00:40:59.170 --> 00:41:00.170
+confused about.
+
+1114
+00:41:01.930 --> 00:41:02.959
+You know, for all the
+
+1115
+00:41:03.820 --> 00:41:05.859
+girl wanted, it was written way
+
+1116
+00:41:05.860 --> 00:41:06.860
+back in the dark ages.
+
+1117
+00:41:06.960 --> 00:41:08.319
+You had a schuberg, a bunch of stuff
+
+1118
+00:41:08.320 --> 00:41:09.830
+in, and it
+
+1119
+00:41:10.600 --> 00:41:11.600
+cheated a lot.
+
+1120
+00:41:11.980 --> 00:41:14.199
+So part of the redesign
+
+1121
+00:41:14.350 --> 00:41:16.059
+when we did girls school Perl 6
+
+1122
+00:41:16.060 --> 00:41:17.170
+thing we wanted to do
+
+1123
+00:41:18.160 --> 00:41:19.930
+object oriented programing
+
+1124
+00:41:20.000 --> 00:41:21.568
+that is that these languages and
+
+1125
+00:41:22.000 --> 00:41:22.959
+we wanted to be functional
+
+1126
+00:41:22.960 --> 00:41:24.249
+programing that are the most
+
+1127
+00:41:24.250 --> 00:41:25.449
+functional programing languages.
+
+1128
+00:41:26.260 --> 00:41:28.149
+To do that you have to have a
+
+1129
+00:41:28.420 --> 00:41:30.450
+fundamental very sound type
+
+1130
+00:41:30.460 --> 00:41:32.439
+system of a sound object
+
+1131
+00:41:32.890 --> 00:41:33.890
+model underneath.
+
+1132
+00:41:34.330 --> 00:41:36.189
+And you really have
+
+1133
+00:41:36.190 --> 00:41:38.169
+to take seriously these slogans
+
+1134
+00:41:38.170 --> 00:41:39.429
+like everything is an object.
+
+1135
+00:41:39.830 --> 00:41:40.929
+Everything is like closure.
+
+1136
+00:41:41.250 --> 00:41:43.149
+Every feel the process,
+
+1137
+00:41:43.390 --> 00:41:45.539
+even blocks are closures.
+
+1138
+00:41:46.300 --> 00:41:48.189
+And he has got to
+
+1139
+00:41:48.200 --> 00:41:49.579
+optimize. Hard to get up, get them
+
+1140
+00:41:49.690 --> 00:41:50.690
+away from there.
+
+1141
+00:41:50.720 --> 00:41:52.629
+But but I I also
+
+1142
+00:41:52.630 --> 00:41:54.850
+agree with this idea
+
+1143
+00:41:54.880 --> 00:41:56.379
+that the tikes also
+
+1144
+00:41:56.710 --> 00:41:57.710
+are cultural.
+
+1145
+00:41:58.540 --> 00:41:59.900
+I talked about Pei's hanging things
+
+1146
+00:41:59.920 --> 00:42:01.629
+on pace. They're one of the one of
+
+1147
+00:42:01.630 --> 00:42:02.919
+the picks. We didn't have something
+
+1148
+00:42:02.920 --> 00:42:04.149
+to hang on the prettified.
+
+1149
+00:42:04.510 --> 00:42:06.149
+And now we we can Pangle.
+
+1150
+00:42:06.190 --> 00:42:07.869
+But all of that information
+
+1151
+00:42:08.070 --> 00:42:09.430
+and then just run a little program
+
+1152
+00:42:10.070 --> 00:42:11.349
+there. And then you have to have an
+
+1153
+00:42:11.350 --> 00:42:13.090
+idea. They say, well, this object.
+
+1154
+00:42:13.920 --> 00:42:15.159
+You know what methods.
+
+1155
+00:42:15.190 --> 00:42:16.719
+But what you know, they could do
+
+1156
+00:42:16.720 --> 00:42:17.709
+their own introspection.
+
+1157
+00:42:17.710 --> 00:42:18.710
+The whole thing.
+
+1158
+00:42:18.730 --> 00:42:20.079
+And people just you know, I'm
+
+1159
+00:42:21.060 --> 00:42:23.079
+baffled by the way we do also
+
+1160
+00:42:23.080 --> 00:42:24.080
+have an idea.
+
+1161
+00:42:27.420 --> 00:42:28.829
+Good points all around.
+
+1162
+00:42:29.670 --> 00:42:31.649
+So most
+
+1163
+00:42:31.650 --> 00:42:33.218
+of the time programmers actually
+
+1164
+00:42:33.480 --> 00:42:35.610
+spend maintaining versus
+
+1165
+00:42:35.670 --> 00:42:36.969
+writing new code
+
+1166
+00:42:38.350 --> 00:42:39.690
+out in the wild and.
+
+1167
+00:42:41.430 --> 00:42:43.189
+What things or elements of a
+
+1168
+00:42:43.190 --> 00:42:45.020
+programing language make it
+
+1169
+00:42:45.080 --> 00:42:46.880
+easier to maintain?
+
+1170
+00:42:47.460 --> 00:42:48.850
+And maybe we'll start with Fito.
+
+1171
+00:42:52.930 --> 00:42:54.730
+Well, I found that.
+
+1172
+00:42:58.650 --> 00:42:59.650
+TypeScript
+
+1173
+00:43:00.660 --> 00:43:02.630
+is actually incredibly useful,
+
+1174
+00:43:02.640 --> 00:43:05.010
+and so we're adding a very similar
+
+1175
+00:43:05.100 --> 00:43:06.949
+idea to Python, adding it
+
+1176
+00:43:07.000 --> 00:43:09.039
+in a slightly good way because.
+
+1177
+00:43:09.870 --> 00:43:11.460
+We are taxed.
+
+1178
+00:43:28.950 --> 00:43:29.929
+All right.
+
+1179
+00:43:29.930 --> 00:43:30.769
+Go.
+
+1180
+00:43:30.770 --> 00:43:31.770
+Anyway,
+
+1181
+00:43:33.050 --> 00:43:34.050
+we have time.
+
+1182
+00:43:36.480 --> 00:43:37.699
+I sort of
+
+1183
+00:43:38.480 --> 00:43:39.656
+learned a painful lesson
+
+1184
+00:43:40.550 --> 00:43:42.859
+of that before school programs.
+
+1185
+00:43:43.160 --> 00:43:45.409
+Seafair dynamic typing
+
+1186
+00:43:45.410 --> 00:43:47.570
+is great for large programs.
+
+1187
+00:43:47.600 --> 00:43:48.600
+You have to
+
+1188
+00:43:49.520 --> 00:43:51.380
+have a more disciplined
+
+1189
+00:43:51.410 --> 00:43:52.782
+approach and it helps if the
+
+1190
+00:43:53.300 --> 00:43:54.559
+language actually
+
+1191
+00:43:55.430 --> 00:43:56.209
+gives you that.
+
+1192
+00:43:56.210 --> 00:43:58.159
+It's rather than telling you,
+
+1193
+00:43:58.160 --> 00:43:59.469
+well, you can do whatever you want.
+
+1194
+00:44:02.030 --> 00:44:02.979
+Yeah, yeah.
+
+1195
+00:44:02.980 --> 00:44:04.440
+That was part of our scale up
+
+1196
+00:44:04.990 --> 00:44:06.800
+idea for Perl 6,
+
+1197
+00:44:07.170 --> 00:44:08.170
+the typist would help
+
+1198
+00:44:09.100 --> 00:44:10.929
+with programing in large because
+
+1199
+00:44:10.930 --> 00:44:12.550
+we didn't notice those limitations.
+
+1200
+00:44:16.600 --> 00:44:18.119
+One year ago, I started working
+
+1201
+00:44:18.130 --> 00:44:20.300
+really heavily on Unbury
+
+1202
+00:44:20.310 --> 00:44:21.310
+Factoring In.
+
+1203
+00:44:22.040 --> 00:44:23.040
+And,
+
+1204
+00:44:24.140 --> 00:44:25.369
+you know, being able to
+
+1205
+00:44:26.200 --> 00:44:27.909
+do like large scale refactoring
+
+1206
+00:44:28.110 --> 00:44:30.219
+is unlike millions of lines
+
+1207
+00:44:30.220 --> 00:44:31.540
+of code at once,
+
+1208
+00:44:33.430 --> 00:44:34.749
+that really changes the way you
+
+1209
+00:44:34.750 --> 00:44:36.309
+think about maintaining code.
+
+1210
+00:44:37.200 --> 00:44:38.709
+Because, you know, the world is
+
+1211
+00:44:38.710 --> 00:44:40.179
+filled with libraries that have
+
+1212
+00:44:40.180 --> 00:44:41.503
+things like stupid variable
+
+1213
+00:44:42.070 --> 00:44:43.929
+names, stupid method
+
+1214
+00:44:43.930 --> 00:44:45.760
+names, because,
+
+1215
+00:44:45.850 --> 00:44:47.049
+you know, when you started out, it
+
+1216
+00:44:47.050 --> 00:44:48.050
+meant one thing.
+
+1217
+00:44:48.520 --> 00:44:50.559
+But now you realize that
+
+1218
+00:44:50.680 --> 00:44:52.269
+you really didn't really understand
+
+1219
+00:44:52.270 --> 00:44:53.109
+what you were doing in the
+
+1220
+00:44:53.110 --> 00:44:54.433
+beginning. And so this this
+
+1221
+00:44:54.940 --> 00:44:57.010
+method name really should be
+
+1222
+00:44:57.070 --> 00:44:58.070
+different.
+
+1223
+00:44:58.180 --> 00:45:00.480
+But nobody ever Reding's
+
+1224
+00:45:00.490 --> 00:45:01.813
+methods because it's really
+
+1225
+00:45:02.440 --> 00:45:04.659
+hard to go over a piece
+
+1226
+00:45:05.070 --> 00:45:07.030
+of code and
+
+1227
+00:45:07.120 --> 00:45:08.780
+rename. Exactly.
+
+1228
+00:45:08.960 --> 00:45:11.270
+That's the right variable.
+
+1229
+00:45:11.370 --> 00:45:12.819
+But if you've got a good refactoring
+
+1230
+00:45:12.820 --> 00:45:14.769
+engine, you just you
+
+1231
+00:45:14.770 --> 00:45:16.436
+just type, you know, medic control
+
+1232
+00:45:16.570 --> 00:45:18.340
+are typing the new name,
+
+1233
+00:45:19.060 --> 00:45:20.829
+you know, hundreds and hundreds of
+
+1234
+00:45:20.830 --> 00:45:22.660
+files later, which takes about,
+
+1235
+00:45:23.080 --> 00:45:24.910
+you know, maybe 30 seconds
+
+1236
+00:45:24.920 --> 00:45:26.289
+if it's a lot of files.
+
+1237
+00:45:29.100 --> 00:45:30.100
+You're done.
+
+1238
+00:45:30.710 --> 00:45:32.869
+And so you basically be right.
+
+1239
+00:45:34.410 --> 00:45:35.909
+Seven-part series,
+
+1240
+00:45:36.980 --> 00:45:37.980
+I
+
+1241
+00:45:39.090 --> 00:45:41.070
+hope this is this is actually like
+
+1242
+00:45:41.220 --> 00:45:42.919
+you're describing, that's what
+
+1243
+00:45:43.080 --> 00:45:43.599
+we what.
+
+1244
+00:45:43.600 --> 00:45:44.730
+What was the genesis
+
+1245
+00:45:45.770 --> 00:45:47.790
+of the typescript project, which was
+
+1246
+00:45:48.540 --> 00:45:50.590
+these enormous JavaScript code basis
+
+1247
+00:45:50.640 --> 00:45:52.019
+that we were seeing customers.
+
+1248
+00:45:52.020 --> 00:45:53.999
+Right. And then in-house projects
+
+1249
+00:45:54.010 --> 00:45:55.259
+that they were getting bigger and
+
+1250
+00:45:55.260 --> 00:45:56.789
+bigger because JavaScript engines
+
+1251
+00:45:56.790 --> 00:45:58.139
+were getting good enough for you to
+
+1252
+00:45:58.140 --> 00:45:59.669
+write really big programs.
+
+1253
+00:46:00.200 --> 00:46:02.160
+But maintaining them was impossible
+
+1254
+00:46:02.790 --> 00:46:04.819
+because it turned into write
+
+1255
+00:46:04.860 --> 00:46:06.639
+only code. You know, you do dare
+
+1256
+00:46:06.700 --> 00:46:08.159
+not touch it. Once you've written it
+
+1257
+00:46:08.190 --> 00:46:10.020
+because it worked then and then.
+
+1258
+00:46:10.350 --> 00:46:12.059
+But, you know, there's this property
+
+1259
+00:46:12.060 --> 00:46:13.060
+called text.
+
+1260
+00:46:13.440 --> 00:46:15.840
+And I really want to change it to be
+
+1261
+00:46:16.400 --> 00:46:18.329
+like some
+
+1262
+00:46:18.330 --> 00:46:20.159
+other name, except there
+
+1263
+00:46:20.160 --> 00:46:21.479
+is like a million other properties
+
+1264
+00:46:21.480 --> 00:46:23.244
+called text. And if I'd just like to
+
+1265
+00:46:23.310 --> 00:46:24.639
+do a global search and replace for
+
+1266
+00:46:24.640 --> 00:46:26.257
+tax, then oh my God, it's like at
+
+1267
+00:46:26.460 --> 00:46:28.339
+all. So I can't change anything.
+
+1268
+00:46:28.920 --> 00:46:30.599
+But if you have semantic
+
+1269
+00:46:30.600 --> 00:46:32.315
+understanding up like this property
+
+1270
+00:46:32.400 --> 00:46:34.019
+call text is different from that
+
+1271
+00:46:34.050 --> 00:46:35.099
+other property over here.
+
+1272
+00:46:35.100 --> 00:46:36.689
+Call text. And if you want to rename
+
+1273
+00:46:36.690 --> 00:46:37.829
+this one, that doesn't mean you want
+
+1274
+00:46:37.830 --> 00:46:38.830
+to rename that one.
+
+1275
+00:46:39.080 --> 00:46:40.080
+But but that takes
+
+1276
+00:46:41.010 --> 00:46:42.869
+for something like a
+
+1277
+00:46:42.870 --> 00:46:44.639
+type system to be in place.
+
+1278
+00:46:44.690 --> 00:46:46.454
+And, you know, once you start adding
+
+1279
+00:46:46.800 --> 00:46:48.629
+that, you add documentation to the
+
+1280
+00:46:48.630 --> 00:46:50.420
+code and you add these capabilities
+
+1281
+00:46:50.430 --> 00:46:52.110
+where we're now seeing people
+
+1282
+00:46:53.020 --> 00:46:55.139
+like with regularity, refactor
+
+1283
+00:46:55.140 --> 00:46:56.699
+one hundreds of thousands of lines
+
+1284
+00:46:56.700 --> 00:46:58.109
+of JavaScript code, you know, we'd
+
+1285
+00:46:58.110 --> 00:46:59.730
+like ten minutes
+
+1286
+00:47:00.280 --> 00:47:01.652
+and end it and it just works
+
+1287
+00:47:02.280 --> 00:47:03.719
+afterwards. And people are like
+
+1288
+00:47:03.720 --> 00:47:04.980
+amazed that it's possible.
+
+1289
+00:47:06.130 --> 00:47:07.130
+But but but
+
+1290
+00:47:08.040 --> 00:47:09.755
+it's true. Said it takes a bit more
+
+1291
+00:47:10.050 --> 00:47:11.039
+work to begin with.
+
+1292
+00:47:11.040 --> 00:47:12.420
+And it's not maybe not right.
+
+1293
+00:47:12.450 --> 00:47:13.919
+If you're writing five lines of code
+
+1294
+00:47:14.340 --> 00:47:15.989
+that maybe more bother than you
+
+1295
+00:47:15.990 --> 00:47:16.979
+really care to.
+
+1296
+00:47:16.980 --> 00:47:18.548
+But but, you know, it started to
+
+1297
+00:47:18.840 --> 00:47:19.920
+pay off pretty quickly.
+
+1298
+00:47:21.290 --> 00:47:22.710
+There are different types
+
+1299
+00:47:23.280 --> 00:47:25.380
+of really good lexical scoping
+
+1300
+00:47:25.710 --> 00:47:26.829
+helps with refactoring.
+
+1301
+00:47:27.500 --> 00:47:29.400
+It gets
+
+1302
+00:47:29.430 --> 00:47:30.430
+back into this.
+
+1303
+00:47:31.410 --> 00:47:32.449
+What's the right pick to hang the
+
+1304
+00:47:32.450 --> 00:47:33.820
+sign up and off and it's slope.
+
+1305
+00:47:34.110 --> 00:47:35.820
+It's a lexically skulked or
+
+1306
+00:47:35.840 --> 00:47:36.840
+dynamically scale.
+
+1307
+00:47:36.850 --> 00:47:38.909
+So now we're doing those right
+
+1308
+00:47:38.940 --> 00:47:40.369
+and not interfering with threading.
+
+1309
+00:47:43.200 --> 00:47:45.269
+So I have one more question
+
+1310
+00:47:45.270 --> 00:47:47.149
+now before the break in
+
+1311
+00:47:47.150 --> 00:47:48.979
+three minutes and we made
+
+1312
+00:47:49.050 --> 00:47:50.989
+sort of a reference to Donald New,
+
+1313
+00:47:51.570 --> 00:47:52.920
+one of the turning winners
+
+1314
+00:47:54.360 --> 00:47:55.739
+in this last
+
+1315
+00:47:56.310 --> 00:47:57.840
+section of conversation.
+
+1316
+00:47:57.930 --> 00:47:59.939
+And he wrote, Premature
+
+1317
+00:47:59.970 --> 00:48:01.489
+optimization is the root of all
+
+1318
+00:48:01.980 --> 00:48:02.980
+evil.
+
+1319
+00:48:03.870 --> 00:48:04.997
+So what's your approach
+
+1320
+00:48:05.880 --> 00:48:07.979
+to optimizing code and gaining
+
+1321
+00:48:07.980 --> 00:48:09.860
+efficiency, saying Python?
+
+1322
+00:48:12.520 --> 00:48:14.440
+Well, I I'm terrible at that.
+
+1323
+00:48:14.470 --> 00:48:15.939
+So I leave it to others.
+
+1324
+00:48:17.110 --> 00:48:18.110
+That is
+
+1325
+00:48:19.410 --> 00:48:21.249
+a very wise language creator
+
+1326
+00:48:21.910 --> 00:48:23.037
+and they've lived up to
+
+1327
+00:48:23.860 --> 00:48:24.860
+the task.
+
+1328
+00:48:26.200 --> 00:48:28.820
+Piceance hash table implementation
+
+1329
+00:48:28.850 --> 00:48:30.980
+has been rewritten so many times.
+
+1330
+00:48:32.590 --> 00:48:34.239
+I don't understand any part of it,
+
+1331
+00:48:36.380 --> 00:48:38.229
+but it is so much better than the
+
+1332
+00:48:38.230 --> 00:48:40.409
+thing I actually copied out of truth
+
+1333
+00:48:41.230 --> 00:48:42.230
+30 years ago.
+
+1334
+00:48:44.560 --> 00:48:45.729
+Happy to have a clue.
+
+1335
+00:48:46.830 --> 00:48:47.870
+Okey doke.
+
+1336
+00:48:52.790 --> 00:48:54.859
+I kind of 50 percent believe that
+
+1337
+00:48:56.030 --> 00:48:57.889
+because they're, you
+
+1338
+00:48:58.020 --> 00:48:59.809
+know, the premature optimization in
+
+1339
+00:48:59.810 --> 00:49:01.369
+terms of algorithms and code.
+
+1340
+00:49:01.910 --> 00:49:03.229
+That part of it, I believe.
+
+1341
+00:49:04.280 --> 00:49:05.960
+But people
+
+1342
+00:49:06.410 --> 00:49:07.939
+often don't really think about the
+
+1343
+00:49:07.940 --> 00:49:09.349
+role of data structures
+
+1344
+00:49:09.970 --> 00:49:11.030
+in optimization
+
+1345
+00:49:11.900 --> 00:49:13.869
+and interpret data structures
+
+1346
+00:49:13.940 --> 00:49:14.940
+exposed.
+
+1347
+00:49:16.730 --> 00:49:17.780
+You have to
+
+1348
+00:49:18.870 --> 00:49:20.420
+know and you decide that, you know,
+
+1349
+00:49:20.990 --> 00:49:22.789
+this algorithm is a problem.
+
+1350
+00:49:23.630 --> 00:49:25.369
+But, you know, the reason that it's
+
+1351
+00:49:25.370 --> 00:49:27.169
+a problem is because,
+
+1352
+00:49:27.800 --> 00:49:29.449
+you know, this data structure was
+
+1353
+00:49:29.450 --> 00:49:30.920
+just slapped together and they
+
+1354
+00:49:31.310 --> 00:49:32.719
+thought, oh, they'd only ever be
+
+1355
+00:49:32.720 --> 00:49:34.610
+like 10 items in the list
+
+1356
+00:49:35.090 --> 00:49:36.550
+or 10 items in the set.
+
+1357
+00:49:37.220 --> 00:49:38.869
+And then and then you start,
+
+1358
+00:49:39.130 --> 00:49:41.329
+you know, having, you know, million
+
+1359
+00:49:41.330 --> 00:49:43.159
+eight million items sets all the
+
+1360
+00:49:43.160 --> 00:49:44.160
+time.
+
+1361
+00:49:44.300 --> 00:49:45.770
+And all of a sudden, you know,
+
+1362
+00:49:45.800 --> 00:49:47.170
+you're a little linkedlist
+
+1363
+00:49:47.660 --> 00:49:49.520
+is. And that is not gonna happen.
+
+1364
+00:49:50.270 --> 00:49:50.819
+Right.
+
+1365
+00:49:50.820 --> 00:49:52.600
+Ex-directory or a unit
+
+1366
+00:49:52.640 --> 00:49:53.640
+or. Yeah.
+
+1367
+00:49:53.910 --> 00:49:55.989
+And and
+
+1368
+00:49:56.030 --> 00:49:57.980
+so and so if you can you know,
+
+1369
+00:49:58.190 --> 00:50:00.320
+it's like you know hyd
+
+1370
+00:50:00.350 --> 00:50:01.219
+early hide.
+
+1371
+00:50:01.220 --> 00:50:02.220
+Often.
+
+1372
+00:50:02.400 --> 00:50:03.400
+Right.
+
+1373
+00:50:03.590 --> 00:50:05.449
+Never tell the truth about what your
+
+1374
+00:50:05.450 --> 00:50:06.649
+data structures are.
+
+1375
+00:50:09.320 --> 00:50:11.179
+And on that note, we're
+
+1376
+00:50:11.180 --> 00:50:12.180
+going to take
+
+1377
+00:50:13.100 --> 00:50:14.300
+a quick look.
+
+1378
+00:50:14.330 --> 00:50:16.579
+I just want to say that I
+
+1379
+00:50:16.580 --> 00:50:18.230
+think like
+
+1380
+00:50:18.460 --> 00:50:20.479
+with anything, the important thing
+
+1381
+00:50:20.480 --> 00:50:22.097
+is to make sure that you actually
+
+1382
+00:50:22.580 --> 00:50:24.429
+have the right data before
+
+1383
+00:50:24.430 --> 00:50:26.200
+you you start optimizing.
+
+1384
+00:50:26.210 --> 00:50:28.099
+Right. By too often you have
+
+1385
+00:50:28.100 --> 00:50:29.900
+a hunch that, oh,
+
+1386
+00:50:29.930 --> 00:50:31.789
+I think finally I need to do
+
+1387
+00:50:31.790 --> 00:50:32.219
+this.
+
+1388
+00:50:32.220 --> 00:50:33.469
+And I need to change this data
+
+1389
+00:50:33.470 --> 00:50:34.969
+structure from being a linkedlist to
+
+1390
+00:50:34.970 --> 00:50:36.349
+being overweight or whatever.
+
+1391
+00:50:36.980 --> 00:50:38.899
+But but if you
+
+1392
+00:50:38.900 --> 00:50:40.129
+measure, then you discover it
+
+1393
+00:50:40.130 --> 00:50:41.119
+doesn't matter.
+
+1394
+00:50:41.120 --> 00:50:42.949
+And but really, there's this other
+
+1395
+00:50:42.950 --> 00:50:44.269
+thing that you haven't even thought
+
+1396
+00:50:44.270 --> 00:50:46.099
+about that matters enormously.
+
+1397
+00:50:46.100 --> 00:50:47.509
+And maybe you should go look over
+
+1398
+00:50:47.510 --> 00:50:49.489
+there. So get perf.,
+
+1399
+00:50:49.550 --> 00:50:51.479
+get it, use a profile or
+
+1400
+00:50:51.480 --> 00:50:53.149
+figure out where it is, the time
+
+1401
+00:50:53.150 --> 00:50:54.079
+actually spent.
+
+1402
+00:50:54.080 --> 00:50:55.909
+I am continually surprised and
+
+1403
+00:50:55.910 --> 00:50:57.439
+I write compilers for a living and
+
+1404
+00:50:57.440 --> 00:50:59.239
+I'm always surprised by where
+
+1405
+00:50:59.330 --> 00:51:00.330
+time is spent.
+
+1406
+00:51:00.370 --> 00:51:01.039
+All right.
+
+1407
+00:51:01.040 --> 00:51:02.960
+And that is that
+
+1408
+00:51:03.110 --> 00:51:04.670
+we're out of time for this section.
+
+1409
+00:51:05.030 --> 00:51:06.739
+We're going to take a quick 15
+
+1410
+00:51:06.740 --> 00:51:07.740
+minute break.
+
+1411
+00:51:09.080 --> 00:51:10.999
+And when we come
+
+1412
+00:51:11.000 --> 00:51:12.029
+back, the really hard
+
+1413
+00:51:12.920 --> 00:51:14.210
+questions are going to come out
+
+1414
+00:51:14.270 --> 00:51:16.280
+because the audience questions
+
+1415
+00:51:16.890 --> 00:51:18.709
+that have been submitted are
+
+1416
+00:51:18.710 --> 00:51:20.260
+going to be the ones that believe in
+
+1417
+00:51:20.380 --> 00:51:21.380
+you.
+
+1418
+00:51:22.020 --> 00:51:23.020
+So thank you.
+
+1419
+00:51:55.280 --> 00:51:56.899
+And teach in every one of you has a
+
+1420
+00:51:56.900 --> 00:51:58.419
+community that is formed around
+
+1421
+00:51:58.760 --> 00:52:00.079
+the languages that you've created.
+
+1422
+00:52:00.110 --> 00:52:02.389
+I'm curious if you were talk two
+
+1423
+00:52:02.390 --> 00:52:03.979
+ways in which you've seen the design
+
+1424
+00:52:03.980 --> 00:52:05.059
+choices you've made for your
+
+1425
+00:52:05.060 --> 00:52:07.109
+language, so shaping the communities
+
+1426
+00:52:07.110 --> 00:52:08.110
+that are formed around.
+
+1427
+00:52:11.440 --> 00:52:12.449
+It really helps.
+
+1428
+00:52:12.580 --> 00:52:14.379
+Well, good.
+
+1429
+00:52:14.590 --> 00:52:15.610
+It really helps
+
+1430
+00:52:16.870 --> 00:52:18.040
+if you're trying to
+
+1431
+00:52:19.270 --> 00:52:21.190
+make everybody look
+
+1432
+00:52:21.240 --> 00:52:22.690
+what's here with your slogan here.
+
+1433
+00:52:24.380 --> 00:52:25.970
+Everybody comfortable?
+
+1434
+00:52:28.070 --> 00:52:29.860
+We're doing that right now.
+
+1435
+00:52:30.600 --> 00:52:32.349
+They think they can make
+
+1436
+00:52:32.840 --> 00:52:34.769
+all of all Americans, I heard.
+
+1437
+00:52:37.920 --> 00:52:39.299
+You know, feel like comfortable
+
+1438
+00:52:39.360 --> 00:52:40.360
+programing.
+
+1439
+00:52:40.870 --> 00:52:42.050
+You see it for all.
+
+1440
+00:52:42.150 --> 00:52:43.969
+Yes. To make sense of
+
+1441
+00:52:43.980 --> 00:52:45.059
+it. I guess you know
+
+1442
+00:52:46.120 --> 00:52:47.120
+what?
+
+1443
+00:52:48.190 --> 00:52:49.600
+The sign was a clue.
+
+1444
+00:52:51.250 --> 00:52:52.769
+It's not see us for all of us, just
+
+1445
+00:52:52.770 --> 00:52:53.770
+Americans.
+
+1446
+00:52:54.140 --> 00:52:55.590
+No. There are many underserved
+
+1447
+00:52:56.520 --> 00:52:57.639
+populations in the world.
+
+1448
+00:52:57.960 --> 00:52:59.879
+And what we've really discovered
+
+1449
+00:52:59.910 --> 00:53:01.979
+that it really helps
+
+1450
+00:53:01.980 --> 00:53:03.390
+build international
+
+1451
+00:53:06.540 --> 00:53:08.070
+camaraderie and community
+
+1452
+00:53:08.700 --> 00:53:10.499
+to have world class
+
+1453
+00:53:11.010 --> 00:53:12.650
+literally support for unico.
+
+1454
+00:53:13.440 --> 00:53:15.155
+Yes. I would encourage any language
+
+1455
+00:53:15.330 --> 00:53:16.349
+designers out there.
+
+1456
+00:53:16.920 --> 00:53:18.579
+Don't do this halfway stuff with,
+
+1457
+00:53:18.830 --> 00:53:20.760
+you know, code points.
+
+1458
+00:53:21.200 --> 00:53:22.200
+Go all the graphics.
+
+1459
+00:53:23.160 --> 00:53:25.469
+I completely agree.
+
+1460
+00:53:26.850 --> 00:53:28.109
+Kita, you had something you were
+
+1461
+00:53:28.110 --> 00:53:29.110
+going to say.
+
+1462
+00:53:29.940 --> 00:53:31.950
+I was trying to say.
+
+1463
+00:53:33.280 --> 00:53:34.590
+I how my
+
+1464
+00:53:35.160 --> 00:53:37.360
+design choices necessary
+
+1465
+00:53:38.390 --> 00:53:39.390
+to make
+
+1466
+00:53:40.570 --> 00:53:42.520
+choices about how to use
+
+1467
+00:53:43.000 --> 00:53:44.200
+energy certainly have.
+
+1468
+00:53:46.260 --> 00:53:47.260
+Did
+
+1469
+00:53:48.250 --> 00:53:49.250
+I?
+
+1470
+00:53:49.390 --> 00:53:51.309
+I was somehow a dude
+
+1471
+00:53:51.510 --> 00:53:53.269
+with the importance of
+
+1472
+00:53:54.260 --> 00:53:56.119
+user centered based something
+
+1473
+00:53:56.630 --> 00:53:58.219
+because by comparison.
+
+1474
+00:53:59.000 --> 00:54:01.189
+That was ABC long
+
+1475
+00:54:01.370 --> 00:54:02.370
+lost,
+
+1476
+00:54:04.260 --> 00:54:06.409
+its authors had a of things
+
+1477
+00:54:06.410 --> 00:54:08.209
+right, and one of those was
+
+1478
+00:54:08.780 --> 00:54:10.219
+listen to the users
+
+1479
+00:54:10.850 --> 00:54:12.560
+asking users what they
+
+1480
+00:54:12.710 --> 00:54:14.559
+think. And then again, you making
+
+1481
+00:54:14.680 --> 00:54:16.052
+a new one of their suggested
+
+1482
+00:54:16.580 --> 00:54:17.359
+solutions.
+
+1483
+00:54:17.360 --> 00:54:18.360
+And you first figure
+
+1484
+00:54:19.190 --> 00:54:20.699
+out what nobody spends.
+
+1485
+00:54:21.530 --> 00:54:23.330
+You gave users a voice.
+
+1486
+00:54:23.450 --> 00:54:24.699
+And I said,
+
+1487
+00:54:25.610 --> 00:54:26.884
+take that back and let the
+
+1488
+00:54:27.440 --> 00:54:28.879
+users help.
+
+1489
+00:54:30.680 --> 00:54:32.829
+And now they're raising of.
+
+1490
+00:54:36.790 --> 00:54:38.379
+I was going to say I always felt
+
+1491
+00:54:38.380 --> 00:54:39.380
+like
+
+1492
+00:54:40.630 --> 00:54:42.140
+it's important as a language society
+
+1493
+00:54:42.170 --> 00:54:43.787
+that you don't create unnecessary
+
+1494
+00:54:44.140 --> 00:54:45.904
+work for your community because it's
+
+1495
+00:54:46.030 --> 00:54:47.451
+it's very easy to in the name
+
+1496
+00:54:47.860 --> 00:54:49.149
+of purity or whatever.
+
+1497
+00:54:49.180 --> 00:54:51.309
+Go change something
+
+1498
+00:54:51.310 --> 00:54:53.169
+or or strive
+
+1499
+00:54:53.170 --> 00:54:54.500
+for the perfect language.
+
+1500
+00:54:54.560 --> 00:54:55.870
+And I've always said, like, I mean,
+
+1501
+00:54:57.770 --> 00:54:59.109
+show me the perfect language and
+
+1502
+00:54:59.110 --> 00:55:00.249
+I'll show you your language with no
+
+1503
+00:55:00.250 --> 00:55:01.250
+use or shoot over.
+
+1504
+00:55:01.300 --> 00:55:03.189
+Every every language
+
+1505
+00:55:03.190 --> 00:55:04.500
+has its functions.
+
+1506
+00:55:05.280 --> 00:55:06.620
+Has them because.
+
+1507
+00:55:07.260 --> 00:55:09.150
+Because it has evolved.
+
+1508
+00:55:09.240 --> 00:55:10.955
+And the hard part of language aside
+
+1509
+00:55:11.040 --> 00:55:12.689
+is actually not version one.
+
+1510
+00:55:12.960 --> 00:55:14.219
+It's like the older versions that
+
+1511
+00:55:14.220 --> 00:55:16.230
+come after you
+
+1512
+00:55:16.580 --> 00:55:18.719
+try to sneak things
+
+1513
+00:55:18.720 --> 00:55:20.969
+in without actually
+
+1514
+00:55:21.210 --> 00:55:23.249
+causing extra burdens on
+
+1515
+00:55:23.250 --> 00:55:24.689
+people who don't necessarily care
+
+1516
+00:55:24.690 --> 00:55:25.829
+about the things that you're trying
+
+1517
+00:55:25.830 --> 00:55:26.699
+to sneak in. Right.
+
+1518
+00:55:26.700 --> 00:55:27.629
+And so.
+
+1519
+00:55:27.630 --> 00:55:29.550
+So that's the hard part
+
+1520
+00:55:29.910 --> 00:55:31.590
+of language design, I think
+
+1521
+00:55:31.770 --> 00:55:33.719
+is is the evolution
+
+1522
+00:55:33.810 --> 00:55:34.810
+of the language and
+
+1523
+00:55:35.730 --> 00:55:37.396
+keeping your community with you as
+
+1524
+00:55:37.500 --> 00:55:38.500
+you have all.
+
+1525
+00:55:40.880 --> 00:55:42.630
+Yeah. And so and so with with
+
+1526
+00:55:42.930 --> 00:55:43.930
+Jarbawi like always
+
+1527
+00:55:45.150 --> 00:55:47.099
+followed that we've
+
+1528
+00:55:47.100 --> 00:55:48.717
+maybe been a little bit excessive
+
+1529
+00:55:49.590 --> 00:55:50.590
+about it.
+
+1530
+00:55:51.420 --> 00:55:52.890
+I mean, I've got binaries that
+
+1531
+00:55:53.250 --> 00:55:54.570
+I compiled like
+
+1532
+00:55:55.680 --> 00:55:56.820
+20 years ago,
+
+1533
+00:55:57.550 --> 00:55:58.650
+but still run.
+
+1534
+00:55:59.490 --> 00:56:01.349
+And and it's it's, you
+
+1535
+00:56:01.350 --> 00:56:02.967
+know, on machines that were never
+
+1536
+00:56:03.120 --> 00:56:05.159
+invented when the code was compiled.
+
+1537
+00:56:07.200 --> 00:56:09.380
+And you only get there with
+
+1538
+00:56:09.390 --> 00:56:11.070
+with crazy discipline
+
+1539
+00:56:11.640 --> 00:56:12.669
+and and a a tolerance
+
+1540
+00:56:14.010 --> 00:56:15.750
+for living with your mistakes.
+
+1541
+00:56:17.420 --> 00:56:19.260
+But but it but it makes the
+
+1542
+00:56:19.420 --> 00:56:20.420
+you.
+
+1543
+00:56:20.460 --> 00:56:21.329
+It also help.
+
+1544
+00:56:21.330 --> 00:56:23.159
+It also ends up selecting who
+
+1545
+00:56:23.160 --> 00:56:24.659
+your users are
+
+1546
+00:56:25.210 --> 00:56:26.789
+because in the in the Java universe,
+
+1547
+00:56:26.820 --> 00:56:28.143
+pretty much everybody is is
+
+1548
+00:56:28.680 --> 00:56:30.599
+really disciplined because,
+
+1549
+00:56:30.630 --> 00:56:31.829
+you know, it's kind of like like
+
+1550
+00:56:31.920 --> 00:56:32.920
+mountain climbing.
+
+1551
+00:56:32.950 --> 00:56:34.077
+You know, you you don't
+
+1552
+00:56:34.770 --> 00:56:36.599
+get there, get
+
+1553
+00:56:36.600 --> 00:56:38.217
+sloppy with your gear when you're
+
+1554
+00:56:38.340 --> 00:56:39.340
+mountain climbing
+
+1555
+00:56:40.700 --> 00:56:42.599
+because it has a clear price.
+
+1556
+00:56:45.030 --> 00:56:47.039
+And, you
+
+1557
+00:56:47.040 --> 00:56:48.167
+know, when you you said
+
+1558
+00:56:48.930 --> 00:56:49.930
+something about
+
+1559
+00:56:51.380 --> 00:56:52.619
+Larry, you said it said something
+
+1560
+00:56:52.620 --> 00:56:53.796
+about Unicode Java's had
+
+1561
+00:56:54.570 --> 00:56:56.099
+Unicode since ninety two.
+
+1562
+00:56:56.700 --> 00:56:58.500
+So, you know, it's,
+
+1563
+00:56:58.580 --> 00:56:59.990
+you know, trying to be inclusive.
+
+1564
+00:57:01.110 --> 00:57:03.030
+Yeah. And and that
+
+1565
+00:57:03.090 --> 00:57:05.070
+really made a difference.
+
+1566
+00:57:05.850 --> 00:57:07.565
+I mean lots of folks thought it was
+
+1567
+00:57:07.590 --> 00:57:09.419
+like the lamest thing ever.
+
+1568
+00:57:10.200 --> 00:57:11.200
+But
+
+1569
+00:57:12.240 --> 00:57:14.099
+that was that that was during
+
+1570
+00:57:14.100 --> 00:57:15.330
+my my, you know,
+
+1571
+00:57:16.230 --> 00:57:17.230
+Lord of Java
+
+1572
+00:57:18.060 --> 00:57:19.060
+phase which.
+
+1573
+00:57:20.190 --> 00:57:21.190
+Yeah.
+
+1574
+00:57:21.460 --> 00:57:23.224
+Yeah. But that that phase of my life
+
+1575
+00:57:23.400 --> 00:57:24.829
+ended in about ninety five.
+
+1576
+00:57:25.800 --> 00:57:26.619
+I'd like to say something
+
+1577
+00:57:26.620 --> 00:57:27.790
+possibilitythat.
+
+1578
+00:57:30.150 --> 00:57:32.159
+And that is we did this
+
+1579
+00:57:32.900 --> 00:57:34.769
+perfect try to perfect
+
+1580
+00:57:35.310 --> 00:57:36.310
+compatibility.
+
+1581
+00:57:36.540 --> 00:57:37.540
+All the way through.
+
+1582
+00:57:37.560 --> 00:57:38.630
+I didn't really
+
+1583
+00:57:40.200 --> 00:57:41.200
+think.
+
+1584
+00:57:45.360 --> 00:57:47.099
+That eventually runs into
+
+1585
+00:57:47.850 --> 00:57:49.569
+the problem. But, you know, you
+
+1586
+00:57:49.620 --> 00:57:51.300
+can't I can't fix your mistakes.
+
+1587
+00:57:51.930 --> 00:57:53.909
+So one of the mistakes
+
+1588
+00:57:54.120 --> 00:57:55.640
+that we made was was kind of a
+
+1589
+00:57:55.740 --> 00:57:57.389
+mistake and that was assuming
+
+1590
+00:57:58.200 --> 00:58:00.179
+that you had to always have
+
+1591
+00:58:00.180 --> 00:58:02.219
+that kind of stability
+
+1592
+00:58:02.460 --> 00:58:03.630
+and not change anything.
+
+1593
+00:58:04.890 --> 00:58:07.020
+How would it be to design a language
+
+1594
+00:58:07.500 --> 00:58:09.089
+where the language itself
+
+1595
+00:58:10.180 --> 00:58:12.120
+could be evolved
+
+1596
+00:58:12.270 --> 00:58:13.270
+from within
+
+1597
+00:58:14.290 --> 00:58:16.140
+by the community
+
+1598
+00:58:16.620 --> 00:58:17.699
+and the language we want?
+
+1599
+00:58:17.930 --> 00:58:19.639
+Twenty five or 50 years from now,
+
+1600
+00:58:19.650 --> 00:58:21.449
+this ties into what Polygram was
+
+1601
+00:58:21.450 --> 00:58:22.559
+talking about, a hundred year
+
+1602
+00:58:22.590 --> 00:58:24.209
+language. We kind of took that
+
+1603
+00:58:24.210 --> 00:58:25.210
+seriously.
+
+1604
+00:58:26.040 --> 00:58:27.040
+What is it that
+
+1605
+00:58:27.990 --> 00:58:29.879
+prevents languages from evolving,
+
+1606
+00:58:30.490 --> 00:58:32.589
+not being not having things still
+
+1607
+00:58:32.610 --> 00:58:33.610
+thrive?
+
+1608
+00:58:34.710 --> 00:58:35.710
+But
+
+1609
+00:58:36.630 --> 00:58:38.296
+fundamentally, the Perl 6 compiler
+
+1610
+00:58:38.760 --> 00:58:40.050
+is written in Perl 6.
+
+1611
+00:58:40.080 --> 00:58:41.789
+Most the runtime system is written
+
+1612
+00:58:41.790 --> 00:58:42.769
+in Perl 6.
+
+1613
+00:58:42.770 --> 00:58:44.099
+The users can extend it.
+
+1614
+00:58:45.150 --> 00:58:47.219
+Perl 6 itself does not care
+
+1615
+00:58:47.580 --> 00:58:49.260
+whether things are built in or not.
+
+1616
+00:58:49.890 --> 00:58:51.099
+It all works the same.
+
+1617
+00:58:51.450 --> 00:58:53.189
+So most of the buildings are written
+
+1618
+00:58:53.190 --> 00:58:54.300
+as if they were used or code.
+
+1619
+00:58:55.020 --> 00:58:57.269
+So users, even if we say
+
+1620
+00:58:57.460 --> 00:58:58.460
+no, we don't
+
+1621
+00:58:59.280 --> 00:59:00.420
+want that language right now.
+
+1622
+00:59:00.450 --> 00:59:02.069
+But put it in a module
+
+1623
+00:59:03.090 --> 00:59:04.090
+you can do.
+
+1624
+00:59:04.140 --> 00:59:05.904
+You can turn classes in two monitors
+
+1625
+00:59:06.090 --> 00:59:07.419
+with about that much code.
+
+1626
+00:59:07.770 --> 00:59:09.499
+You can put into implement actor
+
+1627
+00:59:09.520 --> 00:59:10.990
+model classes with about about
+
+1628
+00:59:11.550 --> 00:59:12.550
+how much code
+
+1629
+00:59:14.070 --> 00:59:15.269
+you can you take.
+
+1630
+00:59:15.510 --> 00:59:17.399
+Adding operators is just trivial.
+
+1631
+00:59:18.690 --> 00:59:20.579
+When it does, it
+
+1632
+00:59:20.820 --> 00:59:22.979
+does everything perfectly one pass
+
+1633
+00:59:22.980 --> 00:59:24.530
+and drops into the sub compiler.
+
+1634
+00:59:24.960 --> 00:59:26.590
+And with the end, it comes back out.
+
+1635
+00:59:26.880 --> 00:59:28.869
+So there's never, ever
+
+1636
+00:59:28.900 --> 00:59:30.517
+any ambiguity as to what language
+
+1637
+00:59:31.020 --> 00:59:32.020
+you are in.
+
+1638
+00:59:32.820 --> 00:59:34.469
+And so
+
+1639
+00:59:35.430 --> 00:59:37.210
+because this scoping
+
+1640
+00:59:37.350 --> 00:59:38.879
+of the exact language you're in is
+
+1641
+00:59:38.880 --> 00:59:40.889
+always like if we scoped
+
+1642
+00:59:41.010 --> 00:59:42.510
+any lexical scope can say
+
+1643
+00:59:43.290 --> 00:59:45.119
+use whatever language I want a
+
+1644
+00:59:45.120 --> 00:59:46.760
+feature version of Perl 6.
+
+1645
+00:59:46.860 --> 00:59:49.079
+You could say use COBOL, use Python.
+
+1646
+00:59:49.380 --> 00:59:50.909
+If someone actually people have
+
+1647
+00:59:50.910 --> 00:59:52.739
+written Python parsers in
+
+1648
+00:59:52.870 --> 00:59:54.480
+April 6, I don't think anybody's
+
+1649
+00:59:54.510 --> 00:59:55.619
+going to call for sure yet,
+
+1650
+00:59:57.390 --> 00:59:58.899
+but we'd like to think that, you
+
+1651
+00:59:58.900 --> 01:00:00.820
+know, a lot of language
+
+1652
+01:00:00.890 --> 01:00:02.279
+stuff like languages and Perl 6.
+
+1653
+01:00:03.030 --> 01:00:04.050
+So I think that
+
+1654
+01:00:06.190 --> 01:00:08.149
+I think the third module
+
+1655
+01:00:08.160 --> 01:00:09.440
+of semantics would
+
+1656
+01:00:10.350 --> 01:00:11.350
+likely.
+
+1657
+01:00:11.970 --> 01:00:12.970
+But I think
+
+1658
+01:00:13.800 --> 01:00:14.800
+there is a way us.
+
+1659
+01:00:15.590 --> 01:00:16.889
+I think there is a way forward to
+
+1660
+01:00:16.890 --> 01:00:18.030
+get the stability and
+
+1661
+01:00:18.040 --> 01:00:19.040
+rehabilitation.
+
+1662
+01:00:19.310 --> 01:00:20.310
+And I think.
+
+1663
+01:00:23.200 --> 01:00:24.200
+Awesome.
+
+1664
+01:00:24.400 --> 01:00:26.115
+Do we want to take another audience
+
+1665
+01:00:26.170 --> 01:00:27.170
+question?
+
+1666
+01:00:28.960 --> 01:00:29.960
+All right.
+
+1667
+01:00:31.650 --> 01:00:32.650
+Thanks.
+
+1668
+01:00:36.650 --> 01:00:38.089
+Can you talk into the mike like
+
+1669
+01:00:38.090 --> 01:00:38.899
+you're eating the mike?
+
+1670
+01:00:38.900 --> 01:00:39.900
+Hi. Yeah.
+
+1671
+01:00:39.980 --> 01:00:40.980
+Can you hear me?
+
+1672
+01:00:41.190 --> 01:00:42.190
+Yeah.
+
+1673
+01:00:42.380 --> 01:00:43.879
+There's been a lot of talk tonight
+
+1674
+01:00:43.880 --> 01:00:45.559
+about the evolve ability of
+
+1675
+01:00:45.560 --> 01:00:46.999
+languages and
+
+1676
+01:00:47.510 --> 01:00:48.931
+the trouble with implementing
+
+1677
+01:00:49.820 --> 01:00:51.169
+things that might not be backwards
+
+1678
+01:00:51.170 --> 01:00:52.170
+compatible.
+
+1679
+01:00:52.220 --> 01:00:53.899
+What's something that you wish you
+
+1680
+01:00:53.900 --> 01:00:55.009
+could have implemented with your
+
+1681
+01:00:55.010 --> 01:00:56.869
+language? But for that, or
+
+1682
+01:00:56.870 --> 01:00:58.039
+maybe another reason that wasn't
+
+1683
+01:00:58.040 --> 01:00:59.040
+possible.
+
+1684
+01:01:02.160 --> 01:01:03.160
+A
+
+1685
+01:01:06.300 --> 01:01:07.449
+word,
+
+1686
+01:01:11.090 --> 01:01:12.090
+right?
+
+1687
+01:01:13.370 --> 01:01:14.719
+As all the
+
+1688
+01:01:15.820 --> 01:01:16.820
+words
+
+1689
+01:01:19.070 --> 01:01:20.829
+or these
+
+1690
+01:01:22.540 --> 01:01:23.689
+or other forms of
+
+1691
+01:01:28.440 --> 01:01:29.440
+naming is hard.
+
+1692
+01:01:31.690 --> 01:01:33.039
+Well, I'll I'll I'll go.
+
+1693
+01:01:33.040 --> 01:01:34.989
+I've. I mean I my favorite is always
+
+1694
+01:01:35.200 --> 01:01:37.059
+like d that the two billion dollar
+
+1695
+01:01:37.060 --> 01:01:38.060
+mistake of the
+
+1696
+01:01:38.920 --> 01:01:40.269
+billion dollar mistake of having
+
+1697
+01:01:40.270 --> 01:01:41.379
+Nall in the language.
+
+1698
+01:01:41.400 --> 01:01:42.400
+And since JavaScript
+
+1699
+01:01:43.540 --> 01:01:45.009
+has both null and undefined, it's
+
+1700
+01:01:45.010 --> 01:01:46.630
+the two billion dollar mistake.
+
+1701
+01:01:48.730 --> 01:01:49.730
+But
+
+1702
+01:01:50.770 --> 01:01:51.820
+I mean if it did.
+
+1703
+01:01:52.320 --> 01:01:54.219
+And I mean what's done is done
+
+1704
+01:01:54.220 --> 01:01:56.169
+right. And and now now,
+
+1705
+01:01:56.230 --> 01:01:58.539
+you know, I spend a significant
+
+1706
+01:01:58.540 --> 01:02:00.699
+portion of my time actually working
+
+1707
+01:02:00.700 --> 01:02:02.910
+on ways to
+
+1708
+01:02:04.110 --> 01:02:06.310
+to make code null safe
+
+1709
+01:02:06.880 --> 01:02:07.880
+to and who's
+
+1710
+01:02:08.770 --> 01:02:10.749
+never who in here has ever had
+
+1711
+01:02:10.750 --> 01:02:11.949
+a null pointer exception.
+
+1712
+01:02:12.010 --> 01:02:13.179
+Right. There you go.
+
+1713
+01:02:14.530 --> 01:02:16.780
+It's it is by far the most
+
+1714
+01:02:16.960 --> 01:02:17.960
+problematic part of
+
+1715
+01:02:18.820 --> 01:02:20.439
+language design. It it's a single
+
+1716
+01:02:20.440 --> 01:02:21.440
+value that
+
+1717
+01:02:22.560 --> 01:02:24.280
+that if only that wasn't there.
+
+1718
+01:02:25.060 --> 01:02:26.679
+Imagine all the problems we wouldn't
+
+1719
+01:02:26.680 --> 01:02:28.199
+have. Right. If if type systems
+
+1720
+01:02:28.570 --> 01:02:30.139
+were designed that way and some type
+
+1721
+01:02:30.140 --> 01:02:31.757
+systems are and some type systems
+
+1722
+01:02:32.020 --> 01:02:33.279
+are getting there. But boy, trying
+
+1723
+01:02:33.280 --> 01:02:35.139
+to retrofit that on top of a
+
+1724
+01:02:35.140 --> 01:02:36.806
+type system that has normal in the
+
+1725
+01:02:36.820 --> 01:02:38.739
+first place is
+
+1726
+01:02:39.400 --> 01:02:40.400
+quite an undertaking.
+
+1727
+01:02:41.740 --> 01:02:43.357
+The features I wanted to add were
+
+1728
+01:02:43.360 --> 01:02:44.360
+negative features.
+
+1729
+01:02:46.660 --> 01:02:48.081
+I think all of us as language
+
+1730
+01:02:48.580 --> 01:02:50.739
+designers have borrowed
+
+1731
+01:02:50.740 --> 01:02:51.729
+things.
+
+1732
+01:02:51.730 --> 01:02:53.259
+You know, we all steal from each
+
+1733
+01:02:53.260 --> 01:02:54.550
+other's languages all the time.
+
+1734
+01:02:55.300 --> 01:02:57.230
+And and
+
+1735
+01:02:57.920 --> 01:02:59.096
+it's often we steal good
+
+1736
+01:02:59.920 --> 01:03:00.279
+things.
+
+1737
+01:03:00.280 --> 01:03:02.229
+But for some reason, we also steal
+
+1738
+01:03:02.230 --> 01:03:03.230
+bad things.
+
+1739
+01:03:05.580 --> 01:03:06.580
+You know, like what?
+
+1740
+01:03:07.160 --> 01:03:08.750
+Like regular expression syntax.
+
+1741
+01:03:08.850 --> 01:03:10.570
+Oh, yeah.
+
+1742
+01:03:11.480 --> 01:03:12.379
+I did that one.
+
+1743
+01:03:12.380 --> 01:03:14.150
+Like the C precedence table.
+
+1744
+01:03:14.750 --> 01:03:15.750
+OK. Another.
+
+1745
+01:03:15.870 --> 01:03:16.870
+OK.
+
+1746
+01:03:16.880 --> 01:03:18.049
+These are things that I could not
+
+1747
+01:03:18.050 --> 01:03:19.090
+fix in four or five.
+
+1748
+01:03:20.450 --> 01:03:21.289
+And we did fix it.
+
+1749
+01:03:21.290 --> 01:03:22.290
+Burleson's.
+
+1750
+01:03:24.620 --> 01:03:25.620
+Awesome.
+
+1751
+01:03:25.940 --> 01:03:26.940
+All right.
+
+1752
+01:03:27.140 --> 01:03:28.806
+We do tend to be doing pretty well
+
+1753
+01:03:29.060 --> 01:03:29.989
+with the audience. So how would
+
+1754
+01:03:29.990 --> 01:03:31.249
+another audience question?
+
+1755
+01:03:36.680 --> 01:03:37.680
+Hi. Hello there.
+
+1756
+01:03:38.280 --> 01:03:40.399
+So, well, what I wanted to ask
+
+1757
+01:03:40.400 --> 01:03:42.319
+is you can sort of know what is
+
+1758
+01:03:42.770 --> 01:03:44.690
+these sort of pendulum effect
+
+1759
+01:03:45.200 --> 01:03:47.269
+in regards to tech and programing,
+
+1760
+01:03:47.500 --> 01:03:48.530
+throw it out. Time
+
+1761
+01:03:49.430 --> 01:03:50.929
+to Vinick's several different
+
+1762
+01:03:50.930 --> 01:03:51.859
+paradigms.
+
+1763
+01:03:51.860 --> 01:03:53.219
+There's a certain time where people
+
+1764
+01:03:53.230 --> 01:03:55.039
+were like, are we going to do things
+
+1765
+01:03:55.040 --> 01:03:55.959
+imperatively?
+
+1766
+01:03:55.960 --> 01:03:57.439
+Are we going to go object oriented
+
+1767
+01:03:57.440 --> 01:03:58.440
+or functional?
+
+1768
+01:03:59.770 --> 01:04:01.729
+And for example, right now there's
+
+1769
+01:04:01.730 --> 01:04:03.130
+a whole bunch of language used are
+
+1770
+01:04:03.140 --> 01:04:04.610
+sort of like very aggressively
+
+1771
+01:04:05.480 --> 01:04:07.280
+taking that standpoint of
+
+1772
+01:04:07.820 --> 01:04:09.589
+being very pro,
+
+1773
+01:04:09.890 --> 01:04:12.409
+being friendly with concurrency
+
+1774
+01:04:12.410 --> 01:04:14.270
+or being bery
+
+1775
+01:04:14.720 --> 01:04:16.429
+regardless of what immutability with
+
+1776
+01:04:16.430 --> 01:04:17.430
+memory.
+
+1777
+01:04:17.600 --> 01:04:19.070
+And I think that that kind of
+
+1778
+01:04:19.160 --> 01:04:20.287
+pendulum effect happens
+
+1779
+01:04:21.080 --> 01:04:22.999
+because technology has actually
+
+1780
+01:04:23.000 --> 01:04:24.339
+been evolving throughout time.
+
+1781
+01:04:24.920 --> 01:04:26.749
+Our machines are like beefier and
+
+1782
+01:04:26.750 --> 01:04:28.010
+we have more memory now.
+
+1783
+01:04:28.520 --> 01:04:29.520
+So that waste on we
+
+1784
+01:04:30.380 --> 01:04:32.239
+design programing languages now
+
+1785
+01:04:32.790 --> 01:04:34.099
+are probably a lot different than
+
+1786
+01:04:34.100 --> 01:04:36.079
+there were 20 or 30 years
+
+1787
+01:04:36.080 --> 01:04:37.429
+ago. So
+
+1788
+01:04:37.970 --> 01:04:39.919
+considering that, where do you think
+
+1789
+01:04:39.980 --> 01:04:42.019
+or how do you think the programing
+
+1790
+01:04:42.020 --> 01:04:43.579
+languages of 10 years into the
+
+1791
+01:04:43.580 --> 01:04:44.630
+future are going to look like?
+
+1792
+01:04:45.290 --> 01:04:46.999
+Or in your opinion,
+
+1793
+01:04:48.070 --> 01:04:50.239
+where where is language you design
+
+1794
+01:04:50.510 --> 01:04:52.489
+headed to in the future?
+
+1795
+01:04:53.220 --> 01:04:54.079
+So. So.
+
+1796
+01:04:54.080 --> 01:04:56.210
+So my favorite candidate for that
+
+1797
+01:04:57.020 --> 01:04:58.909
+is that, you
+
+1798
+01:04:58.910 --> 01:05:00.919
+know, these, you know, major breaks
+
+1799
+01:05:00.920 --> 01:05:02.299
+and things like that always happen
+
+1800
+01:05:02.300 --> 01:05:03.672
+because, you know, something
+
+1801
+01:05:04.280 --> 01:05:05.799
+major happens in the underlying
+
+1802
+01:05:05.870 --> 01:05:06.870
+technology.
+
+1803
+01:05:07.550 --> 01:05:09.469
+And, you know, one
+
+1804
+01:05:09.470 --> 01:05:10.579
+of the areas
+
+1805
+01:05:11.540 --> 01:05:12.540
+of underlying
+
+1806
+01:05:13.550 --> 01:05:15.069
+technology that is kind of like
+
+1807
+01:05:15.650 --> 01:05:17.750
+a computer that
+
+1808
+01:05:17.930 --> 01:05:20.420
+I think is really underserved is
+
+1809
+01:05:20.900 --> 01:05:22.880
+is writing code for GP use.
+
+1810
+01:05:24.000 --> 01:05:25.520
+Right. I mean, right now there are
+
+1811
+01:05:26.270 --> 01:05:28.190
+there are no languages
+
+1812
+01:05:28.550 --> 01:05:29.550
+worth that crap.
+
+1813
+01:05:30.500 --> 01:05:32.719
+And that's a technical for trademark
+
+1814
+01:05:35.010 --> 01:05:37.070
+that work well
+
+1815
+01:05:37.160 --> 01:05:38.389
+on GP use.
+
+1816
+01:05:38.960 --> 01:05:41.020
+And, you know, maybe because there's
+
+1817
+01:05:41.030 --> 01:05:42.030
+like a limited
+
+1818
+01:05:43.160 --> 01:05:44.929
+number of algorithms that people are
+
+1819
+01:05:44.930 --> 01:05:46.498
+willing to are really interested
+
+1820
+01:05:46.820 --> 01:05:48.049
+in, but they're really important
+
+1821
+01:05:48.050 --> 01:05:48.889
+ones.
+
+1822
+01:05:48.890 --> 01:05:50.479
+Or maybe it's because they're
+
+1823
+01:05:50.540 --> 01:05:52.640
+they're inherently all mathematical.
+
+1824
+01:05:53.330 --> 01:05:55.039
+And the number of people who care
+
+1825
+01:05:55.040 --> 01:05:56.929
+about writing numerical code
+
+1826
+01:05:56.960 --> 01:05:58.699
+is small.
+
+1827
+01:06:00.080 --> 01:06:01.670
+I'm one of those, though.
+
+1828
+01:06:02.160 --> 01:06:03.826
+And you know, and so every now and
+
+1829
+01:06:03.980 --> 01:06:05.749
+then, I spend time thinking about,
+
+1830
+01:06:06.350 --> 01:06:07.569
+you know, what would you do to make
+
+1831
+01:06:07.570 --> 01:06:08.900
+GPE you programing
+
+1832
+01:06:09.530 --> 01:06:10.530
+really easy.
+
+1833
+01:06:17.550 --> 01:06:19.429
+Yeah, but but but it's more than
+
+1834
+01:06:19.430 --> 01:06:20.749
+just vector operators.
+
+1835
+01:06:20.800 --> 01:06:22.639
+I mean that that's kind of my my
+
+1836
+01:06:22.640 --> 01:06:24.109
+problem with the whole thing is that
+
+1837
+01:06:24.110 --> 01:06:26.239
+most of these things are just
+
+1838
+01:06:26.360 --> 01:06:28.309
+libraries of hand coded
+
+1839
+01:06:28.310 --> 01:06:30.840
+assembly that do vector operators.
+
+1840
+01:06:31.850 --> 01:06:33.889
+And and surely there's
+
+1841
+01:06:33.890 --> 01:06:35.510
+something more clever than that.
+
+1842
+01:06:38.960 --> 01:06:40.439
+Maybe I'll just add one with
+
+1843
+01:06:40.460 --> 01:06:41.509
+language design. You know, one of
+
+1844
+01:06:41.510 --> 01:06:42.409
+one of the things that's interesting,
+
+1845
+01:06:42.410 --> 01:06:43.879
+you look at like all of us old
+
+1846
+01:06:43.880 --> 01:06:45.209
+geezers sitting up here and there
+
+1847
+01:06:45.230 --> 01:06:46.969
+they were, we're proof positive that
+
+1848
+01:06:46.970 --> 01:06:48.219
+languages move slowly.
+
+1849
+01:06:49.860 --> 01:06:51.800
+And I mean, it's not
+
+1850
+01:06:51.890 --> 01:06:52.890
+you know, like
+
+1851
+01:06:53.930 --> 01:06:55.339
+a lot of people make the mistake of
+
+1852
+01:06:55.340 --> 01:06:56.839
+thinking that languages move at the
+
+1853
+01:06:56.840 --> 01:06:58.159
+same speed as like
+
+1854
+01:06:58.730 --> 01:07:00.619
+hardware or like all of the other
+
+1855
+01:07:00.620 --> 01:07:02.480
+technologies that that that
+
+1856
+01:07:02.600 --> 01:07:04.190
+we live with. But but
+
+1857
+01:07:04.670 --> 01:07:06.379
+languages are much more like math
+
+1858
+01:07:06.410 --> 01:07:08.329
+and much more like the human brain.
+
+1859
+01:07:08.360 --> 01:07:10.049
+And, you know, and they all evolve
+
+1860
+01:07:10.250 --> 01:07:11.879
+slowly. And we're still programing
+
+1861
+01:07:11.880 --> 01:07:13.595
+and languages that were invented 50
+
+1862
+01:07:13.880 --> 01:07:15.019
+years ago, like functional.
+
+1863
+01:07:15.020 --> 01:07:16.159
+But all of the principles of
+
+1864
+01:07:16.160 --> 01:07:17.599
+functional programing were thought
+
+1865
+01:07:17.600 --> 01:07:19.070
+of more than 50 years ago.
+
+1866
+01:07:20.420 --> 01:07:22.369
+I do think one of the things that
+
+1867
+01:07:22.370 --> 01:07:24.469
+that is luckily happening is
+
+1868
+01:07:24.470 --> 01:07:26.140
+that like as Larry said, everyone's
+
+1869
+01:07:26.150 --> 01:07:27.739
+boring from everyone and languages
+
+1870
+01:07:27.740 --> 01:07:29.760
+are becoming more multi paradigm.
+
+1871
+01:07:29.810 --> 01:07:31.699
+Yeah, I think it's wrong to talk
+
+1872
+01:07:31.700 --> 01:07:33.559
+about oh, I only
+
+1873
+01:07:33.560 --> 01:07:35.079
+like object oriented programing
+
+1874
+01:07:35.150 --> 01:07:37.099
+languages or I only like imperative
+
+1875
+01:07:37.100 --> 01:07:38.960
+programing or functional programing.
+
+1876
+01:07:38.990 --> 01:07:40.520
+I mean, it's important to
+
+1877
+01:07:41.300 --> 01:07:42.829
+look at where's the research or
+
+1878
+01:07:42.850 --> 01:07:44.149
+where the new where's the new
+
+1879
+01:07:44.150 --> 01:07:45.709
+thinking and where where are new
+
+1880
+01:07:45.710 --> 01:07:47.419
+paradigms that are interesting and
+
+1881
+01:07:47.420 --> 01:07:49.400
+then try to try to incorporate them.
+
+1882
+01:07:49.430 --> 01:07:51.320
+But do so tastefully
+
+1883
+01:07:51.680 --> 01:07:53.809
+in a sense and and work them in to
+
+1884
+01:07:53.900 --> 01:07:55.615
+work them into whatever is is there
+
+1885
+01:07:56.060 --> 01:07:56.669
+already.
+
+1886
+01:07:56.670 --> 01:07:58.336
+And and I think we're all learning
+
+1887
+01:07:58.730 --> 01:08:00.109
+a lot from functional programing
+
+1888
+01:08:00.110 --> 01:08:00.979
+languages these days.
+
+1889
+01:08:00.980 --> 01:08:03.139
+I certainly feel like I am because
+
+1890
+01:08:03.140 --> 01:08:05.089
+a lot of interesting research
+
+1891
+01:08:05.090 --> 01:08:06.090
+has happened there.
+
+1892
+01:08:06.290 --> 01:08:07.440
+But functional programing
+
+1893
+01:08:08.210 --> 01:08:09.337
+is imperfect and no one
+
+1894
+01:08:10.070 --> 01:08:11.690
+writes pure functional programs.
+
+1895
+01:08:11.750 --> 01:08:13.429
+I mean because they they don't
+
+1896
+01:08:13.430 --> 01:08:14.606
+exist. So it's all about
+
+1897
+01:08:15.260 --> 01:08:17.270
+like how can you tastefully
+
+1898
+01:08:17.399 --> 01:08:18.399
+sneak in mutation in
+
+1899
+01:08:19.340 --> 01:08:21.289
+ways that you can better reason
+
+1900
+01:08:21.290 --> 01:08:23.119
+about as opposed to
+
+1901
+01:08:23.750 --> 01:08:25.879
+mutation and free threading for
+
+1902
+01:08:25.880 --> 01:08:26.818
+everyone, you know?
+
+1903
+01:08:26.819 --> 01:08:28.579
+And that's like just a
+
+1904
+01:08:28.970 --> 01:08:30.259
+recipe for disaster.
+
+1905
+01:08:30.290 --> 01:08:30.659
+Right.
+
+1906
+01:08:30.660 --> 01:08:31.660
+So,
+
+1907
+01:08:32.740 --> 01:08:33.740
+yes.
+
+1908
+01:08:40.560 --> 01:08:41.999
+All languages are imperfect.
+
+1909
+01:08:42.029 --> 01:08:43.439
+Let's just settle it right there.
+
+1910
+01:08:43.540 --> 01:08:44.540
+You know.
+
+1911
+01:09:04.760 --> 01:09:06.619
+Yes, we've been
+
+1912
+01:09:06.620 --> 01:09:07.959
+thinking a lot about the
+
+1913
+01:09:08.470 --> 01:09:10.550
+the the parallelism
+
+1914
+01:09:10.580 --> 01:09:11.959
+concurrency issue.
+
+1915
+01:09:12.770 --> 01:09:14.599
+This is one of those issues where we
+
+1916
+01:09:14.600 --> 01:09:15.739
+were waiting to be smarter.
+
+1917
+01:09:17.229 --> 01:09:18.229
+Uh, we we
+
+1918
+01:09:19.130 --> 01:09:20.130
+did borrow.
+
+1919
+01:09:21.050 --> 01:09:22.399
+I mean, steal a bunch of
+
+1920
+01:09:23.029 --> 01:09:24.529
+ideas from Haskell
+
+1921
+01:09:24.920 --> 01:09:26.194
+in terms of lazy lists and
+
+1922
+01:09:26.750 --> 01:09:28.579
+things like that. But in
+
+1923
+01:09:28.580 --> 01:09:30.649
+terms of how you actually
+
+1924
+01:09:30.890 --> 01:09:32.059
+are going to deal with the end of
+
+1925
+01:09:32.060 --> 01:09:33.060
+Moore's Law
+
+1926
+01:09:34.130 --> 01:09:35.389
+or if not the end of Moore's Law, at
+
+1927
+01:09:35.390 --> 01:09:37.759
+least, you know, multi, multi,
+
+1928
+01:09:38.990 --> 01:09:41.090
+multiple C.P.S., many, many cores.
+
+1929
+01:09:41.540 --> 01:09:42.688
+When you have a thousand cores, what
+
+1930
+01:09:42.689 --> 01:09:43.689
+are you gonna do with them?
+
+1931
+01:09:44.180 --> 01:09:46.309
+And so a lot of our
+
+1932
+01:09:46.760 --> 01:09:48.648
+early design on Perl 6
+
+1933
+01:09:48.649 --> 01:09:50.449
+was we didn't understand how
+
+1934
+01:09:50.510 --> 01:09:52.309
+we wanted to do it yet, but
+
+1935
+01:09:52.550 --> 01:09:54.140
+we knew very
+
+1936
+01:09:54.620 --> 01:09:56.539
+we knew very deeply that we didn't
+
+1937
+01:09:56.540 --> 01:09:57.409
+want to do anything. It would
+
+1938
+01:09:57.410 --> 01:09:58.410
+prevent it.
+
+1939
+01:09:59.060 --> 01:10:00.899
+So a lot of the early design
+
+1940
+01:10:00.980 --> 01:10:02.930
+decisions were just saying, well,
+
+1941
+01:10:03.290 --> 01:10:04.290
+we have to keep this open.
+
+1942
+01:10:05.210 --> 01:10:06.778
+Then when the right smart people
+
+1943
+01:10:06.950 --> 01:10:08.600
+came along, they said, look,
+
+1944
+01:10:09.230 --> 01:10:10.896
+what you really have to look at is
+
+1945
+01:10:11.210 --> 01:10:12.209
+things that are composed.
+
+1946
+01:10:12.210 --> 01:10:13.210
+All threads are
+
+1947
+01:10:14.060 --> 01:10:15.169
+not composed of, well, we can't take
+
+1948
+01:10:15.170 --> 01:10:16.489
+two threads and turn it into a third
+
+1949
+01:10:16.490 --> 01:10:17.490
+thread.
+
+1950
+01:10:18.440 --> 01:10:19.819
+What you want is things like
+
+1951
+01:10:20.360 --> 01:10:21.529
+we stole from go from.
+
+1952
+01:10:21.530 --> 01:10:23.689
+We stole promises and channels
+
+1953
+01:10:24.290 --> 01:10:26.029
+from C-sharp. We stole functional
+
+1954
+01:10:26.030 --> 01:10:27.039
+reaction will programing.
+
+1955
+01:10:29.270 --> 01:10:31.279
+And with these sort of primitives
+
+1956
+01:10:32.510 --> 01:10:34.078
+which end up being duels of your
+
+1957
+01:10:34.340 --> 01:10:35.719
+regular list processing kind of
+
+1958
+01:10:35.720 --> 01:10:37.459
+primitives, they just happened to be
+
+1959
+01:10:37.460 --> 01:10:38.460
+working on events.
+
+1960
+01:10:38.890 --> 01:10:40.939
+And you're you can have loops, event
+
+1961
+01:10:40.940 --> 01:10:42.139
+loops that were just like regular
+
+1962
+01:10:42.140 --> 01:10:43.979
+loops that they're running on and
+
+1963
+01:10:44.510 --> 01:10:45.379
+same control flow.
+
+1964
+01:10:45.380 --> 01:10:46.700
+So that is easy to learn.
+
+1965
+01:10:47.370 --> 01:10:48.938
+There are ways of sneaking these
+
+1966
+01:10:49.310 --> 01:10:51.710
+things into a language,
+
+1967
+01:10:53.000 --> 01:10:54.109
+at least in the ways that we
+
+1968
+01:10:54.110 --> 01:10:55.220
+understand right now
+
+1969
+01:10:55.940 --> 01:10:58.100
+that I heard.
+
+1970
+01:10:59.750 --> 01:11:00.750
+Was it.
+
+1971
+01:11:01.250 --> 01:11:02.869
+Who is talking about adding fibers
+
+1972
+01:11:02.870 --> 01:11:04.420
+to their runtime?
+
+1973
+01:11:04.640 --> 01:11:06.109
+I think you'd think it was a Java
+
+1974
+01:11:06.230 --> 01:11:07.230
+news item,
+
+1975
+01:11:08.600 --> 01:11:10.099
+but like lightweight threads that
+
+1976
+01:11:10.100 --> 01:11:11.178
+can you, as Erlang has
+
+1977
+01:11:12.110 --> 01:11:13.689
+done, has shown, you know, you can
+
+1978
+01:11:13.690 --> 01:11:14.839
+run a hundred thousand threads in
+
+1979
+01:11:14.840 --> 01:11:15.840
+your process.
+
+1980
+01:11:15.990 --> 01:11:17.089
+That's another language that's been
+
+1981
+01:11:17.090 --> 01:11:18.049
+around for a long.
+
+1982
+01:11:18.050 --> 01:11:19.420
+Oh yeah. And we stole from them too.
+
+1983
+01:11:19.600 --> 01:11:20.600
+Yeah.
+
+1984
+01:11:21.080 --> 01:11:22.219
+Should we. We like their pattern
+
+1985
+01:11:22.220 --> 01:11:23.099
+matching.
+
+1986
+01:11:23.100 --> 01:11:24.919
+But one of the many therms is
+
+1987
+01:11:24.920 --> 01:11:26.389
+that all of that language design is
+
+1988
+01:11:26.390 --> 01:11:27.589
+theft of course.
+
+1989
+01:11:28.230 --> 01:11:29.209
+Yeah. So yeah.
+
+1990
+01:11:29.210 --> 01:11:30.380
+I mean we're thinking about it.
+
+1991
+01:11:30.410 --> 01:11:31.549
+We don't know have all the answers
+
+1992
+01:11:31.550 --> 01:11:32.550
+yet but
+
+1993
+01:11:34.370 --> 01:11:35.899
+I think all these languages, you
+
+1994
+01:11:35.900 --> 01:11:37.468
+know, long term tend to converge
+
+1995
+01:11:37.790 --> 01:11:38.899
+on similar solutions.
+
+1996
+01:11:39.620 --> 01:11:40.747
+So very sadly we are at
+
+1997
+01:11:41.540 --> 01:11:43.580
+the last question.
+
+1998
+01:11:44.990 --> 01:11:46.910
+I know you went so quickly
+
+1999
+01:11:46.940 --> 01:11:48.770
+and unfortunately
+
+2000
+01:11:49.190 --> 01:11:51.319
+all good things must end
+
+2001
+01:11:52.130 --> 01:11:53.899
+except for maybe good languages.
+
+2002
+01:11:56.150 --> 01:11:58.520
+So I'm going to start and
+
+2003
+01:11:59.180 --> 01:12:00.920
+maybe quickly wrap up
+
+2004
+01:12:01.400 --> 01:12:03.259
+as you look back over
+
+2005
+01:12:03.320 --> 01:12:04.839
+the long lives of the languages
+
+2006
+01:12:05.390 --> 01:12:06.390
+that you've written.
+
+2007
+01:12:06.830 --> 01:12:08.630
+What have you found most rewarding?
+
+2008
+01:12:10.150 --> 01:12:11.029
+The people?
+
+2009
+01:12:11.030 --> 01:12:12.590
+The people by far
+
+2010
+01:12:12.880 --> 01:12:13.880
+after the.
+
+2011
+01:12:16.810 --> 01:12:17.810
+Oh, yeah.
+
+2012
+01:12:18.630 --> 01:12:20.269
+Yeah. I mean, that that's what keeps
+
+2013
+01:12:20.270 --> 01:12:21.800
+me coming back, that to work
+
+2014
+01:12:21.830 --> 01:12:23.899
+everyday is like the incredible
+
+2015
+01:12:23.900 --> 01:12:25.700
+excitement that
+
+2016
+01:12:25.790 --> 01:12:27.409
+the community shows.
+
+2017
+01:12:27.740 --> 01:12:29.839
+You and I I am so grateful
+
+2018
+01:12:29.840 --> 01:12:31.550
+for all the people who
+
+2019
+01:12:32.590 --> 01:12:33.600
+who have used that.
+
+2020
+01:12:34.190 --> 01:12:35.509
+I mean, it there's nothing more
+
+2021
+01:12:35.510 --> 01:12:36.784
+rewarding than have people
+
+2022
+01:12:37.550 --> 01:12:39.430
+just like on Twitter or
+
+2023
+01:12:39.440 --> 01:12:41.204
+wherever it is, go, oh, my God, this
+
+2024
+01:12:41.270 --> 01:12:42.990
+is so great. And it's like, yeah,
+
+2025
+01:12:43.430 --> 01:12:44.749
+that makes you want to just keep
+
+2026
+01:12:44.750 --> 01:12:45.559
+doing more of it.
+
+2027
+01:12:45.560 --> 01:12:46.049
+I mean.
+
+2028
+01:12:46.050 --> 01:12:47.716
+Oh, yeah. You know, somebody comes
+
+2029
+01:12:48.050 --> 01:12:49.618
+up to me in the street somewhere
+
+2030
+01:12:50.120 --> 01:12:51.629
+and says, you know,
+
+2031
+01:12:52.370 --> 01:12:54.080
+thanks for giving me a career.
+
+2032
+01:12:54.500 --> 01:12:55.640
+Can I have a selfie?
+
+2033
+01:12:57.370 --> 01:12:58.791
+You know, that's like this is
+
+2034
+01:12:59.270 --> 01:13:01.189
+kind of like, you know, light and
+
+2035
+01:13:01.190 --> 01:13:02.089
+dark thing.
+
+2036
+01:13:02.090 --> 01:13:03.266
+But being this is really
+
+2037
+01:13:03.950 --> 01:13:04.939
+wonderful.
+
+2038
+01:13:04.940 --> 01:13:05.929
+This is all great.
+
+2039
+01:13:05.930 --> 01:13:07.369
+I mean, I have to be in Silicon
+
+2040
+01:13:07.370 --> 01:13:09.289
+Valley at a movie theater, the
+
+2041
+01:13:09.290 --> 01:13:10.290
+tire shop.
+
+2042
+01:13:14.350 --> 01:13:15.739
+Yeah. Well, what's really weird is
+
+2043
+01:13:15.740 --> 01:13:17.269
+when you're when your kids are with
+
+2044
+01:13:17.270 --> 01:13:18.410
+you when that happens.
+
+2045
+01:13:20.430 --> 01:13:21.430
+But but, yes, it's.
+
+2046
+01:13:21.440 --> 01:13:23.239
+It's when the when people say, you
+
+2047
+01:13:23.240 --> 01:13:24.612
+gave me a career, you get my
+
+2048
+01:13:24.990 --> 01:13:25.990
+livelihood.
+
+2049
+01:13:26.480 --> 01:13:27.480
+You fed my family.
+
+2050
+01:13:27.540 --> 01:13:28.540
+Yeah.
+
+2051
+01:13:29.600 --> 01:13:30.739
+That's the best.
+
+2052
+01:13:32.150 --> 01:13:33.150
+It's.
+
+2053
+01:13:33.320 --> 01:13:35.060
+And you know, and
+
+2054
+01:13:35.210 --> 01:13:36.289
+and not just.
+
+2055
+01:13:36.990 --> 01:13:38.389
+And we're not talking about a star
+
+2056
+01:13:38.390 --> 01:13:39.390
+relationship here.
+
+2057
+01:13:39.920 --> 01:13:41.719
+Each of us to those individuals,
+
+2058
+01:13:41.990 --> 01:13:43.369
+we're talking about the second
+
+2059
+01:13:43.370 --> 01:13:45.469
+order, Community 2.0
+
+2060
+01:13:46.010 --> 01:13:47.010
+kind of effects.
+
+2061
+01:13:47.300 --> 01:13:48.300
+It's it's one
+
+2062
+01:13:49.220 --> 01:13:50.800
+thing to see them, you know,
+
+2063
+01:13:51.950 --> 01:13:52.950
+getting help from you.
+
+2064
+01:13:53.030 --> 01:13:54.229
+It's another thing to see them
+
+2065
+01:13:54.230 --> 01:13:55.230
+helping each other.
+
+2066
+01:13:56.660 --> 01:13:58.100
+That's a whole whole level above
+
+2067
+01:13:58.870 --> 01:14:00.980
+even the individual relationships.
+
+2068
+01:14:01.280 --> 01:14:03.680
+I feel to see a community
+
+2069
+01:14:04.070 --> 01:14:05.539
+that is learning how to love,
+
+2070
+01:14:06.230 --> 01:14:07.339
+you know, kind of building a little
+
+2071
+01:14:07.340 --> 01:14:08.340
+bit of heaven on earth.
+
+2072
+01:14:10.460 --> 01:14:11.460
+There's just nothing like it.
+
+2073
+01:14:13.850 --> 01:14:15.020
+Completely agree.
+
+2074
+01:14:15.480 --> 01:14:16.849
+Kita, you get the last word.
+
+2075
+01:14:22.250 --> 01:14:23.659
+And we love learning from you as
+
+2076
+01:14:23.660 --> 01:14:24.199
+well.
+
+2077
+01:14:24.200 --> 01:14:26.180
+And with that,
+
+2078
+01:14:26.810 --> 01:14:28.699
+I want to say we've all
+
+2079
+01:14:28.700 --> 01:14:29.876
+learned so much from all
+
+2080
+01:14:30.560 --> 01:14:32.599
+of our wonderful panelists tonight.
+
+2081
+01:14:33.230 --> 01:14:34.357
+I want to thank you for
+
+2082
+01:14:35.120 --> 01:14:36.786
+allowing me to share and celebrate
+
+2083
+01:14:37.370 --> 01:14:38.600
+this moment with you.
+
+2084
+01:14:39.260 --> 01:14:41.030
+The little fifth grade kid in me
+
+2085
+01:14:41.090 --> 01:14:42.829
+that was plinking away on basic at
+
+2086
+01:14:42.830 --> 01:14:44.779
+Bell Labs who later
+
+2087
+01:14:44.780 --> 01:14:45.889
+watch the P.C.
+
+2088
+01:14:45.890 --> 01:14:47.929
+cell phone, Internet, Web and cloud
+
+2089
+01:14:47.930 --> 01:14:49.489
+computing and change our world.
+
+2090
+01:14:49.850 --> 01:14:51.709
+Never dreamed that I would be
+
+2091
+01:14:51.710 --> 01:14:53.510
+chatting with four individuals
+
+2092
+01:14:53.780 --> 01:14:55.760
+who profoundly impacted our world
+
+2093
+01:14:55.790 --> 01:14:57.979
+by doing what they love, creating
+
+2094
+01:14:58.100 --> 01:14:59.239
+and building languages.
+
+2095
+01:14:59.540 --> 01:15:01.489
+Please join me in
+
+2096
+01:15:01.490 --> 01:15:03.529
+a huge round of applause to thank
+
+2097
+01:15:03.620 --> 01:15:04.620
+Anders
+
+2098
+01:15:07.040 --> 01:15:09.180
+for inspiring this evening.
+
+2099
+01:15:15.990 --> 01:15:16.990
+Thank you, Carol.
+
+2100
+01:15:18.050 --> 01:15:19.050
+OK.
+
+2101
+01:15:19.320 --> 01:15:19.629
+OK.
+
+2102
+01:15:19.630 --> 01:15:20.720
+Was that epic?
+
+2103
+01:15:22.200 --> 01:15:24.539
+So, Marina, I have an idea.
+
+2104
+01:15:24.840 --> 01:15:26.457
+If you guys could step down right
+
+2105
+01:15:26.820 --> 01:15:28.109
+here, we're going to get a giant
+
+2106
+01:15:28.110 --> 01:15:29.110
+picture of everybody.
+
+2107
+01:15:30.720 --> 01:15:32.130
+You guys stand right there.
+
+2108
+01:15:32.770 --> 01:15:33.629
+We're going to get up here with your
+
+2109
+01:15:33.630 --> 01:15:34.630
+camera.
+
+2110
+01:15:38.610 --> 01:15:39.869
+All right. We're getting a picture
+
+2111
+01:15:39.870 --> 01:15:40.920
+of everybody in that room.
+
+2112
+01:15:42.300 --> 01:15:44.189
+All right. I need some excitement.
+
+2113
+01:15:47.070 --> 01:15:48.600
+Oh, my God. I met my idol.
+
+2114
+01:15:50.460 --> 01:15:51.359
+She can stand on the chair.
+
+2115
+01:15:51.360 --> 01:15:52.360
+You can use my shoulder.
+
+2116
+01:15:53.220 --> 01:15:54.059
+OK.
+
+2117
+01:15:54.060 --> 01:15:55.628
+All right. Show some excitement,
+
+2118
+01:15:55.680 --> 01:15:56.760
+people. Let's see it.
+
+2119
+01:16:01.350 --> 01:16:02.350
+Monahan's.
+
+2120
+01:16:05.480 --> 01:16:07.180
+Three times it's kinda weird and
+
+2121
+01:16:07.190 --> 01:16:08.190
+lumpy.
+
+2122
+01:16:11.630 --> 01:16:12.630
+OK,
+
+2123
+01:16:14.480 --> 01:16:16.189
+thank you, everyone, for coming.
+
+2124
+01:16:16.220 --> 01:16:18.199
+Thank you to all of our speakers.
+
+2125
+01:16:18.230 --> 01:16:19.790
+Thank you to our organizers.
+
+2126
+01:16:19.820 --> 01:16:22.039
+Let's do something equally awesome
+
+2127
+01:16:22.040 --> 01:16:23.040
+next year.
+
+2128
+01:16:23.780 --> 01:16:24.780
+And
+
+2129
+01:16:25.640 --> 01:16:26.939
+if you want a robot there, 100
+
+2130
+01:16:26.960 --> 01:16:28.070
+bucks. So come see me.
+

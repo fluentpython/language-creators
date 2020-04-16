@@ -1,0 +1,1159 @@
+Unknown Speaker  0:00  
+You guys ready for some language creators.
+
+Unknown Speaker  0:07  
+Without further ado, I will introduce
+
+Unknown Speaker  0:09  
+Carol willing. She is a Python steering Council and project Jupiter steering council member. She blends the strings of Python and Jupiter notebooks to improve access to learning and education. Due to the worldwide foundation of the Python language, the hard work of the Jupiter team and users worldwide, Carol was awarded the 2017 ACM software system award recognizing the lasting influence of Jupiter abroad collaboration, the developers open source tools for interactive computing, with a
+
+Unknown Speaker  0:36  
+language agnostic design. Thank you.
+
+Unknown Speaker  0:47  
+Welcome, everybody for being here. It is my absolute pleasure to share this evening with you and some of the people that actually influenced my career in software development. So let's get through this. And for those of you that are watching us on the live stream, Hello, and welcome, and you hope you have a wonderful evening with us. We have a really distinguished panel of language creators, and I'd like to invite them to the stage as we read their bios, I'm going to keep the BIOS really short, because I think most of them need no introduction whatsoever. And that'll save us some time for more juicy language design stuff. Okay. So first, we have you know, Ben Rossum, who developed the Python language that touches pretty much every corner of society today in some way and
+
+Unknown Speaker  1:52  
+the creator of Java which is used across a
+
+Unknown Speaker  1:55  
+broad variety of
+
+Unknown Speaker  1:56  
+devices and deployments at scale. Welcome And
+
+Unknown Speaker  2:08  
+who has architected a number of languages over the past several decades, including turbo Pascal, Delphi, C sharp and some of you might know this little language, TypeScript.
+
+Unknown Speaker  2:25  
+And last but certainly not least, Larry wall,
+
+Unknown Speaker  2:28  
+who combined his unique perspective on text and
+
+Unknown Speaker  2:32  
+computing with his strong background in linguistics to fake Perl, and its sister sibling, Perl six. Welcome.
+
+Unknown Speaker  2:51  
+So, just a couple housekeeping things about this evening's format, you're in for an engaging and hopefully very lively discussion more likely than we were at dinner. I think that's possible. Right? Okay. The formulas for beer.
+
+Unknown Speaker  3:09  
+Okay, we can do
+
+Unknown Speaker  3:09  
+that.
+
+Unknown Speaker  3:11  
+Keep it coming.
+
+Unknown Speaker  3:13  
+Okay, so the format will be two sessions with a 15 minute intermission. What I'll do is I will start by asking one of the panelists a question. And hopefully the response will be like one to two minutes, and then we'll kind of throw it open for other panelists to respond, and hopefully get a really good discussion going. And the more you discuss, the less I have to ask questions and the more in depth we can go on the really cool stuff.
+
+Unknown Speaker  3:43  
+After the 15 minute intermission, we're going to
+
+Unknown Speaker  3:47  
+take questions from
+
+Unknown Speaker  3:48  
+the audience over
+
+Unknown Speaker  3:52  
+a winner,
+
+Unknown Speaker  3:54  
+Twitter. Okay, so tweet out your questions. Hashtag is puppy media bell.
+
+Unknown Speaker  3:59  
+And if you can get those in by eight o'clock, we'll kind of collate them and
+
+Unknown Speaker  4:06  
+have some really great audience questions about language creation and language design. So, I am going to invite you to sit back. Enjoy a cup of strong Java, C sharp responses and insights, learn pearls of wisdom, and embrace the Python programming Zen
+
+Unknown Speaker  4:31  
+started and we'll start the celebration with a question for ghido about principles of language design. You know, you've mentioned before, perhaps somewhat jokingly the Harry Potter theory of language design. What is this theory? And what do you see as the key principles of language design? Okay, The
+
+Unknown Speaker  5:01  
+Harry Potter theory of language design was a blog post I wrote there.
+
+Unknown Speaker  5:08  
+I didn't know but I cannot believe that every little detail that JK Rowling put in the first Harry Potter book was intended as
+
+Unknown Speaker  5:20  
+some important walk points in Part Six or seven.
+
+Unknown Speaker  5:29  
+And even if JK Rowling was such a genius that he had it actually all planned out and that was, I think we found out it was actually a blizzard in disguise. But it was just like a temporary diversion during the train ride and otherwise you didn't hear much about the rap with a finger.
+
+Unknown Speaker  5:54  
+In language design, often that's exactly how things go. You
+
+Unknown Speaker  6:01  
+You choose some detail, because you you have to commit you sort of, you have to pick keywords, you have to choose a style of coding, like maybe you choose indentation instead of curly braces,
+
+Unknown Speaker  6:18  
+or maybe you don't
+
+Unknown Speaker  6:22  
+your specialties. But
+
+Unknown Speaker  6:27  
+whatever you do, in some way you're stuck with that. And you find new uses of that. The detail that you picked before you knew how important it would be. And, and the sort of the craft of designing a language is on one hand, pick your initial set of choices so that there are a lot of possible continuations of the story. The other half of the The Art of language design is going back to your story and
+
+Unknown Speaker  7:06  
+inventing creative ways of continuing it in a way that you had not.
+
+Unknown Speaker  7:15  
+So I think each of you have languages that are split in multiple decades. So what are some of the principles that Java
+
+Unknown Speaker  7:24  
+you know, so So, Java was sort of odd in that
+
+Unknown Speaker  7:30  
+it didn't come out of like a personal passion project or something.
+
+Unknown Speaker  7:36  
+from trying to build a prototype.
+
+Unknown Speaker  7:40  
+We were trying to understand it.
+
+Unknown Speaker  7:44  
+systems and
+
+Unknown Speaker  7:48  
+a lot of
+
+Unknown Speaker  7:49  
+time talking to people who build software
+
+Unknown Speaker  7:51  
+for embedded systems and try to understand
+
+Unknown Speaker  8:00  
+And what was it in process for them? What was it?
+
+Unknown Speaker  8:09  
+How things evolved what happened there into the universe? Because it wasn't because I was trying to worry. We were worried about things outside the data centers. And this was a project that had about a dozen people on it. And my little Yeah, but it was my my little piece was, was was sort of like
+
+Unknown Speaker  8:36  
+you know, we sort of figured out the
+
+Unknown Speaker  8:38  
+part of the problem was the
+
+Unknown Speaker  8:43  
+sea has issues
+
+Unknown Speaker  8:48  
+and, and, and so I started out so out of this like, large pie have a project. My slice
+
+Unknown Speaker  8:58  
+was
+
+Unknown Speaker  9:01  
+To make things a little easier from a programming language point of view and fix the pain points that came from the programming language part and it started out as kind of do a better see. And it and it got out of control the rest of the project really ended up just providing context. You know, the the the only thing out of that project that survived was was drama. But, but the fact that it was sort of directed at a set of pain points that happened to be, you know, about people who were living outside of data centers and people who were getting shredded by problems with networking, and security and reliability. And, you know, they had to build things that ran in a hostile environment. Like in homes,
+
+Unknown Speaker  10:05  
+which any home with a child in it is a is a hostile environment
+
+Unknown Speaker  10:13  
+hostile environments.
+
+Unknown Speaker  10:20  
+What were some of the guiding principles we're designing for?
+
+Unknown Speaker  10:35  
+Recently designed,
+
+Unknown Speaker  10:40  
+more, more coming out as a linguist than computer scientists. So I sort of actively ignored some of the computer science literature at the time and said, Well, what can we just throw together one pot that will work more like a natural language
+
+Unknown Speaker  10:57  
+instead of you know, it's stead of
+
+Unknown Speaker  11:02  
+putting on a
+
+Unknown Speaker  11:05  
+campus university campus and deciding where all the walkways are go, we're just going to see where people want to walk, and then put shortcuts in all those places and build it more as a network not as a, you know, terribly orthogonal, or computer science or mathematical thing. And then that turned out to be
+
+Unknown Speaker  11:23  
+in the right place at the right time for bootstrapping a lot of the web.
+
+Unknown Speaker  11:29  
+And it also got used a lot for System Administration. And so
+
+Unknown Speaker  11:37  
+various principles that relate to trying to provide API's to everything and trying to be both a good text processing language, linguistically, but also a good glue language is why it was kind of very useful was the HTML was text and No database back ends. That's that nice blue. And so it was in the right place at the right time. We were very fortunate to have that time because in the 90s, it became very stable. A lot of a lot of widespread use, a lot of people were, the language itself was stabilizing in the form that it was. But there were a lot of issues, and solaar. And so in the year 2000, we took a step back and, and basically said, we're going to break everything that needs breaking. So we kind of did the same thing as the Python two to three step, except instead of breaking a few things, we decided to break everything that needed break. So we came up with a whole raft of design principles in 15 years since then, by the way, Perl six did come up two years ago. It's getting faster. You know, suddenly at the beginning, we said we were going to do something impossible and And fail at it but the very big failure and so far has proven to be that but in the course of fail yeah in the course of that we came up with some really interesting list of about 60 different design principles
+
+Unknown Speaker  13:19  
+even though all
+
+Unknown Speaker  13:21  
+ready you know you know kill two birds with one stone pick the right people know
+
+Unknown Speaker  13:29  
+that this was like that but but we kind of have some cute ones like you think that's cute today.
+
+Unknown Speaker  13:40  
+No.
+
+Unknown Speaker  13:43  
+conserve your brackets because ASCII, even Unicode does not have enough.
+
+Unknown Speaker  13:51  
+Don't reinvent object orientation poorly, which arguably profile
+
+Unknown Speaker  13:59  
+now Substitute strong figures for weak buttons, late binding sometimes cause your program to be late. But some some of the major ones are, you know, a lot of the stuff is profiled to screw over time. And, you know, there were a lot of weird magical variables by going to. And so a great deal of the redesign was just saying, Okay, what is the right page to hang everything on? Is it object oriented? Is it something in the lexical scope or in the larger scope? Or, you know, what is the right peg? And each each piece of information on and if we don't have that pain, how do we create it?
+
+Unknown Speaker  14:46  
+Great question.
+
+Unknown Speaker  14:49  
+Since it's such a great question, I'm gonna put Anders on the spot. And
+
+Unknown Speaker  14:53  
+Terence Parr had a quote
+
+Unknown Speaker  14:54  
+about
+
+Unknown Speaker  14:56  
+while programmers value simplicity they more often value, powerful functionality and amazing one liners incurring the cost of complexity.
+
+Unknown Speaker  15:05  
+So, express
+
+Unknown Speaker  15:09  
+your stress. So what are your thoughts about simplicity vs complexity and some of the principles that might guide you as you develop your languages?
+
+Unknown Speaker  15:22  
+Suppose I,
+
+Unknown Speaker  15:26  
+I was always like,
+
+Unknown Speaker  15:29  
+in doing the language design that I've done always like try to make it so that there's only one way to a particular thing. A lot of languages have four different ways of doing something and you picked the wrong one and then
+
+Unknown Speaker  15:45  
+later, you realize you went down the wrong branch, and now you got it back up. And
+
+Unknown Speaker  15:49  
+so So, but it's
+
+Unknown Speaker  15:52  
+not it's not always easy. And I think there's like often we're guilty of creating what I call the This thing I call simplex, if you
+
+Unknown Speaker  16:02  
+take something
+
+Unknown Speaker  16:03  
+complex and you
+
+Unknown Speaker  16:04  
+wrap a single wrapper on top of it that's likely to go away. But really creating is simplicity. You know, it's just like, a bad abstraction on top of another bad abstraction that is simpler. So I don't know. I mean, it's it's
+
+Unknown Speaker  16:24  
+picking the right people with the complex thing.
+
+Unknown Speaker  16:28  
+Yeah, but, but, I mean, the thing about that about language design is like like any any decision you will have to live with forever. I mean, that and in languages who you can always add, but you can never take away. And so you've got to actually as a language scientists be very judicious
+
+Unknown Speaker  16:50  
+about
+
+Unknown Speaker  16:51  
+reasoning over not so much what to put in but what not to put a tsunami because people come to you all the time, but wouldn't it be great to do this do that or you could?
+
+Unknown Speaker  17:01  
+Well, yeah, but but you can't
+
+Unknown Speaker  17:02  
+fundamentally change the nature of the beast that we created that parable in imperative programming language, you can't turn it into a functional programming language. I mean, you can, you can borrow from functional programming, but, but it is what it is and you got to stay true to the nature of the beast or you got to create a new beast, so to speak.
+
+Unknown Speaker  17:24  
+Okay, great.
+
+Unknown Speaker  17:27  
+Any other thoughts?
+
+Unknown Speaker  17:29  
+Excuse me, can we interrupt you or
+
+Unknown Speaker  17:33  
+interrupt anytime?
+
+Unknown Speaker  17:35  
+So,
+
+Unknown Speaker  17:37  
+under says, sort of point about what, what do you leave out? And the what I remember, in the early days of FIFO design, there were so many people who thought they had a good idea. I was always sufficiently critical To say no.
+
+Unknown Speaker  18:03  
+And so there are a few things that
+
+Unknown Speaker  18:08  
+didn't work out. But at the time I, I hadn't learned to say no. And I quickly enough did learn to say no. And I sort of developed, like, several lines of defense, like the first line of defense is, hey, you think you need a new language feature? But actually, you can already write that in Python. If you needed the locked right to function or a module, well, if they say, Yeah, but everyone needs that. Well, nowadays we say we did on the package repository. In those days, I said, Well, maybe you can propose a new standard library module that's a lot cheaper for the language design them a new language feature. And another line of defense was well, you can actually write extensions in C or Fortran these women care to. And you can help yourself that you can modify the behavior of the language in ways that aren't accessible when you just write the pure language, but you can still sort of, you can extend it in a way that doesn't fundamentally alter the core language. And if you've tried all those things and and you failed, then maybe you could argue for Well, you have to change something in the core language.
+
+Unknown Speaker  19:36  
+I have interrupted.
+
+Unknown Speaker  19:39  
+I find that whenever I get feedback on on whatever, whatever it is
+
+Unknown Speaker  19:44  
+programming language I've been working on, it's people come
+
+Unknown Speaker  19:47  
+to you with a with a particular instance of a problem. And it's your job as a language designer to tease out the class of problem they're talking about and then try to understand Whether there's a feature there underneath that place that is broadly applicable, not just to that one problem, this could solve this and this and this problem as well. And so you're putting in
+
+Unknown Speaker  20:14  
+place, a class, not an instance.
+
+Unknown Speaker  20:20  
+And if all you're talking about is an instance, then you're probably better off.
+
+Unknown Speaker  20:25  
+It's a subjective thing, but to save your
+
+Unknown Speaker  20:29  
+money for power,
+
+Unknown Speaker  20:34  
+in, in the early design of Perl six, we asked for RFCs. I expected about 26 questions, we got 361. So we have this in spades. We, you know, it's completely overwhelming until I hit upon this this principle,
+
+Unknown Speaker  20:53  
+which Anders alluded to, which is basically
+
+Unknown Speaker  20:55  
+ignore the proposed solution. But there is a pain point underneath. And if you look at more of these RFCs and they haven't same pain point, there is something you've addressed. There's some fundamental unification you should do underneath or something that is is clunky, that could be fixed. And especially if you're doing a complete redesign that you can think about.
+
+Unknown Speaker  21:37  
+know there were a whole lot of problems were
+
+Unknown Speaker  21:43  
+clear that there was a problem.
+
+Unknown Speaker  21:46  
+They were like
+
+Unknown Speaker  21:50  
+academics who were absolutely
+
+Unknown Speaker  21:56  
+understanding conditions We get
+
+Unknown Speaker  22:05  
+like 40 different people
+
+Unknown Speaker  22:08  
+from all over the world with radically different ideas. And
+
+Unknown Speaker  22:15  
+it was there
+
+Unknown Speaker  22:17  
+for you.
+
+Unknown Speaker  22:23  
+It's actually important
+
+Unknown Speaker  22:23  
+to
+
+Unknown Speaker  22:26  
+do the science project. So so like with generics in Java.
+
+Unknown Speaker  22:34  
+Before Java was first released, it was really clear that we had the
+
+Unknown Speaker  22:40  
+big issue. The
+
+Unknown Speaker  22:44  
+bill dry and I came
+
+Unknown Speaker  22:44  
+about as close to spilling blood on this topic is God.
+
+Unknown Speaker  22:51  
+And no, I would much rather
+
+Unknown Speaker  22:55  
+do something or rather leave something out of the news. something stupid.
+
+Unknown Speaker  23:02  
+Our principals planned to be smarter later.
+
+Unknown Speaker  23:05  
+Yeah, well, well, but but but that means that that means the opening answer is no. Right? And one of the things that happened with like a whole bunch of different topics in the evolution of Java was that they kind
+
+Unknown Speaker  23:20  
+of turned into competitions and and
+
+Unknown Speaker  23:25  
+generics and closures were both probably the, the most hard fought competitions, people writing PhD theses on the topic. And I was like, trying them all out. And I mean, some had no shortage of smart people at the time, but it's really hard to be, you know, a planet full of grad students
+
+Unknown Speaker  23:49  
+or grad students at some point. I think. We were in grad students correct
+
+Unknown Speaker  23:55  
+in linguistics mistakes.
+
+Unknown Speaker  23:58  
+But at some point,
+
+Unknown Speaker  23:59  
+you Probably 20 or 30 years ago decided, Okay, I'm gonna break my own language. And things were very different back then. Internet was sort of starting, maybe not even their single. I think we had theaters we had cell phones,
+
+Unknown Speaker  24:20  
+nobody cared. Nobody.
+
+Unknown Speaker  24:24  
+Nobody cared what you did with the eighth bit.
+
+Unknown Speaker  24:35  
+But these are languages that persisted through many changes, and they're on different hardware. When you started designing your language,
+
+Unknown Speaker  24:48  
+what was the key goal that you were trying to meet versus using
+
+Unknown Speaker  24:52  
+some other existing language?
+
+Unknown Speaker  24:56  
+Well, I mean, for me, it's never been up to me.
+
+Unknown Speaker  25:01  
+But we wanted to sort of success is trying to solve as many problems at once as you can. And you know, if there's just one problem, there's probably an easier way a new programming.
+
+Unknown Speaker  25:19  
+Right? You think that way you'll never have a new program?
+
+Unknown Speaker  25:25  
+Well, there's always a better said you should have the three
+
+Unknown Speaker  25:28  
+keys on how much you hate chasing down memory corruption bugs.
+
+Unknown Speaker  25:35  
+The three virtues of your program are laziness, impatience and hubris.
+
+Unknown Speaker  25:42  
+It takes hubris to
+
+Unknown Speaker  25:46  
+beat another programming language.
+
+Unknown Speaker  25:51  
+Code.
+
+Unknown Speaker  25:53  
+But the thing about programming languages that I think a lot of people don't realize is that every programming language is about 90% of saying, and maybe 10% if you're lucky. And a
+
+Unknown Speaker  26:06  
+lot of people get very focused on the 10% new and forget about the 90% of the thing that makes it that great like, right, I mean, there's a lot of hard boring work in creating programming language, semantics that you got to worry about. And like everyone locks, loves to talk about syntax.
+
+Unknown Speaker  26:25  
+And syntax is the easy part. semantics is the hard part. You know, like how the types work and what are all the
+
+Unknown Speaker  26:35  
+supported promotions and what are the different kinds of type constructors that the language has, etc, etc. These are the hard things to to design, but but, but not the things that people people love to bike ship on the syntax, you know, should it be a colon or, or comma? Oh my god, let's have a long thread about that.
+
+Unknown Speaker  26:58  
+So talking about people having opinions
+
+Unknown Speaker  27:01  
+and syntax and typing.
+
+Unknown Speaker  27:08  
+These languages don't all take the same approach to typing. Maybe we'll start with ido and talk about typing in Python. And then kind of work our way around
+
+Unknown Speaker  27:23  
+typing in Python
+
+Unknown Speaker  27:27  
+at various points during I mean,
+
+Unknown Speaker  27:31  
+I just remember that when,
+
+Unknown Speaker  27:35  
+when Python first happened, it was not a class. It was a level conversion function. There was an internal object type, which was really just kind of a V table that represented integer objects. There was a built in function if you needed to convert the string to integer and that was we had a bunch of those functions. And we realized that we, we had made the state we have given users classes that were different from the built in object types. And for a long time, it was like, Oh, well, like the real stuff is implemented in C. And the user writes a little bit of glue on top of that. And when, when I found out that we had at different competing web frameworks, it was sort of time to do realize that people were writing much larger programs and that a different approach to types was needed. And that's where we sort of reinvented the whole approach to types in Python. And there was a bunch of cleanup. That didn't happen until Python three, actually. But one of the things we introduced and we were lucky that there weren't actually despite those at web frameworks, there weren't enough users that we were completely stymied by backwards compatibility yet, like we are now. So we just one day we change the function into a designator for the class int. And sort of it follows that calling class we mean constructing an instance of the class, so that if you had simple code that wrote in left brand self expression,
+
+Unknown Speaker  29:44  
+right,
+
+Unknown Speaker  29:47  
+and would work exactly the same way, it would have the same effect, but the workings inside were completely different. There was one particular file that's sort of implemented Did the the sort of basic functionality of types in the language and in Python one, it was like 50 lines of code. And at some point, I rewrote it and it was 5000 lines of code.
+
+Unknown Speaker  30:18  
+What about tags in Java?
+
+Unknown Speaker  30:22  
+So
+
+Unknown Speaker  30:26  
+I've got this, this this long history of caring about things like performance,
+
+Unknown Speaker  30:37  
+building robots software.
+
+Unknown Speaker  30:41  
+Often that,
+
+Unknown Speaker  30:43  
+that, that comes out, you know, I'm much more worried about what it takes to build production quality software, than about what it takes to just like, do like a quick thing and talk about a great language for quickly But it's it's, it's, for me one of the one of the things that I love to do and and maybe I'm weird but being able to do automatic theorem proving on chunks of code and and the type system is a really great to be one of the foundations of their being in therapy ripping it for four months of code turns out to be really useful for things like building optimizing compilers and doing
+
+Unknown Speaker  31:38  
+ahead of time
+
+Unknown Speaker  31:40  
+correctness checking,
+
+Unknown Speaker  31:43  
+trying be able to improve away as many things as possible. So like, like, like, you know, one of the not well known things about about
+
+Unknown Speaker  31:55  
+Java is that,
+
+Unknown Speaker  31:56  
+you know, in the Java spec, you know, it says array subscript jacking is always
+
+Unknown Speaker  32:04  
+but, you know, it's only conceptually all
+
+Unknown Speaker  32:08  
+right The truth is that there are there's more than one love books for the for the compiler
+
+Unknown Speaker  32:16  
+to their improve away almost all index checks and same thing with like no pointer checks and all kinds of things that that look like they're heavyweight, but they're really cheap. You know, so one of the things that I like I really cared about at the time was the A plus B should almost always be at most one instruction. Bonus points for zero instructions.
+
+Unknown Speaker  32:50  
+Faster.
+
+Unknown Speaker  32:51  
+Well, the thing about zero instructions is often you can like fold them into some weird address, acknowledge right and ask And, and, and so in in kind of the universe I'm I tend to live, being able to look at a plus b and realize it's that instruction
+
+Unknown Speaker  33:14  
+that all feeds off of the type system.
+
+Unknown Speaker  33:17  
+And
+
+Unknown Speaker  33:18  
+sometimes you can you can do this with sort of optimistic, just in time compilation, depending on how far you want to push that. So like the the JavaScript engine in Chrome is is absolutely astonishing for the the kind of gore that they go through to optimistically compile JavaScript code. But it's also very hard to do those kinds of tricks if you're trying to get into small footprint devices. So you know, there are there are job compilers The word for machines that only have like 50 K. And, you know, to do that kind of compaction, distillation,
+
+Unknown Speaker  34:10  
+you need every kind of hope that gives you
+
+Unknown Speaker  34:12  
+every little, every last drop of information. And the earlier you know what better job you can do.
+
+Unknown Speaker  34:20  
+Right. So Anders, speaking of lots of information that one gets TypeScript
+
+Unknown Speaker  34:26  
+gives you a lot of flexibility, and power. What's your general view that typing? Well,
+
+Unknown Speaker  34:34  
+let me actually, it's funny that you mentioned CPU cycles and counting how many whenever I remember when I wrote turbo Pascal, which was all written in C 80, assembly code and back in those days, you could literally look up the Intel manual auto design lock or whatever you know, and see how many clock cycles every instruction token actually it would work out. Just like that. I remember now. Everything Take care. clock cycles except when it takes 1000 clocks
+
+Unknown Speaker  35:05  
+to memory, and it is absolutely impossible to reason about what how CPUs execute your code today that that's just one.
+
+Unknown Speaker  35:13  
+Well, it's not impossible, but it's
+
+Unknown Speaker  35:15  
+much harder.
+
+Unknown Speaker  35:17  
+It is a complete pain in DNS. And they don't
+
+Unknown Speaker  35:22  
+give you manuals not good enough. You want to actually understand that
+
+Unknown Speaker  35:26  
+if you need to get the chip diagram, so but but with respect to types, I've always worked on programming languages that have type systems, but it's interesting how it's gone from being type systems for our, for the code generators sake or type systems for, for, for, you know, generating errors to now I almost view type systems as as a tooling feature. And that's really sort of that thing that has been interesting high order made for TypeScript. It is You know, first of all starting with a dynamically typed programming language like JavaScript and then trying to add a type system on top of it, that that faithfully reflects the semantics of the programming language. And the reason we're doing it is actually not because we think type systems are interesting, but because if you think about what it is that powers programmer productivity today, like everyone loves their Id like whatever you're using, I hope it's Visual Studio code. But But
+
+Unknown Speaker  36:30  
+if it's not, you know,
+
+Unknown Speaker  36:32  
+I am sure you're all like, accustomed to things like statement completion and refactoring, code navigation and go to definition and so forth. And if you think about it, the things that the thing that powers that is semantic knowledge of your code. And the thing that provides the semantic knowledge of your code is a compiler with a type system. And once you add types, you can actually dramatically increase productivity which In some ways seems counter counterintuitive, right? I thought like dynamic languages were easier to to approach and because you got rid of the types which was like a bother all the time, but it turns out that that you can actually be more productive by by adding types if you do it in a non intrusive manner and if you work hard on doing good type inference and
+
+Unknown Speaker  37:22  
+so forth, you know, so so
+
+Unknown Speaker  37:25  
+so, so so so so
+
+Unknown Speaker  37:27  
+I want to jump in here so,
+
+Unknown Speaker  37:34  
+I really, really believe in that point in the in the in the power tools for power geeks thing. And one of the things that drives me nuts is the real men use vi movement. You know, it's it's really, I just want to punch people who
+
+Unknown Speaker  37:59  
+stay I'm a real developer because
+
+Unknown Speaker  38:01  
+I use VI and it's like, you know,
+
+Unknown Speaker  38:05  
+I know the hard way. I think I need to make language developers lazy.
+
+Unknown Speaker  38:19  
+IV is letting me get a lot more done a lot faster. Okay? I mean, I'm not I, I, I'm really not into proving my manhood I
+
+Unknown Speaker  38:32  
+may be getting things done.
+
+Unknown Speaker  38:37  
+But I'm gonna take the devil's advocate here for a second even something like Emacs. Okay, yeah.
+
+Unknown Speaker  38:45  
+The Jupiter notebooks. A lot of science people data scientists get a lot done in actually a pretty simplistic idea it with a dynamic language
+
+Unknown Speaker  38:59  
+most of the time.
+
+Unknown Speaker  39:01  
+Get a lot more than
+
+Unknown Speaker  39:05  
+a No,
+
+Unknown Speaker  39:06  
+no, but I think types have I mean, it's not just
+
+Unknown Speaker  39:11  
+a type system can help you first of all, if you're uninitiated and you want to know, here, here's my food and now I say food dog and then he can show you but can I type next right? As opposed to I gotta go read manuals and figure it out or no at all right? I mean, do original developer of whatever piece of code might know it all. But then people move on new people come in, you know, there's here's this project, there was there was no documentation written about it. And if you think about the types or documentation to write, I mean, and then they're just, there's so many things about like,
+
+Unknown Speaker  39:48  
+like adding them that down the line give you increased productivity,
+
+Unknown Speaker  39:55  
+productivity
+
+Unknown Speaker  39:57  
+and maintainability
+
+Unknown Speaker  40:00  
+No Well, folks, and maybe
+
+Unknown Speaker  40:03  
+any different thoughts about
+
+Unknown Speaker  40:05  
+our talk about types yet? Oh, well.
+
+Unknown Speaker  40:11  
+Well, that story is very different for Perl five and Perl six is good, as you know, Perl five to sort of grew over time. And the whole idea was sort of a ticklish idea. Everything you can pretend everything is a string, even if it's a number, or floating point internally, it's stalled, you know, interchangeable. And that works out for bootstrapping people into a language quite nicely. And it's a feature that we want to keep in Perl six. But what we discovered in Perl five as part of the redesign was,
+
+Unknown Speaker  40:45  
+it's fine if the new users confused about
+
+Unknown Speaker  40:48  
+the interchangeability to the album album or
+
+Unknown Speaker  40:51  
+to use a technical term of your scalar types, but it's not so good if the computer is confused about the You know, Pearl, the pearl one engine was written way back in the dark ages when you had to shoehorn a bunch of stuff in and it cheated a lot. So, part of the redesign when we did pearl school Perl six thing we wanted to do object oriented programming better than these languages and we want it to be functional programming better than most functional programming languages. To do that, you have to have a fundamental, very sound type system or a sound mental object model underneath. And you really have to take seriously these slogans like everything is an object, everything is like closure, everything in Perl six, even we love our closures and is optimized hard to get up, get them away from there. But But I and I also agree with this idea that the types also are cultural. I talked about pegs, hanging things on They're one of the one of the pigs, we didn't have something to hang on and purified. And now we can,
+
+Unknown Speaker  42:05  
+you know, hang all the, all the meta information,
+
+Unknown Speaker  42:08  
+and they just run a little program there. They don't even have to have an idea. They say, well, this object dot, you know, methods that what, you know, they can do their own introspection the whole thing, and people just do Oh,
+
+Unknown Speaker  42:21  
+by the way, we can also have an ID
+
+Unknown Speaker  42:27  
+good points
+
+Unknown Speaker  42:28  
+all around. So, most of the time programmers actually spend maintaining code versus writing new code
+
+Unknown Speaker  42:38  
+out in the wild and
+
+Unknown Speaker  42:41  
+what things are elements of a programming language make it easier to maintain? And maybe we'll start with Vito
+
+Unknown Speaker  42:52  
+Well, I found that
+
+Unknown Speaker  42:58  
+TypeScript is actually incredibly useful. And so we're adding a very similar idea to Piper in a slightly different way because we have different contexts. I'm sorry,
+
+Unknown Speaker  43:15  
+I turned my chair.
+
+Unknown Speaker  43:25  
+Sorry.
+
+Unknown Speaker  43:30  
+Anyway,
+
+Unknown Speaker  43:38  
+learned a painful lesson that for small programs. dynamic typing is great for large programs, you have to have a more disciplined approach and it helps if the language actually gives you the discipline rather than telling you well you can do whatever you want.
+
+Unknown Speaker  44:02  
+Yeah, yeah, that was
+
+Unknown Speaker  44:03  
+part of our scale up idea for Perl six, that the types would help us with programming at large that we didn't notice those limitations.
+
+Unknown Speaker  44:15  
+Yeah. When you started working really heavily on refactoring engines, and,
+
+Unknown Speaker  44:24  
+you know, being able to do like large scale refactoring on like millions of lines of code at once. And that really changes the way you think about maintaining code. You know, the world was filled with libraries that have things like stupid variable names, stupid method names, because you know, when you started out, it meant one thing, but now you realize that you really didn't really understand what you were doing in the beginning. And so this, this method name really should be different, but nobody ever reads names methods because it's really hard to go over a piece of code and rename exactly this, the right variable. But if you've got a good refactoring engine, you just you just type it up medic Ctrl R, type in the new name, you know, hundreds and hundreds of files later, which takes about, you know, maybe 30 seconds if it's a lot of files.
+
+Unknown Speaker  45:30  
+And so you need rights.
+
+Unknown Speaker  45:34  
+Seven series.
+
+Unknown Speaker  45:39  
+But this is this is actually like you're describing
+
+Unknown Speaker  45:42  
+what we what was the genesis of the TypeScript project,
+
+Unknown Speaker  45:46  
+which was these enormous JavaScript code bases that we were seeing in customers right
+
+Unknown Speaker  45:52  
+and and in house projects that and they were getting bigger
+
+Unknown Speaker  45:54  
+and bigger because JavaScript engines were getting good enough for you to write really big programs. But maintaining them was impossible. Because it turned into write only code, you know, you You dare not touch it, once you've written it because it worked then then then, but you know, there's this property called text. And I really want to change it to be some other names, except there is like a million other properties called text. And if I just like do a global search and replace for text, then oh my god, it's like it all goes so I can't change anything. But if you have semantic understanding of like this property called text is different from that other property over here called text. And if you want to rename this one, that doesn't mean you want to rename that one. But but that takes for something like a type system to be in place. And you know, once you start adding that you add documentation to the code and you add these capabilities where we're now seeing people like with regularity, refactor a hundreds of thousands of lines of JavaScript code you know, liked
+
+Unknown Speaker  46:58  
+in minutes And, and it and it just works afterwards and people are like amazed that it's possible.
+
+Unknown Speaker  47:06  
+But, but but it's true that it takes a bit more work to begin with. And it's not maybe not right if you're writing five lines of code, okay that maybe more bothered than you really care to but but you know, it starts to pay off pretty quick.
+
+Unknown Speaker  47:23  
+Really good lexical scoping helps with refactoring.
+
+Unknown Speaker  47:29  
+It's back into this. What's the right thing to hang this on? And often it's Look, it's a lexically scoped or dynamically scoped. So we're doing those right and not interfering with reading and
+
+Unknown Speaker  47:41  
+all sorts of interesting questions.
+
+Unknown Speaker  47:43  
+So I'm going to throw one more question out before the break in three minutes. And we made sort of a reference to Donald Knuth, one of the turning winners
+
+Unknown Speaker  47:54  
+in this last section of conversation, and he wrote premature on optimization is the root of all evil.
+
+Unknown Speaker  48:03  
+So what's your approach to optimizing code and gaining efficiency? Say in Python?
+
+Unknown Speaker  48:12  
+Well, I,
+
+Unknown Speaker  48:13  
+I'm terrible at that. So we leave it to others.
+
+Unknown Speaker  48:17  
+That is,
+
+Unknown Speaker  48:19  
+like a very wise
+
+Unknown Speaker  48:20  
+language creator. And they've lived up to the top
+
+Unknown Speaker  48:26  
+five, hash table implementation has been rewritten so many times.
+
+Unknown Speaker  48:32  
+I don't understand any part of it.
+
+Unknown Speaker  48:36  
+But it is so much better than the thing I actually copied out of
+
+Unknown Speaker  48:41  
+30 years ago.
+
+Unknown Speaker  48:45  
+Without a clue.
+
+Unknown Speaker  48:50  
+Yeah, so
+
+Unknown Speaker  48:52  
+I kind of 50% believe that. Because there are enough the premature optimization term algorithms and code, that part of it, I believe, but, you know, people often don't really think about the role of data structures in optimization. And if the data structure is exposed, you have to, you know, and you decide that, you know, this algorithm is a problem. But, you know, the reason that it's a problem is because, you know, this data structure was just slapped together, and they thought, oh, they'd only ever be like, 10 items in the list, or 10 items in the sec. And then and then you start, you know, having, you know, million items, million items sets all the time. And all of a sudden, you know, your little linked list is is not going to hack it. Right index directory, or a unicorn. Yeah. And, and, and so and so if you can, you know, it's like, you know, Hide early hide often, right? Never tell the truth about what your data structures are.
+
+Unknown Speaker  50:09  
+And on that note, we're gonna take, you want to
+
+Unknown Speaker  50:13  
+quick quick, I just
+
+Unknown Speaker  50:15  
+wanted to say that I think, like with
+
+Unknown Speaker  50:18  
+with anything, the important thing is to make sure that you actually have the right data before you start optimizing. Right. But by too often you have a hunch that, oh, I think if I need I need to do this, you know, I need to change this data structure from being a linked list to being an array
+
+Unknown Speaker  50:35  
+or whatever. But
+
+Unknown Speaker  50:38  
+But if you measure then you discovered doesn't matter. And but really, there's this other thing that you hadn't even thought about that matters enormously. And maybe you should go Look over there. So get perf get us a profiler, figure out where is the time actually spent. I am continually surprised and I write compilers for a living and I'm always surprised by where time is spent.
+
+Unknown Speaker  51:00  
+All right, and that with that we're out of time for this section. We're going to take a quick 15 minute break. And when we come back, the really hard questions are going to come out because the audience questions that have been submitted are going to be the ones that we move into.
+
+Unknown Speaker  51:21  
+So thank you
+
+Unknown Speaker  51:26  
+for that's been wonderful.
+
+Unknown Speaker  51:55  
+Teach it every one of you has a community that is formed around the languages that you've created.
+
+Unknown Speaker  51:59  
+I'm curious if you would talk to
+
+Unknown Speaker  52:01  
+ways in which you've seen the design choices you've made for your language to shape the communities that have formed around those.
+
+Unknown Speaker  52:11  
+It really helps Well go ahead it really helps if you're trying to make everybody you know what's what's your what's your slogan here, everybody,
+
+Unknown Speaker  52:24  
+everybody comfortable.
+
+Unknown Speaker  52:28  
+I feel
+
+Unknown Speaker  52:30  
+supported they make, you know, all all americans i heard
+
+Unknown Speaker  52:38  
+feel like comfortable programming
+
+Unknown Speaker  52:41  
+for all
+
+Unknown Speaker  52:42  
+yes to make.
+
+Unknown Speaker  52:51  
+It's not CEUs for all Americans. No, there are many underserved populations in the world. And what we've really discovered that It really helps build international camaraderie and community to have world class. Literally support for Unicode. Yes, I would encourage any language designers out there, don't do this halfway stuff with no code points to all graphics. I
+
+Unknown Speaker  53:23  
+completely agree.
+
+Unknown Speaker  53:26  
+Kaito you had something you were gonna say.
+
+Unknown Speaker  53:29  
+I was trying to say that.
+
+Unknown Speaker  53:33  
+I didn't know how to design choices necessarily affected the community but my
+
+Unknown Speaker  53:40  
+choices about how to interact
+
+Unknown Speaker  53:41  
+with the community certainly have affected the language design.
+
+Unknown Speaker  53:48  
+I, I was somehow in view with the importance of user centered language design, because Python
+
+Unknown Speaker  53:57  
+borrows
+
+Unknown Speaker  53:57  
+little bit from language in See, one plus.
+
+Unknown Speaker  54:03  
+The is offers had a bunch of things, right? And one of those was listen to users. Ask the users what they think. And then you make up ignore their suggested solutions. And you first figure out what normal means. But you give users the voice and I sort of take that up and let the users help me design.
+
+Unknown Speaker  54:30  
+And now they're
+
+Unknown Speaker  54:31  
+ready to take out.
+
+Unknown Speaker  54:36  
+I was gonna say, I always felt like
+
+Unknown Speaker  54:40  
+it's important as a language designer that you don't create unnecessary work for your community because it's very easy to in the name of purity or whatever, go change something or, or strive for the perfect language. And I've always said like, I mean,
+
+Unknown Speaker  54:57  
+show me the perfect language and I'll show your language No users, you know, every every, every language has imperfections in it, and it has them because because it has evolved and the hard part of language design is actually not version one. Oh, it's like all the versions that come after. But you're trying to sneak new things in
+
+Unknown Speaker  55:19  
+without actually causing extra burdens on people who don't necessarily care about the things that you're trying to sneak in. Right. And so,
+
+Unknown Speaker  55:27  
+so
+
+Unknown Speaker  55:28  
+that's the hard part
+
+Unknown Speaker  55:29  
+of language design, I think is is the evolution of the language and keeping your community with you as you evolve.
+
+Unknown Speaker  55:40  
+Yeah, and so and so with with Java, we, like always followed that. We've maybe been a little bit excessive about it. I mean, I've got binaries that I compiled like 20 years ago, but still run and And it's it's, you know, on machines that were never invented when the code was compiled. And you only get there with with crazy discipline and a tolerance for living with your mistakes. But it but it makes the it also helps it also ends up selecting who your users are. Because in the Java universe, pretty much everybody is is really disciplined. Because, you know, it's kind of like like mountain climbing, you know, you, you don't get there, get sloppy with your gear when you're mountain climbing.
+
+Unknown Speaker  56:40  
+Because it has a clear price.
+
+Unknown Speaker  56:44  
+And, you know, when you You said something about?
+
+Unknown Speaker  56:51  
+Larry said, said something about Unicode. Java's had Unicode since 92. So, you know, it's your turn to be inclusive. Yeah, and and that really made a difference. I mean, lots of folks thought it was like the lamest thing ever. But that was a that, that that was during my my, you know, Lord of Java phase which Yeah, yeah, but that that phase of my life ended in about 95. I'd
+
+Unknown Speaker  57:25  
+like to say something about the stability thing. And as it relates to community, and that is, we did this perfect, trying to do perfect backward compatibility thing all the way up to Perl five and did a really good job with it. It's one of the most stable things, there's still programs
+
+Unknown Speaker  57:43  
+out there
+
+Unknown Speaker  57:45  
+that eventually runs
+
+Unknown Speaker  57:46  
+into the problem. But, you know, you can't, you can't fix your mistakes. So, one of the mistakes that we made was was kind of a meta mistake and that it was assuming that you had to always have That kind of stability and not change anything. How would it be to design a language where the language itself
+
+Unknown Speaker  58:10  
+could be evolved from within
+
+Unknown Speaker  58:15  
+by the community and the language we want 25 or 50 years from now, this ties into what Paul Graham was talking about 100 year language and we kind of took that seriously. What is it that prevents languages from evolving, not not having fixed scope, right. But fundamentally, the Perl six compiler is written in Perl six, most of the runtime system is written in Perl six, the users can extend it. Perl six itself does not care whether things are built in or not. It all works the same. So most of the built ins are written as if they were user code. So users, even if we say no,
+
+Unknown Speaker  58:57  
+we don't want
+
+Unknown Speaker  58:59  
+that language. Right now but but in the module, you can do, you can turn classes into monitors with about that much code, you can put in implement an actor model in classes with about about that much code. You can mutate, adding operators is just trivial. When it does, it does everything perfectly one pass, it drops into the sub compiler, and with the end, it comes back out. So there's never ever any ambiguity as to what language you are in. And so because the scoping of the exact language you're in is always like,
+
+Unknown Speaker  59:40  
+scope,
+
+Unknown Speaker  59:40  
+ending lexical scope can say, use whatever language I want a future version of Perl six, you can say use COBOL. use Python, if someone likely people have written Python parsers in Perl six, I don't think anybody's written a COBOL or sure yet, but we'd like to think that you know, all all language like, Perl six now. So I think
+
+Unknown Speaker  1:00:06  
+I think the third module semantics are hard.
+
+Unknown Speaker  1:00:11  
+But I think there is a way. I think there is a way forward to get the stability and the evolution. And I think we're
+
+Unknown Speaker  1:00:23  
+awesome. Do we want to take another audience question?
+
+Unknown Speaker  1:00:28  
+All right.
+
+Unknown Speaker  1:00:31  
+Thanks.
+
+Unknown Speaker  1:00:35  
+Hi. Can you talk into the mic like you're eating the mic? Hi.
+
+Unknown Speaker  1:00:39  
+Yeah. Can you hear me? Yeah, great. There's been a lot of talk tonight about the evolvability of languages and the trouble with implementing things that might not be backwards compatible. What's something that you wish you could have implemented with your language but for that, or maybe another reason it wasn't possible
+
+Unknown Speaker  1:01:00  
+Well, I have a feature
+
+Unknown Speaker  1:01:01  
+that I sort of jealous of because it's appearing in more and more other languages. It's pattern matching. And I cannot come up with the right keyword because all the interesting keywords are already very popular games
+
+Unknown Speaker  1:01:22  
+or other forms of
+
+Unknown Speaker  1:01:28  
+gaming hard. Yeah.
+
+Unknown Speaker  1:01:31  
+Well, I'll go I'm My favorite is always like the the $2 billion mistake of, or the billion dollar mistake of having null in the language and, and since JavaScript has both null and undefined, it's the $2 billion mistake. But I mean, if it did, and and I mean, what's done is done right and and now now, you know, I I spend a significant portion of my time actually working on ways to to make code null safe to and and who's never who in here has ever had a null pointer exception? Right. There you go. It's it is by far the most problematic part of languished assignment. It's a single value that that if only that wasn't there. Imagine all the problems we wouldn't have right if if type systems were designed that way and some type systems are and some type systems are getting there, but boy trying to retrofit data on top of a type system that has no in the first place is quite an undertaking.
+
+Unknown Speaker  1:02:41  
+The features I wanted to add were negative features.
+
+Unknown Speaker  1:02:46  
+I think all of us as language designers have borrowed things, you know, we all steal from each other's languages all the time. And and often we still good But for some reason we also steal bad things.
+
+Unknown Speaker  1:03:06  
+Like what?
+
+Unknown Speaker  1:03:07  
+Like regular expression syntax? Oh, yeah.
+
+Unknown Speaker  1:03:12  
+Like the C precedence table.
+
+Unknown Speaker  1:03:14  
+Yeah. Okay, another. Okay.
+
+Unknown Speaker  1:03:16  
+These are things that I could not fix in Perl five.
+
+Unknown Speaker  1:03:20  
+And we did fix it Perl six.
+
+Unknown Speaker  1:03:22  
+Yay.
+
+Unknown Speaker  1:03:24  
+Awesome. All right. We do seem to be doing pretty well with the audience. So how about another audience question?
+
+Unknown Speaker  1:03:36  
+Hi, hello there. So, what I wanted to ask is, you can sort of notice these sort of pendulum effect in regards to tech and programming throughout time. There have been like several different paradigms. There's a certain time where people were like, are we going to do things imperatively or we're going to go object oriented or functional. For example, right now, there's a whole bunch of languages that are sort of like very aggressively taking that standpoint of being very pro, being friendly with concurrency or being very overly jealous about immutability with memory. And I think that that kind of pendulum effect happens because technology has actually been evolving throughout time, or machines are like beefier, and we have more memory now. So the ways that we design programming languages now are probably a lot different than they were 20 or 30 years ago. So considering that, where do you think or how do you think the programming languages or 10 years into the future are gonna look like or in your opinion, where where is language design headed to like in the future?
+
+Unknown Speaker  1:04:53  
+So so so my favorite candidate for that is that you know, these, you know, Major breaks and things like that always happen because, you know, something major happens in the underlying technology. And, you know, one of the areas of underlying technology that is kind of like a computer that I think is really underserved is, is writing code for GPUs. Right? I mean, right now there are, there are no languages worth a crap. And that's a technical firm trademark that work well on GPUs. And you know, maybe because there's like, a limited number of algorithms that people are willing to are really interested in, but they're really important ones. Or maybe it's because they're, they're inherently all mathematical. And the number of people who care about writing numerical code is small I'm one of those though. And you know, and so every now and then I spend time thinking about, you know, what would you do to make GPU programming? Really easy?
+
+Unknown Speaker  1:06:17  
+Yeah, but, but it's more than just vector operators. I mean that that's kind of my problem with the whole thing is that most of these things are just libraries of hand coded assembly that do vector operators. And and surely, there's something more clever than that.
+
+Unknown Speaker  1:06:38  
+Maybe I'll just add with with language design, you know, one of one of the things that's interesting you look at like all of us old geezers, sitting up here, and they were were proof positive that languages move slowly.
+
+Unknown Speaker  1:06:49  
+And, and I mean, it's not you know, like,
+
+Unknown Speaker  1:06:53  
+a lot of people make the mistake of thinking that languages move at the same speed as like, hardware or like All of the other technologies that that that that we live with, but, but languages are much more like maths and much more like the human brain and you know, and they all have evolved slowly and we're still programming in languages that were invented 50 years ago like functional or all of the principles of functional programming were thought of more than 50 years ago. I do think one of the things that that is luckily happening is that like, as Larry said, everyone's boring from everyone and languages are becoming more multi paradigm. Yeah, I think it's wrong to talk about, oh, I only like object oriented programming languages or I only like imperative programming or functional programming. I mean, it's important to look at where's the research or where the new where's the new thinking and where where a new paradigms that are interesting and then try to try to incorporate them but do so tastefully, in a sense and and work them into work them into whatever is there already and I think we're all learning a lot from functional programming. Languages these days, I certainly feel like I am because a lot of interesting research has happened there. But functional programmer is imperfect. And no one writes pure functional programs. I mean, because they don't exist. So it's all about like, how can you tastefully sneak in mutation in ways that you can better reason about as opposed to mutation and free threading for everyone you know, on that's like, just a recipe for disaster, right? So
+
+Unknown Speaker  1:08:40  
+all languages are imperfect. Let's just settle it right there.
+
+Unknown Speaker  1:09:06  
+We've been thinking a lot about the the parallelism concurrency issue. This is one of those issues where we were waiting to be smarter. We we did borrow a, I mean, steal a bunch of ideas from from Haskell in terms of lazy lists and things like that. But in terms of how you actually are going to deal with the end of Moore's Law, or if not the end of Moore's Law, at least, you know, multi multi, multiple CPUs, many, many cores. When you have 1000 cores, what are you going to do with them. And so, a lot of our early design on Perl six was, we didn't understand how we wanted to do it yet, but we knew very, we knew very deeply that we didn't want to do anything that would prevent us. So a lot of the As early design decisions were, you know, just saying, well, we have to keep this open. Then when the right smart people came along, they said, Look, what you really have to look at is things that are composable. threads are not composable you can't take two threads and turn it into a third thread. What you want is things like we stole from go from we stole promises and channels. From C sharp, we stole functional reaction will programming. And with these sort of primitives, which end up being duals of your regular list processing, kind of primitives. They just happen to be working on events. And you're you can have loops, event loops that were just like regular loops that they're running on. And same control flow. So that is easy to learn. There are ways of sneaking these things into a language, at least in the ways that we understand right now that I heard
+
+Unknown Speaker  1:11:00  
+Was it? Who was talking about
+
+Unknown Speaker  1:11:01  
+adding fibers to their runtime, I think you'd think was a Java news item.
+
+Unknown Speaker  1:11:08  
+But like lightweight threads that can you, as Erlang has done has shown, you know, you can run 100,000 threads in your process.
+
+Unknown Speaker  1:11:15  
+Another language that's been around for a long
+
+Unknown Speaker  1:11:18  
+Oh, yeah. And we stole from them too. Yeah. It. Should we like their pattern matching.
+
+Unknown Speaker  1:11:23  
+But one of the meta theorems is that all good language design
+
+Unknown Speaker  1:11:25  
+is that, of course. Yeah. So yeah, I mean, we're thinking about it. We don't have all the answers yet. But
+
+Unknown Speaker  1:11:34  
+I think all these languages, you know, long term tend to converge on similar solutions.
+
+Unknown Speaker  1:11:39  
+So very sadly, we are at the last question.
+
+Unknown Speaker  1:11:44  
+I know went so quickly and unfortunately, all good things must end except for maybe good languages. So I'm going to start and and maybe quickly Wrap up, as you look back over the long lives of the languages that you've written, what have you found most rewarding?
+
+Unknown Speaker  1:12:10  
+The people, the people,
+
+Unknown Speaker  1:12:12  
+by far? Oh, yeah.
+
+Unknown Speaker  1:12:18  
+Yeah, I mean that that's what keeps me coming back to work every day is like the incredible excitement that the community shows you and I am so grateful for all the people who, who have used that. I mean, there's nothing more rewarding than have people just like, on Twitter or wherever it is go. Oh, my God, this is so great. And it's like, Yeah, that makes you want to just keep doing more of it. I mean,
+
+Unknown Speaker  1:12:46  
+oh, yeah. Somebody comes up to me in the street somewhere and says, you know, thanks for giving me a career. Can I have a selfie? You know, that's like, that's this kind of like Light and Dark thing but being really wonderful.
+
+Unknown Speaker  1:13:04  
+This is all great. I mean, I have to be in Silicon Valley and movie theater, the tire shop.
+
+Unknown Speaker  1:13:10  
+Don't worry Well
+
+Unknown Speaker  1:13:14  
+yeah, well what's really weird is when you're when your kids are with you when that happens.
+
+Unknown Speaker  1:13:20  
+But But yes, it's when when people said
+
+Unknown Speaker  1:13:23  
+you gave me a career, you gave
+
+Unknown Speaker  1:13:24  
+me a livelihood. You fed my family? Yeah.
+
+Unknown Speaker  1:13:29  
+That's the best.
+
+Unknown Speaker  1:13:34  
+Yeah, and, and not just, we're not talking about a star relationship here of each of us to those individuals. We're talking about the the second order community to Dotto kind of effects. It's, it's, it's one thing to see them, you know, getting help from you. It's another thing to see them helping each other. That's a whole whole level above even the end of relationships, I feel to see a community that is learning how to love, you know, kind of building a little bit of heaven on earth.
+
+Unknown Speaker  1:14:10  
+There's just nothing like it.
+
+Unknown Speaker  1:14:13  
+Completely agree. You get the last word.
+
+Unknown Speaker  1:14:22  
+And we love learning from you as well. And with that, I want to say, we've all learned so much from all of our wonderful panelists tonight. I wanna thank you for allowing me to share and celebrate this moment with you. The little fifth grade kid in me that was blinking away on basic at Bell Labs, who later watch the PC cellphone, internet, web and cloud computing changed our world. never dreamed that I would be chatting with four individuals who profoundly impacted our world by doing what they love, creating and building languages. Please do Join me in a huge round of applause to thank
+
+Unknown Speaker  1:15:03  
+Anders
+
+Unknown Speaker  1:15:06  
+for inspiring this evening. Thank you
+
+Unknown Speaker  1:15:16  
+Carol.
+
+Unknown Speaker  1:15:18  
+Okay, okay, was that epic?
+
+Unknown Speaker  1:15:22  
+So, Marina, I have an idea. If you guys could step down right here, we're gonna get a giant picture of everybody. You guys stand right there. We're gonna get up here with your camera.
+
+Unknown Speaker  1:15:38  
+All right, we're getting a picture of everybody in that room. All right, I need some excitement.
+
+Unknown Speaker  1:15:47  
+Oh my god, I met my idol.
+
+Unknown Speaker  1:15:50  
+She can stand on the chair. You can use my shoulder. Okay. All right show some excitement people. Let's see it.
+
+Unknown Speaker  1:16:05  
+Three times is
+
+Unknown Speaker  1:16:06  
+kinda weird and lucky.
+
+Unknown Speaker  1:16:11  
+Okay.
+
+Unknown Speaker  1:16:14  
+Thank you everyone for coming. Thank you to all of our speakers, thank you to our organizers. Let's do something equally awesome next year. And if you want a robot there 100 bucks so come see me
+
+Transcribed by https://otter.ai
