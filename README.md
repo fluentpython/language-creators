@@ -5,7 +5,7 @@ Transcripts for "A Language Creators' Conversation: Guido van Rossum, James Gosl
 * original video: https://www.youtube.com/watch?v=csL8DLXGNlU&t=48m29s
 * edited to skip 48'29" of opening remarks: https://www.youtube.com/watch?v=sBVYn0cIlWM
 
-The transcriptions in the `redpencil`, `otter` and `trint` folders are unedited.
+Transcripts in the `redpencil/`, `otter/` and `trint/` folders are unedited.
 The files are exactly as received or exported from the applications.
 
 
@@ -39,9 +39,6 @@ Timestamps for these transcripts follow the [edited video](https://www.youtube.c
 
 
 ## Reference
-
-
-
 
 _New York Times_ story where I learned about Ellie Leonard, Otter.ai, and Trint.com:
 
