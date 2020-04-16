@@ -15,9 +15,13 @@ Tanscript produced by Ellie Leonard of
 [Red Pencil Transcripts LLC](http://www.redpenciltranscripts.com/),
 hired by Luciano Ramalho.
 
-Timestamps for this transcript follow the [original video](https://www.youtube.com/watch?v=csL8DLXGNlU&t=48m29s), starting at 48'29".
+Timestamps for these transcripts follow the [original video](https://www.youtube.com/watch?v=csL8DLXGNlU&t=48m29s), starting at 48'29".
 
-* received Word document: [`redpencil/language-creators.docx`](https://github.com/standupdev/language-creators/blob/master/redpencil/language-creators.docx)
+* revised transcript (work in progress): [`language-creators.txt`](https://github.com/standupdev/language-creators/blob/master/language-creators.txt)
+
+Received transcript:
+
+* Word document: [`redpencil/language-creators.docx`](https://github.com/standupdev/language-creators/blob/master/redpencil/language-creators.docx)
 * plain text (from `.docx`): [`redpencil/language-creators.txt`](https://github.com/standupdev/language-creators/blob/master/redpencil/language-creators.txt)
 
 
