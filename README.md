@@ -17,8 +17,8 @@ hired by Luciano Ramalho.
 
 Timestamps for this transcript follow the [original video](https://www.youtube.com/watch?v=csL8DLXGNlU&t=48m29s), starting at 48'29".
 
-* received Word document: `redpencil/language-creators.docx`
-* plain text (from `.docx`): `redpencil/language-creators.txt`
+* received Word document: [`redpencil/language-creators.docx`](https://github.com/standupdev/language-creators/blob/master/redpencil/language-creators.docx)
+* plain text (from `.docx`): [`redpencil/language-creators.txt`](https://github.com/standupdev/language-creators/blob/master/redpencil/language-creators.txt)
 
 
 ## Automatic transcriptions
@@ -27,12 +27,12 @@ Timestamps for these transcripts follow the [edited video](https://www.youtube.c
 
 ### By [Otter.ai](https://otter.ai/)
 
-* plain text: `otter/language-creators.txt`
+* plain text: [`otter/language-creators.txt`](https://github.com/standupdev/language-creators/blob/master/otter/language-creators.txt)
 
 ### By [Trint](https://trint.com/)
 
-* Word document: `trint/language-creators.docx`
-* plain text (from `.docx`): `trint/language-creators.txt`
-* full transcript: `trint/language-creators.csv`
-* SubRip universal subtitles: `trint/language-creators.srt`
-* Subtitles for HTML players: `trint/language-creators.vtt`
+* Word document: [`trint/language-creators.docx`](https://github.com/standupdev/language-creators/blob/master/trint/language-creators.docx)
+* plain text (from `.docx`): [`trint/language-creators.txt`](https://github.com/standupdev/language-creators/blob/master/trint/language-creators.txt)
+* full transcript: [`trint/language-creators.csv`](https://github.com/standupdev/language-creators/blob/master/trint/language-creators.csv)
+* SubRip universal subtitles: [`trint/language-creators.srt`](https://github.com/standupdev/language-creators/blob/master/trint/language-creators.srt)
+* Subtitles for HTML players: [`trint/language-creators.vtt`](https://github.com/standupdev/language-creators/blob/master/trint/language-creators.vtt)
