@@ -1,16 +1,24 @@
-﻿[BEGIN PART 1]
+﻿# Named participants, in order of appearance:
+# RUTHE: Ruthe Farmer (MC)
+# CAROL: Carol Willing (panel host)
+# JAMES: James Gosling, creator of Java
+# GUIDO: Guido van Rossum, creator of Python
+# LARRY: Larry Wall, creator of Perl
+# ANDERS: Anders Hejlsberg, creator of Turbo Pascal, Delphi, C#, and TypeScript
+
+[BEGIN PART 1]
 
 [0:48:29]
 
-MC:  Okay, are you guys ready for some language creators?
+RUTHE:  Okay, are you guys ready for some language creators?
 
 [APPLAUSE/CHEERING]
 
-MC:  Okay.  Without further ado I will introduce Carol Willing.  She is a Python steering council and Project Jupyter steering council member.  She blends the strengths of Python and Jupyter Notebooks to improve access to learning and education.  Due to the worldwide foundation of the Python language, the hard work of the Jupyter team, and users worldwide, Carol was awarded the 2017 ACM Software System Award, recognizing the lasting influence...
+RUTHE:  Okay.  Without further ado I will introduce Carol Willing.  She is a Python steering council and Project Jupyter steering council member.  She blends the strengths of Python and Jupyter Notebooks to improve access to learning and education.  Due to the worldwide foundation of the Python language, the hard work of the Jupyter team, and users worldwide, Carol was awarded the 2017 ACM Software System Award, recognizing the lasting influence...
 
 [0:49:00]
 
-MC:  ...of Jupyter (at broad) collaboration to develop open-source tools for interactive computing with a language agnostic design.  Thank you.
+RUTHE:  ...of Jupyter (at broad) collaboration to develop open-source tools for interactive computing with a language agnostic design.  Thank you.
 
 [APPLAUSE]
 
