@@ -23,7 +23,7 @@ Timestamps for this transcript follow the [original video](https://www.youtube.c
 
 ## Automatic transcriptions
 
-Timestamps for these transcripts follow the [edited video](https://www.youtube.com/watch?v=sBVYn0cIlWM)
+Timestamps for these transcripts follow the [edited video](https://www.youtube.com/watch?v=sBVYn0cIlWM).
 
 ### By [Otter.ai](https://otter.ai/)
 
