@@ -11,7 +11,7 @@ The files are exactly as received or exported from the applications.
 
 ## Professional transcription
 
-Tanscript produced by Eleanor Leonard of
+Tanscript produced by Ellie Leonard of
 [Red Pencil Transcripts LLC](http://www.redpenciltranscripts.com/),
 hired by Luciano Ramalho.
 
@@ -36,3 +36,13 @@ Timestamps for these transcripts follow the [edited video](https://www.youtube.c
 * full transcript: [`trint/language-creators.csv`](https://github.com/standupdev/language-creators/blob/master/trint/language-creators.csv)
 * SubRip universal subtitles: [`trint/language-creators.srt`](https://github.com/standupdev/language-creators/blob/master/trint/language-creators.srt)
 * Subtitles for HTML players: [`trint/language-creators.vtt`](https://github.com/standupdev/language-creators/blob/master/trint/language-creators.vtt)
+
+
+## Reference
+
+
+
+
+_New York Times_ story where I learned about Ellie Leonard, Otter.ai, and Trint.com:
+
+> [**In the Battle Against the Machines, She’s Holding Her Ground**](https://www.nytimes.com/2020/04/08/technology/ai-transcription-human-services.html): Ellie Leonard’s transcription business has thrived, despite the arrival of automated services and advancing A.I. technology.
