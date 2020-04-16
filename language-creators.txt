@@ -1,10 +1,4 @@
-﻿LUCIANO RAMALHO
-LANGUAGE-CREATORS.MP4
-
-
-START (LANGUAGE-CREATORS.MP4)
-
-[BEGIN PART I]
+﻿[BEGIN PART 1]
 
 [0:48:29]
 
@@ -386,11 +380,11 @@ CAROL:  Let's let Larry jump in and then (inaudible).
 
 LARRY:  I'll probably take over the whole [CROSSTALK]...
 
-JAMES:  So I really, really, really believe in that point, in the power tools for power geeks thing.  And one of the things that drives me nuts is the "real men use VI" movement.  And, you know, it's really - I just want to punch people who are, like, "Well, I'm a real..."
+JAMES:  So I really, really, really believe in that point, in the power tools for power geeks thing.  And one of the things that drives me nuts is the "real men use vi" movement.  And, you know, it's really - I just want to punch people who are, like, "Well, I'm a real..."
 
 CAROL:  There is no violence on stage.
 
-JAMES:  ..."I'm a real developer because I use VI."  And it's, like, you know...
+JAMES:  ..."I'm a real developer because I use vi."  And it's, like, you know...
 
 ANDERS:  "...because I do it the hard way."
 
@@ -408,9 +402,9 @@ JAMES:  [CROSSTALK] I'm into getting things done.
 
 CAROL:  Case and point.  But I'm going to take the devil's advocate here for a second.
 
-GUIDO:  Emax.
+GUIDO:  Emacs.
 
-CAROL:  Something like - Emax, okay, yeah.  The Jupyter Notebooks--a lot of science people - data scientists get a lot done in actually a pretty simplistic IDE with a dynamic language most of the time.  So...
+CAROL:  Something like - Emacs, okay, yeah.  The Jupyter Notebooks--a lot of science people - data scientists get a lot done in actually a pretty simplistic IDE with a dynamic language most of the time.  So...
 
 JAMES:  They could get a lot more done.
 
@@ -540,7 +534,7 @@ CAROL:  [CROSSTALK] You guys have been wonderful.
 
 [2:00:55]
 
-M:  ...each and every one of you has a community that is formed around the languages that you've created.  I'm curious if you would talk to ways in which you've seen the design choices you've made for your language shape the communities that formed around those languages.
+PARTICIPANT_1:  ...each and every one of you has a community that is formed around the languages that you've created.  I'm curious if you would talk to ways in which you've seen the design choices you've made for your language shape the communities that formed around those languages.
 
 [CROSSTALK]
 
@@ -624,19 +618,19 @@ LARRY:  But we'd like to think that, you know, all languages are sub-languages o
 
 CAROL:  Awesome.  Do we want to take another audience question?  All right.  Thanks.
 
-M:  Hi.
+PARTICIPANT_2:  Hi.
 
 CAROL:  Can you talk into the mic like you're eating the mic?
 
-M:  Hello?  Hi.  Yeah, can you hear me?
+PARTICIPANT_2:  Hello?  Hi.  Yeah, can you hear me?
 
 CAROL:  Yeah.
 
-M:  Great.  There's been a lot of talk tonight about the evolvability of languages and the trouble with implementing things that might not be backwards-compatible.  What's something that you wish you could have implemented with our language, but for that...
+PARTICIPANT_2:  Great.  There's been a lot of talk tonight about the evolvability of languages and the trouble with implementing things that might not be backwards-compatible.  What's something that you wish you could have implemented with our language, but for that...
 
 [2:10:00]
 
-M:  ...or maybe another reason it wasn't possible?
+PARTICIPANT_2:  ...or maybe another reason it wasn't possible?
 
 GUIDO:  Well, I have a (inaudible) I am sort of jealous of because it's appearing in more and more other languages.  It's (inaudible)-matching.  And I cannot come up with the right keyword because all the interesting keywords are already very popular method names for other forms of (inaudible)-matching.
 
@@ -668,11 +662,11 @@ LARRY:  Okay.  These are things that I could not fix in Perl 5, and we did fix i
 
 CAROL:  Oh yay, awesome.  All right, we do seem to be doing pretty well with the audience.  So how about another audience question?
 
-M:  Hi, hello there.  So, well, what I wanted to ask is you can serve notice these sort of (inaudible) effect in regards to tech and programming throughout time to (inaudible) different paradigms.  There's a certain time where people were, like, "Are we going to do things (imperatively)?  Are we going to go..."
+PARTICIPANT_3:  Hi, hello there.  So, well, what I wanted to ask is you can serve notice these sort of (inaudible) effect in regards to tech and programming throughout time to (inaudible) different paradigms.  There's a certain time where people were, like, "Are we going to do things (imperatively)?  Are we going to go..."
 
 [2:13:00]
 
-M:  "...object-oriented or functional?"  And for example, right now there's a whole bunch of languages that are sort of, like, very aggressively taking that standpoint of being very pro-being friendly with concurrency or being very over-jealous about (inaudible) with memory.  And I think that that kind of pendulum effect happens because technology has actually been evolving throughout time.  Our machines are, like, beefier and we have more memory now.  So the ways that we designed programming languages now are probably a lot different than they were 20 or 30 years ago.  So considering that, where do you think, or how do you think the programming languages ten years into the future are going to look like?  Or in your opinion where is language design headed to, like, in the future?
+PARTICIPANT_3:  "...object-oriented or functional?"  And for example, right now there's a whole bunch of languages that are sort of, like, very aggressively taking that standpoint of being very pro-being friendly with concurrency or being very over-jealous about (inaudible) with memory.  And I think that that kind of pendulum effect happens because technology has actually been evolving throughout time.  Our machines are, like, beefier and we have more memory now.  So the ways that we designed programming languages now are probably a lot different than they were 20 or 30 years ago.  So considering that, where do you think, or how do you think the programming languages ten years into the future are going to look like?  Or in your opinion where is language design headed to, like, in the future?
 
 JAMES:  So my favorite candidate for that...
 
@@ -698,19 +692,19 @@ ANDERS:  ...at the same speed as, like, hardware or, like, all of the other tech
 
 ANDERS:  And I think we're all learning a lot from functional-programming languages these days; I certainly feel like I am.  Because a lot of interesting research has happened there.  But functional programming is imperfect, and no one writes pure functional programs.  I mean, because they don't exist.  So it's all about, like, how can you tastefully sneak in mutation in ways that you can better reason about, as opposed to mutation and free-threading for everyone, you know?  And that's, like, just a recipe for disaster, right?  So...
 
-M:  (Inaudible) on the functional (inaudible)?
+PARTICIPANT_3:  (Inaudible) on the functional (inaudible)?
 
 [LAUGHTER]
 
 ANDERS:  All languages are imperfect, let's just settle it right there, you know? [LAUGHTER]
 
-M:  (Inaudible) all languages, I think in the late '70s I heard a saying that said, "We don't know what the language of the future will look like, but we know what it will be called, and it'll be called 'Fortran.'"
+PARTICIPANT_3:  (Inaudible) all languages, I think in the late '70s I heard a saying that said, "We don't know what the language of the future will look like, but we know what it will be called, and it'll be called 'Fortran.'"
 
 [LAUGHTER]
 
 [2:18:00]
 
-M:  I started (wanting to take that) as a (humbling) lesson.
+PARTICIPANT_3:  I started (wanting to take that) as a (humbling) lesson.
 
 LARRY:  Yes.  We've been thinking a lot about the parallels and concurrency issue.  This is one of those issues where we were waiting to be smarter.  We did borrow, I mean, steal, a bunch of ideas from Pascal in terms of lazy lists and things like that.  But in terms of how you actually are going to deal with the end of Moore's Law--or if not the end of Moore's Law, at least, you know, multi CPUs, many - you know, many (cores)--when you've got a thousand (cores) what are you going to do with them?  And so a lot of our early design on Perl 6 was - we didn't understand how we wanted to do it yet, but we knew very - we knew very deeply that we didn't want...
 
@@ -774,7 +768,7 @@ LARRY:  That's a whole level above even the individual relationships I feel, to 
 
 CAROL:  Completely agree.  Guido, you get the last word.
 
-GUIDO:  I love learning from (inaudible).
+GUIDO:  I love learning from the community.
 
 CAROL:  And we love learning from you as well.  And with that I want to say we've all learned so much from all of our wonderful panelists tonight.  I want to thank you for allowing me to share and celebrate this moment with you.  The little fifth-grade kid in me that was plinking away on BASIC at Bell Labs, who later watched the PC cell phone, internet, web and Cloud computing change our world, never dreamed that I would be chatting with four individuals who profoundly impacted our world by doing what they...
 
@@ -788,20 +782,4 @@ ANDERS:  And thank you, Carol.
 
 [2:24:22]
 
-END (LANGUAGE-CREATORS.MP4)
-
-
-
-
-
-
-
-
-
-
-
-2
-[LUCIANO RAMALHO]		Red Pencil Transcripts LLC
-[LANGUAGE-CREATORS.MP4]		Lolo, MT 59847
-		(406) 240-2448
-
+[END]
