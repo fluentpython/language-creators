@@ -1,0 +1,89 @@
+Notes for filling in the language-creators VTT file
+
+MDN spec for VTT files is here: https://developer.mozilla.org/en-US/docs/Web/API/WebVTT_API
+
+The file we're filling in is based on trint/language-creators.vtt for the edited
+version of the video, which has none of the opening remarks material. That file is 
+already properly formatted VTT, we mostly need to proofread and fill in some gaps. 
+When this is complete, the complete video's VTT file can have the same process and
+a simple script can be run to ensure the proper numbering of the segments.
+
+The transcribed file has the entirety of the audio, therefore you will need
+to cross reference the start of your block of time. 
+The first section the VTT's 00:00:00 is at 48:29 of the transcription
+BEGIN PART 2 in the VTT is at 51:55 which corresponds to 2:00:55 in the transcription.
+I have tried to leave useful markers in the file, using NOTE (see below).
+
+Key points: 
+Always identify the speaker. There are six participants with crosstalk 
+plus audience questions
+
+NOTE (all caps) can be used inline (as this line is)
+or it can be used for a block
+NOTE 
+this is the first line of a block of notes
+this is the second line in a block of notes
+avoid special characters in notes
+see the MDN link above for specifics
+
+
+Proofreading notes: 
+Each segment must be numbered and must use the fewest digits (e.g. 1 not 001)
+
+It is OK to remove segments from the VTT so long as the segment numbers remain in 
+order, see example below.
+
+For consistency times must be in HH:MM:SS.TTT format as this file entends past an hour
+timestamps must be written completely as HH:MM:SS.TTT --> HH:MM:SS.TTT
+
+Times do not have to be contiguous
+00:00:00.000 --> 00:00:03.00
+00:00:09.050 --> 00:00:11.250 
+skipping six seconds is fine
+
+However, leaving captions/subtitles on screen during silences allows the reader
+an opportunity to thoroughly read the text
+
+Two lines of text that use the center 50% of the screen is usually as much as a reader
+can handle in a few seconds. On the other hand short captions that flash in an 
+instant can be disorienting and difficult to keep up with. 
+
+For example: 
+
+1672
+01:00:41.190 --> 01:00:42.190
+CAROL Yeah.
+
+1673
+01:00:42.380 --> 01:00:43.879
+[Participant 2] Great. There's been a lot of talk tonight
+
+1674
+01:00:43.880 --> 01:00:45.559
+[Participant 2] about the evolvability of
+
+1675
+01:00:45.560 --> 01:00:46.999
+[Participant 2] languages and
+
+Is probably more comfortable as:
+
+1672
+01:00:41.190 --> 01:00:43.879
+CAROL Yeah.
+
+[Participant 2] Great. There's been a lot of talk tonight
+
+1674
+01:00:43.880 --> 01:00:46.999
+[Participant 2] about the evolvability of
+languages and
+
+YouTube keyboard commands
+SPACE un/pauses
+ARROW LEFT/RIGHT back and forward 5 seconds
+COMMA (,) back 1/30th second*
+PERION (.) forward 1/30th second*
+
+* these two are useful when you're within the five seconds you're trying to 
+confirm. Holding them will let you pan through the video in very slow motion
